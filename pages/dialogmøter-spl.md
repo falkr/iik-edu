@@ -6,9 +6,9 @@ As study program leader, dialog meetings are the main mechanism to get informati
 
 Of course, you can also use the opportunity to ask any questions to students.
 
-* Frequency: 3 timers per semester
-* Participants: SPL, KTV student of each cohort
-* Duration: Usually around 45 minutes
+* **Frequency:** 3 timers per semester
+* **Participants:** SPL, KTV student of each cohort
+* **Duration:** Usually around 45 minutes
 
 
 ## Tips
