@@ -5,7 +5,7 @@
 * [Studies at IIK](https://innsida.ntnu.no/wiki/-/wiki/English/Studies+at+IIK)
 
 
-## Tools
+### Tools
 
 * [Blackboard](https://innsida.ntnu.no/blackboard)
 * [Inspera](https://ntnu.inspera.no/admin)
