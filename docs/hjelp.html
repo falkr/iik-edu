@@ -13,8 +13,10 @@
     <!-- Custom styles for this template -->
     <link href="https://fonts.googleapis.com/css?family=Playfair&#43;Display:700,900&amp;display=swap" rel="stylesheet">
     <link href="assets/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/bootstrap-icons.css">
 <script src="assets/anchor.js"></script>
-<style type="text/css"></style>
+<style type="text/css">
+</style>
 </head>
   <body>
     
@@ -40,13 +42,22 @@
 <a class="nav-link" href="index.html" style="font-weight: bold; color:white")>edu.<span style="font-weight:200">iik.ntnu.no</span></a>
 </li>
 </ul>
-
-
 </div>
-
-
-     
-     
+<div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
+  <ul class="navbar-nav">
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">Systems</a>
+      <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
+        <li><a class="dropdown-item" href="https://innsida.ntnu.no/blackboard">Blackboard</a></li>
+        <li><a class="dropdown-item" href="https://ntnu.inspera.no/admin">Inspera</a></li>
+        <li><a class="dropdown-item" href="https://fsweb.no/epn/velgInstitusjon.jsf?inst=ntnu">EPN - Emner på nett</a></li>
+        <li><a class="dropdown-item" href="https://fsweb.no/fagpersonweb/login.jsf?inst=fsntnu">Fagpersonweb</a></li>
+        <li><a class="dropdown-item" href="https://studntnu.sharepoint.com/sites/studieplanlegging">Kasper</a></li>
+        <li><a class="dropdown-item" href="https://innsida.ntnu.no/ntnuhjelp">NTNU Help</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>
 </nav>
 
 
@@ -59,22 +70,23 @@
         <div class="p-4">
           <ul class="list-unstyled ps-0">
             <li class="mb-1">
-              <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#home-collapse" aria-expanded="true">Teaching a Course</button>
+              <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#home-collapse" aria-expanded="true">Courses</button>
               <div class="collapse show" id="home-collapse">
                 <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
-                  <li><a href="emneansvarlig.html" class="link-dark rounded">Overview</a></li>
+                  <li><a href="emneansvarlig.html" class="link-dark rounded">Course Responsible</a></li>
                   <li><a href="referansegruppe.html" class="link-dark rounded">Reference Group</a></li>
                   <li><a href="vurdering.html" class="link-dark rounded">Assessment</a></li>
                 </ul>
               </div>
             </li>
             <li class="mb-1">
-              <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#dashboard-collapse" aria-expanded="true">Study Program</button>
+              <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#dashboard-collapse" aria-expanded="true">Study Programs</button>
               <div class="collapse show" id="dashboard-collapse">
                 <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
-                  <li><a href="studieprogramleder.html" class="link-dark rounded">Overview</a></li>
+                  <li><a href="studieprogramleder.html" class="link-dark rounded">Study Program Leader</a></li>
                   <li><a href="dialogmøter-spl.html" class="link-dark rounded">Dialog Meetings</a></li>
                   <li><a href="studentkontakt.html" class="link-dark rounded">Contact Students</a></li>
+                  <li><a href="mtkom.html" class="link-dark rounded">MTKOM</a></li>
                 </ul>
               </div>
             </li>
@@ -107,20 +119,61 @@
       
       <div class="page">
     <section class="content">
-<p>EpN and Quality assurance Laurent Paquereau (T) Hilde Bakke (G), Tonje Strøm Trønnes (G)</p>
-<p>Exam administration Liv Karen Stubberud (T) Local exam office (G) eksamen@gjovik.ntnu.no Digital exam administration (Inspera): Liv Karen Stubberud (T) Inger Åshild Heggstad (G) Deadlines: Liv Karen Stubberud (T) Laila Skiaker (G)</p>
-<p>Evaluation Liv Karen Stubberud (T)</p>
-<p>Complaints Liv Karen Stubberud (T)</p>
-<p>Sensor contact Liv Karen Stubberud (T) Hilde Bakke (G) External evaluation at Gjøvik: Lise Myrsveen (G) eksamen@gjovik.ntnu.no</p>
-<p>Blackboard administration Liv Karen Stubberud (T) Hilde Bakke (G)</p>
-<p>Academic counselling MTKOM, MSTCNNS, MSSECCLO, (PHISCT): Laurent Paquereau (T) MIS, MIS-D: Hilde Bakke (G) MISEB, BDIGSEC: Tonje Strøm Trønnes (G)</p>
-<p>International students Student exchange and double degrees: Laurent Paquereau (T) SECCLO-students: Maria Sofie Sortvik Barosen (T)</p>
+<ul>
+<li><p>EpN and Quality assurance</p>
+<ul>
+<li>Laurent Paquereau (T)</li>
+<li>Hilde Bakke (G), Tonje Strøm Trønnes (G)</li>
+</ul></li>
+<li><p>Exam administration</p>
+<ul>
+<li>Liv Karen Stubberud (T) Local exam office (G) eksamen@gjovik.ntnu.no Digital exam administration (Inspera): Liv Karen Stubberud (T) Inger Åshild Heggstad (G)</li>
+</ul></li>
+<li><p>Deadlines:</p>
+<ul>
+<li>Liv Karen Stubberud (T)</li>
+<li>Laila Skiaker (G)</li>
+</ul></li>
+<li><p>Evaluation</p>
+<ul>
+<li>Liv Karen Stubberud (T)</li>
+</ul></li>
+<li><p>Complaints Liv Karen Stubberud (T)</p></li>
+<li><p>Sensor contact Liv Karen Stubberud (T) Hilde Bakke (G)</p></li>
+<li><p>External evaluation at Gjøvik: Lise Myrsveen (G) eksamen@gjovik.ntnu.no</p></li>
+<li><p>Blackboard administration Liv Karen Stubberud (T) Hilde Bakke (G)</p></li>
+</ul>
+<h3 id="academic-counselling">Academic counselling</h3>
+<ul>
+<li>MTKOM, MSTCNNS, MSSECCLO, (PHISCT):
+<ul>
+<li>Laurent Paquereau (T)</li>
+</ul></li>
+<li>MIS, MIS-D:
+<ul>
+<li>Hilde Bakke (G)</li>
+</ul></li>
+<li>MISEB, BDIGSEC:
+<ul>
+<li>Tonje Strøm Trønnes (G)</li>
+</ul></li>
+</ul>
+<h3 id="international-students">International students</h3>
+<ul>
+<li>Student exchange and double degrees: Laurent Paquereau (T) SECCLO-students: Maria Sofie Sortvik Barosen (T)</li>
+</ul>
 <p>Bachelor’s theses Katrine Moe (G), Tonje Strøm Trønnes (G)</p>
 <p>Master’s theses Coordination and planning: Laurent Paquereau (T) Hilde Bakke (G) Agreements: Liv Karen Stubberud (T) Hilde Bakke (G)</p>
 <p>Specialization projects Coordination and planning: Laurent Paquereau (T) Hilde Bakke (G)</p>
 <p>Contact for student organizations Hilde Bakke (G) Maria Sofie Sortvik Barosen (T)</p>
-<p>PhD Duty work follow up: Katrine Moe (G) Maria Sofie Sortvik Barosen (T), Mona Nordaune (T) Mid-term evaluation administrative support: Katrine Moe (G) Defense planning: Katrine Moe (G) Maria Sofie Sortvik Barosen (T), Mona Nordaune (T)</p>
-<p>Student/Teaching Assistants Agreements and general administrative support: Maria Sofie Sortvik Barosen (T) Linda Derawi (G)</p>
+<h3 id="phd">PhD</h3>
+<ul>
+<li>Duty work follow up: Katrine Moe (G) Maria Sofie Sortvik Barosen (T), Mona Nordaune (T)</li>
+<li>Mid-term evaluation administrative support: Katrine Moe (G)</li>
+<li>Defense planning: Katrine Moe (G) Maria Sofie Sortvik Barosen (T), Mona Nordaune (T)</li>
+</ul>
+<h3 id="studentteaching-assistants">Student/Teaching Assistants</h3>
+<p>Agreements and general administrative support: Maria Sofie Sortvik Barosen (T) Linda Derawi (G)</p>
     </section>
 </div>
 
