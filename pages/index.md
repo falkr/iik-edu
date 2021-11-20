@@ -14,7 +14,7 @@
 * [Kasper](https://studntnu.sharepoint.com/sites/studieplanlegging)
 * [NTNU Help](https://innsida.ntnu.no/ntnuhjelp)
 * [Undervisningsstøtte](https://innsida.ntnu.no/en/undervisningsstotte)
-
+* [Studiekvalitetsportalen](https://innsida.ntnu.no/studiekvalitetsportalen/) Published course and study program reports
 
 
 ### Laws and Regulations
@@ -23,6 +23,7 @@
 * [Forskrift om tilsyn med utdanningskvaliteten i høyere utdanning (studietilsynsforskriften)](https://lovdata.no/dokument/SF/forskrift/2017-02-07-137)
 * [Styringsreglement NTNU](https://innsida.ntnu.no/wiki/-/wiki/Norsk/Styringsreglement)
 * [Lover og reglementer](https://innsida.ntnu.no/wiki/-/wiki/Norsk/lover+og+reglementer)
+* [Generelle lover og regler](https://innsida.ntnu.no/wiki/-/wiki/Norsk/Generelle+lover+og+regler+-+studier)
 
 
 

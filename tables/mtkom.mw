@@ -1,0 +1,41 @@
+{|
+|- 
+! rowspan="2" class="year"| 1
+! høst
+| class="e1" | [TTM4175](https://www.ntnu.no/studier/emner/TTM4175)<br />Kommunikasjonsteknologi og digital sikkerhet, intro
+| class="e2" | [TDT4109](https://www.ntnu.no/studier/emner/TDT4109)<br />Informasjonsteknologi,<br />intro
+| class="e3" | [TMA4140](https://www.ntnu.no/studier/emner/TMA4140)<br />Diskret<br />matematikk
+| class="e3" | [TMA4100](https://www.ntnu.no/studier/emner/TMA4100)<br />Matematikk 1
+|-
+! vår
+| class="e1" | [TTM4200](https://www.ntnu.no/studier/emner/TTM4200)<br />Datanettverk
+| class="e2" | [TDT4100](https://www.ntnu.no/studier/emner/TDT4100)<br />Objektorientert<br />programmering
+| class="e3" | [TFY4125](https://www.ntnu.no/studier/emner/TFY4125)<br />Fysikk
+| class="e3" | [TMA4115](https://www.ntnu.no/studier/emner/TMA4115)<br />Matematikk 3
+|-
+! rowspan="2" class="year"| 2
+! høst
+| class="e1" | [TTM4185](https://www.ntnu.no/studier/emner/TTM4185)<br />Sikkerhet og robusthet<br />i IKT system
+| class="e1" | [TTM4165](https://www.ntnu.no/studier/emner/TTM4165)<br />Digital økonomi
+| class="e2" | [TDT4120](https://www.ntnu.no/studier/emner/TDT4120)<br />Algoritmer<br />og datastrukturer
+| class="e3" | [TMA4135](https://www.ntnu.no/studier/emner/TMA4135)<br />Matematikk 4D
+|-
+! vår
+| class="e1" | [TTM4180](https://www.ntnu.no/studier/emner/TTM4180)<br />Nettverkshåndtering
+| class="e2" | [TFE4101](https://www.ntnu.no/studier/emner/TFE4101)<br />Krets- og digitalteknikk
+| class="e2" | [TDT4145](https://www.ntnu.no/studier/emner/TDT4145)<br />Datamodellering og databasesystemer
+| class="e3" | [TMA4245](https://www.ntnu.no/studier/emner/TMA4245)<br />Statistikk
+|-
+! rowspan="2" class="year"| 3
+! høst
+| class="e1" | [TTM4105](https://www.ntnu.no/studier/emner/TTM4105)<br />Aksess- og<br />transportnett
+| class="e1" | [TTM4110](https://www.ntnu.no/studier/emner/TTM4110)<br />Pålitelighet og ytelse<br />med simulering
+| class="e2" | [TDT4160](https://www.ntnu.no/studier/emner/TDT4160)<br />Datamaskiner og digitalteknikk
+| class="e4" | [TIØ4252](https://www.ntnu.no/studier/emner/TIØ4252)<br />Teknologiledelse
+|-
+! vår
+| class="e1" | [TTM4115](https://www.ntnu.no/studier/emner/TTM4115)<br />Design av kommuniserende systemer
+| class="e1" | [TTM4133](https://www.ntnu.no/studier/emner/TTM4133)<br />Mobile nett og tjenester
+| class="e1" | [TTM4135](https://www.ntnu.no/studier/emner/TTM4135)<br />Anvendt kryptografi og<br />nettverksikkerhet
+| class="e4" | [EXPH0004](https://www.ntnu.no/studier/emner/EXPH0004)<br />Examen philosophicum<br />for nat. og teknologi
+|}
