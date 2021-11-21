@@ -2,6 +2,12 @@
 
 A class coordinators (_kullkoordinator_) is a dedicated teacher per student cohort, often a teacher that also teaches a course for that cohort. Class teachers act as an academic contact point for a cohort of students. They focus on the learning environment for the students from their perspective as a cohort, across the courses. Class contacts work closely together with the contact students, study program leader (SPL), study advisors and other administrative staff. Cohort coordinators stay with a specific study year, that means, students get a new cohort coordinator as they progress.
 
+---
+type: table
+file: tables/kullkoordinatorer.mw
+---
+
+
 ## Tasks and Role
 
 For some teachers, their specific tasks are first not clear, as they are not more specific than keeping a dialog with the students in the three cohort meetings during the semester. The roles can also be interpreted individually and following the requirements of that cohort. Most cohort coordinators find their role after the first meeting and feel then comfortable with it. It's a role that is best experienced in practice but hard to describe in words. In particular, a cohort coordinator does not replace functions carried out by study advisors or other roles.

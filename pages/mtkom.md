@@ -1,4 +1,4 @@
-# Emnevegg
+# Kommunikasjonsteknologi og digital sikkerhet (MTKOM)
 
 
 Denne siden illustrerer og forklarer studieplanen ved hjelp av emnevegger. Fullstendig, oppdatert og gjeldende studieplan finner du [her](https://www.ntnu.no/studier/mtkom/oppbygging).

@@ -8,7 +8,9 @@
 
 table p {
   margin-bottom: 0;
+  font-size: 0.7rem;
 }
+  
 
 body {
   font-family: "Open Sans", sans-serif;
@@ -35,6 +37,9 @@ a {
   padding-left: 0px
 }
 
+.page a {
+  color: #00509e;
+}
 
 
 h1 {
@@ -48,6 +53,7 @@ h2 {
   font-size: 1.3em;
   font-weight: 300;
   margin-top: 3em;
+  xborder-bottom: 1px solid #8EA9C2;
 }
 
 h3 {
@@ -55,4 +61,3 @@ h3 {
   font-weight: 300;
   margin-top: 3em;
 }
-  
