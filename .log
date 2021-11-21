@@ -5,6 +5,7 @@ Found extension TaskParagraphExtension
 Found extension WeekplanTableClassExtension
 Found extension VideoExtension
 Found extension WarningParagraphExtension
+Found extension TipsParagraphExtension
 Found extension HintExtension
 Found extension HintParagraphExtension
 Found extension CheckParagraphExtension
@@ -22,5 +23,6 @@ Found extension GoalsParagraphExtension
 Found extension ReportParagraphExtension
 Found extension DeliveryParagraphExtension
 Found extension AbstractParagraphExtension
+Found extension TipsParagraphExtension
 Found extension FactBoxParagraphExtension
 Loading template /home/runner/work/iik-edu/iik-edu/templates/page.html.

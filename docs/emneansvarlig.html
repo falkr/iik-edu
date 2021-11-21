@@ -15,7 +15,38 @@
     <link href="assets/style.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/bootstrap-icons.css">
 <script src="assets/anchor.js"></script>
-<style type="text/css">
+<style type="text/css">div.checklistbox {
+  width: 18rem;
+  float: right;
+  padding: 10px;
+  margin-left: 10px;
+  background-color: #EFF7FF;
+  border-radius: 0px;
+  border-top: 6px solid #00509e
+  }
+  
+div.checklistbox::before { 
+  content: "Checklist:";
+  font-weight: bold;
+  padding: 0px 0 12px 0;
+  display: block;
+  color: #00509e;
+  }
+
+div.checklistbox ul li:before {
+  content: '\f26a';
+  font-family: bootstrap-icons !important;
+  float: left;
+  margin-left: -1.5em;
+  color: #00509e;
+  line-height: 1.5rem;
+}
+
+
+div.checklistbox ul {
+  list-style-type: none;
+}
+
 </style>
 </head>
   <body>
@@ -74,7 +105,7 @@
               <div class="collapse show" id="home-collapse">
                 <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
                   <li><a href="emneansvarlig.html" class="link-dark rounded">Course Responsible</a></li>
-                  <li><a href="referansegruppe.html" class="link-dark rounded">Reference Group</a></li>
+                  <li><a href="referansegruppe.html" class="link-dark rounded">Reference Groups</a></li>
                   <li><a href="vurdering.html" class="link-dark rounded">Assessment</a></li>
                 </ul>
               </div>
@@ -83,7 +114,7 @@
               <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#dashboard-collapse" aria-expanded="true">Study Programs</button>
               <div class="collapse show" id="dashboard-collapse">
                 <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
-                  <li><a href="studieprogramleder.html" class="link-dark rounded">Study Program Leader</a></li>
+                  <li><a href="studieprogramleder.html" class="link-dark rounded">Study Program Leaders</a></li>
                   <li><a href="dialogmøter-spl.html" class="link-dark rounded">Dialog Meetings</a></li>
                   <li><a href="studentkontakt.html" class="link-dark rounded">Contact Students</a></li>
                   <li><a href="mtkom.html" class="link-dark rounded">MTKOM</a></li>
@@ -91,11 +122,11 @@
               </div>
             </li>
             <li class="mb-1">
-              <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#orders-collapse" aria-expanded="true">Cohort Coordinators
+              <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#orders-collapse" aria-expanded="true">Cohorts
               </button>
               <div class="collapse show" id="orders-collapse">
                 <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
-                  <li><a href="kullkoordinator.html" class="link-dark rounded">Overview</a></li>
+                  <li><a href="kullkoordinator.html" class="link-dark rounded">Cohort Coordinators</a></li>
                   <li><a href="studentkontakt.html" class="link-dark rounded">Contact Students</a></li>
                 </ul>
               </div>
@@ -121,18 +152,24 @@
     </section>
     <section class="content">
 <h1 id="course-responsible">Course Responsible</h1>
+<div class="checklistbox"><ul>
+<li><a href="https://innsida.ntnu.no/emneansvarlig">Read NTNUs Guide for Course Responsibles</a></li>
+<li>Create a reference group, they are mandatory at IIK.</li>
+<li>Deliver the course report.</li>
+</ul></div>
 <ul>
 <li><a href="https://innsida.ntnu.no/emneansvarlig">NTNU Wiki for Course Responsibles</a></li>
 </ul>
-    </section>
-    <section class="content">
-<h1 id="course-survey">Course Survey</h1>
+<h2 id="yearly-wheel">Yearly Wheel</h2>
+<h2 id="reference-groups">Reference Groups</h2>
+<h2 id="course-survey">Course Survey</h2>
 <ul>
 <li>At the end of the semester, IIK dispatches a survey about the course quality.</li>
 <li>Course responsibles do not have to do anything extra.</li>
 <li>You will receive the results by email. They are, in addition to the reference groups report and your own observations, basis for the course report.</li>
 <li><a href="emneundersøkelse.html">More details on the course survey</a>.</li>
 </ul>
+<h2 id="course-report">Course Report</h2>
     </section>
 </div>
 

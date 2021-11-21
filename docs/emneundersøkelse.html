@@ -15,7 +15,38 @@
     <link href="assets/style.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/bootstrap-icons.css">
 <script src="assets/anchor.js"></script>
-<style type="text/css">table.coursetable td {
+<style type="text/css">div.checklistbox {
+  width: 18rem;
+  float: right;
+  padding: 10px;
+  margin-left: 10px;
+  background-color: #EFF7FF;
+  border-radius: 0px;
+  border-top: 6px solid #00509e
+  }
+  
+div.checklistbox::before { 
+  content: "Checklist:";
+  font-weight: bold;
+  padding: 0px 0 12px 0;
+  display: block;
+  color: #00509e;
+  }
+
+div.checklistbox ul li:before {
+  content: '\f26a';
+  font-family: bootstrap-icons !important;
+  float: left;
+  margin-left: -1.5em;
+  color: #00509e;
+  line-height: 1.5rem;
+}
+
+
+div.checklistbox ul {
+  list-style-type: none;
+}
+table.coursetable td {
   font-size:0.6rem;
 }
 
@@ -59,6 +90,36 @@ table.coursetable td.e3 {
 
 table.coursetable td.e4 {
   background-color: #e3bcda;
+}
+
+div.tipsbox {
+  padding: 12px;
+  background-color: #EFF7FF;
+  border-radius: 0px;
+  border-top: 6px solid #00509e;
+  margin: 1rem 0 1rem 0;
+  }
+  
+div.tipsbox::before { 
+  content: "Tips:";
+  font-weight: bold;
+  display: block;
+  color: #00509e;
+  padding: 0px 0 12px 0;
+  }
+
+div.tipsbox ul li:before {
+  content: '\f26a';
+  font-family: bootstrap-icons !important;
+  float: left;
+  margin-left: -1.5em;
+  color: #00509e;
+  line-height: 1.5rem;
+}
+
+
+div.tipsbox ul {
+  list-style-type: none;
 }
 
 </style>
@@ -119,7 +180,7 @@ table.coursetable td.e4 {
               <div class="collapse show" id="home-collapse">
                 <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
                   <li><a href="emneansvarlig.html" class="link-dark rounded">Course Responsible</a></li>
-                  <li><a href="referansegruppe.html" class="link-dark rounded">Reference Group</a></li>
+                  <li><a href="referansegruppe.html" class="link-dark rounded">Reference Groups</a></li>
                   <li><a href="vurdering.html" class="link-dark rounded">Assessment</a></li>
                 </ul>
               </div>
@@ -128,7 +189,7 @@ table.coursetable td.e4 {
               <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#dashboard-collapse" aria-expanded="true">Study Programs</button>
               <div class="collapse show" id="dashboard-collapse">
                 <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
-                  <li><a href="studieprogramleder.html" class="link-dark rounded">Study Program Leader</a></li>
+                  <li><a href="studieprogramleder.html" class="link-dark rounded">Study Program Leaders</a></li>
                   <li><a href="dialogmøter-spl.html" class="link-dark rounded">Dialog Meetings</a></li>
                   <li><a href="studentkontakt.html" class="link-dark rounded">Contact Students</a></li>
                   <li><a href="mtkom.html" class="link-dark rounded">MTKOM</a></li>
@@ -136,11 +197,11 @@ table.coursetable td.e4 {
               </div>
             </li>
             <li class="mb-1">
-              <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#orders-collapse" aria-expanded="true">Cohort Coordinators
+              <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#orders-collapse" aria-expanded="true">Cohorts
               </button>
               <div class="collapse show" id="orders-collapse">
                 <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
-                  <li><a href="kullkoordinator.html" class="link-dark rounded">Overview</a></li>
+                  <li><a href="kullkoordinator.html" class="link-dark rounded">Cohort Coordinators</a></li>
                   <li><a href="studentkontakt.html" class="link-dark rounded">Contact Students</a></li>
                 </ul>
               </div>

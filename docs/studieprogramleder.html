@@ -15,7 +15,67 @@
     <link href="assets/style.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/bootstrap-icons.css">
 <script src="assets/anchor.js"></script>
-<style type="text/css">
+<style type="text/css">div.checklistbox {
+  width: 18rem;
+  float: right;
+  padding: 10px;
+  margin-left: 10px;
+  background-color: #EFF7FF;
+  border-radius: 0px;
+  border-top: 6px solid #00509e
+  }
+  
+div.checklistbox::before { 
+  content: "Checklist:";
+  font-weight: bold;
+  padding: 0px 0 12px 0;
+  display: block;
+  color: #00509e;
+  }
+
+div.checklistbox ul li:before {
+  content: '\f26a';
+  font-family: bootstrap-icons !important;
+  float: left;
+  margin-left: -1.5em;
+  color: #00509e;
+  line-height: 1.5rem;
+}
+
+
+div.checklistbox ul {
+  list-style-type: none;
+}
+
+div.tipsbox {
+  padding: 12px;
+  background-color: #EFF7FF;
+  border-radius: 0px;
+  border-top: 6px solid #00509e;
+  margin: 1rem 0 1rem 0;
+  }
+  
+div.tipsbox::before { 
+  content: "Tips:";
+  font-weight: bold;
+  display: block;
+  color: #00509e;
+  padding: 0px 0 12px 0;
+  }
+
+div.tipsbox ul li:before {
+  content: '\f26a';
+  font-family: bootstrap-icons !important;
+  float: left;
+  margin-left: -1.5em;
+  color: #00509e;
+  line-height: 1.5rem;
+}
+
+
+div.tipsbox ul {
+  list-style-type: none;
+}
 </style>
 </head>
   <body>
@@ -74,7 +134,7 @@
               <div class="collapse show" id="home-collapse">
                 <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
                   <li><a href="emneansvarlig.html" class="link-dark rounded">Course Responsible</a></li>
-                  <li><a href="referansegruppe.html" class="link-dark rounded">Reference Group</a></li>
+                  <li><a href="referansegruppe.html" class="link-dark rounded">Reference Groups</a></li>
                   <li><a href="vurdering.html" class="link-dark rounded">Assessment</a></li>
                 </ul>
               </div>
@@ -83,7 +143,7 @@
               <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#dashboard-collapse" aria-expanded="true">Study Programs</button>
               <div class="collapse show" id="dashboard-collapse">
                 <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
-                  <li><a href="studieprogramleder.html" class="link-dark rounded">Study Program Leader</a></li>
+                  <li><a href="studieprogramleder.html" class="link-dark rounded">Study Program Leaders</a></li>
                   <li><a href="dialogmøter-spl.html" class="link-dark rounded">Dialog Meetings</a></li>
                   <li><a href="studentkontakt.html" class="link-dark rounded">Contact Students</a></li>
                   <li><a href="mtkom.html" class="link-dark rounded">MTKOM</a></li>
@@ -91,11 +151,11 @@
               </div>
             </li>
             <li class="mb-1">
-              <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#orders-collapse" aria-expanded="true">Cohort Coordinators
+              <button class="btn btn-toggle align-items-center rounded collapsed" data-bs-toggle="collapse" data-bs-target="#orders-collapse" aria-expanded="true">Cohorts
               </button>
               <div class="collapse show" id="orders-collapse">
                 <ul class="btn-toggle-nav list-unstyled fw-normal pb-1 small">
-                  <li><a href="kullkoordinator.html" class="link-dark rounded">Overview</a></li>
+                  <li><a href="kullkoordinator.html" class="link-dark rounded">Cohort Coordinators</a></li>
                   <li><a href="studentkontakt.html" class="link-dark rounded">Contact Students</a></li>
                 </ul>
               </div>
@@ -121,6 +181,65 @@
     </section>
     <section class="content">
 <h1 id="study-program-leaders">Study Program Leaders</h1>
+<table class="table table-sm">
+<tr>
+<th><p>Study Program</p></th>
+<th><p>Degree</p></th>
+<th><p>Years</p></th>
+<th><p>Campus</p></th>
+<th><p>Study Program Leader</p></th>
+</tr>
+<tr>
+<td><p>Communication Technology and Digital Security (MTKOM)</p></td>
+<td><p>Master / sivilingeniør</p></td>
+<td><p>5</p></td>
+<td><p>Trondheim</p></td>
+<td><p>Anamaria Costache</p></td>
+</tr>
+<tr>
+<td><p>Digital Infrastructure and Cyber Security (BDIGSEC)</p></td>
+<td><p>Bachelor</p></td>
+<td><p>3</p></td>
+<td><p>Gjøvik</p></td>
+<td><p>Erik Hjelmås</p></td>
+</tr>
+<tr>
+<td><p>Digital Infrastructure and Cyber Security (MSTCNNS)</p></td>
+<td><p>Master</p></td>
+<td><p>2</p></td>
+<td><p>Trondheim</p></td>
+<td><p>Yuming Jiang</p></td>
+</tr>
+<tr>
+<td><p>Information Security (MIS, MIS-D)</p></td>
+<td><p>Master</p></td>
+<td><p>2</p></td>
+<td><p>Gjøvik</p></td>
+<td><p>Sule Yildirim Yayilgan</p></td>
+</tr>
+<tr>
+<td><p>Information Security, experience-based (MISEB)</p></td>
+<td><p>Master</p></td>
+<td><p>1,5</p></td>
+<td><p>Gjøvik</p></td>
+<td><p>Erjon Zoto</p></td>
+</tr>
+<tr>
+<td><p>Security and Cloud Computing (MSSECCLO)</p></td>
+<td><p>Master / Erasmus Mundus</p></td>
+<td><p>2</p></td>
+<td><p>Trondheim</p></td>
+<td><p>Danilo Gligoroski</p></td>
+</tr>
+<tr>
+<td><p>Industriell innovasjon og digital sikkerhet (MIIDS)</p></td>
+<td><p>Master</p></td>
+<td><p>2</p></td>
+<td><p>Gjøvik</p></td>
+<td><p>Harald Øverby (deputy)</p></td>
+</tr>
+</table>
+<h2 id="mandate-and-tasks">Mandate and Tasks</h2>
 <ul>
 <li><a href="https://innsida.ntnu.no/wiki/-/wiki/Norsk/ledelse+av+studieprogram">NTNU mandate for study program leaders</a></li>
 </ul>
