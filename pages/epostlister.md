@@ -1,22 +1,4 @@
-
-
-Context:
-
-* All students in teaching positions that directly communicate with students must fulfill the LAOS program.
-* The program covers basic pedagogic principles and offer several optional modules students can select.
-* See [LAOS](https://innsida.ntnu.no/wiki/-/wiki/Norsk/laos+-+opplæring+for+læringsassistenter).
-* Part of this program is a course-specific part, scheduled in total for 6 hours.
-* The department pays the students for these 6 hours.
-
-
-Content of this guide:
-
-* Intention of this guide is to offer optional coordination for some of these course-specific parts across the study programs at IIK where possible.
-    * The challenge is the selection of focus: If parts are too generic, they are (or should be) handled by the generic LAOS course, and if they are too specific, they need to be handled for each individual course separately.
-* In principle, it is up to the course teacher to decide how these 6 hours should be spent for the students, as long as they follow the intention of the LAOS course.
-* Teachers can decide which parts part of the program their student assistants should join.
-
-We propose the following structure. It involves the individual teachers in 2 of the 6 hours, with tasks that are specific to their course (and hopefully useful as part of the course work anyway).
+# Email Lists
 
 
 ---
