@@ -1,0 +1,25 @@
+{| 
+|- 
+! rowspan="2" class="year" | 1
+! høst
+| class="e1" | [IMT4110](https://www.ntnu.no/studier/emner/IMT4110)<br/>Scientific Technology and Communication
+| class="e1" | [IMT4113](https://www.ntnu.no/studier/emner/IMT4113)<br/>Introduction to Cyber and Information Security Technology
+| class="e1" | [IMT4114](https://www.ntnu.no/studier/emner/IMT4114)<br/>Introduction to Digital Forensics
+| class="e1" | [IMT4115](https://www.ntnu.no/studier/emner/IMT4115)<br/>Introduction to Information Security Management
+|-
+! vår
+| class="e1" | [IMT4125](https://www.ntnu.no/studier/emner/IMT4125)<br/>Network Security
+| class="e1" | [IMT4130](https://www.ntnu.no/studier/emner/IMT4130)<br/>Cybercrime Investigation
+| class="e1" | [IMT4133](https://www.ntnu.no/studier/emner/IMT4133)<br/>Data Science for Security and Forensics
+| class="e4" | IMT4116 or IMT4215 or EIT
+|-
+! rowspan="2" class="year" | 2
+! høst
+| class="e1" | [IMT4123](https://www.ntnu.no/studier/emner/IMT4123)<br/>System Security
+| class="e1" | [IMT4205](https://www.ntnu.no/studier/emner/IMT4205)<br/>Research Project Planning
+| class="e1" | [IMT4210](https://www.ntnu.no/studier/emner/IMT4210)<br/>Computational Forensics
+| class="e1" | electable
+|-
+! vår
+| colspan="4" class="e1" | [MIS4900](https://www.ntnu.no/studier/emner/MIS4900)<br/>Master's Thesis -Information Security
+|}
