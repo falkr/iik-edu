@@ -6,7 +6,7 @@
 
 
 :checklistbox: 
-* [Read NTNUs Guide for Course Responsibles](https://innsida.ntnu.no/emneansvarlig)
+* [Read NTNU's Guide for Course Responsibles](https://innsida.ntnu.no/emneansvarlig)
 * Create a reference group, they are mandatory at IIK.
 * Deliver the course report.
 
@@ -16,6 +16,12 @@
 
 
 ## Yearly Wheel
+
+
+## Links
+
+* [Accessibility](https://i.ntnu.no/wiki/-/wiki/Norsk/Forelese+for+studenter+med+funksjonsnedsettelse)
+
 
 
 
