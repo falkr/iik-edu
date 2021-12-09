@@ -2,12 +2,16 @@
 # IIK Education Guide
 
 
+### Help
+
 ---
 type: button
 text: "kontakt@iik.ntnu.no"
 url: mailto:kontakt@iik.ntnu.no
 ---
 
+
+### IIK Links
 
 * [Studies at IIK](https://innsida.ntnu.no/wiki/-/wiki/English/Studies+at+IIK)
 
