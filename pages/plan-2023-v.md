@@ -103,6 +103,14 @@
 <tr><td class="details" >Gjøvik, &#126;20 students.</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/geir.dyrkolbotn">Geir Olav Dyrkolbotn</a> emneansvarlig</td></tr>
 <tr><td colspan="2" >Roger Johnsen lærer</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IMT4905">IMT4905</a></td>
+<td ><b>Experience-based Master's Thesis</b></td></tr>
+<tr><td class="details" >THESIS, Gjøvik, &#126;10 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/katrin.franke">Katrin Franke</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/MIS4900">MIS4900</a></td>
+<td ><b>Masteroppgave informasjonssikkerhet</b></td></tr>
+<tr><td class="details" >THESIS, Gjøvik, &#126;30 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/slobodan.petrovic">Slobodan Petrovic</a> emneansvarlig</td></tr></tbody>
 <tbody><tr><td rowspan="6" ><a href="https://www.ntnu.no/studier/emner/TTM4100">TTM4100</a></td>
 <td ><b>Kommunikasjon - Tjenester og nett</b></td></tr>
 <tr><td class="details" >Trondheim, &#126;576 students.</td></tr>

@@ -1,0 +1,23 @@
+{| 
+|- 
+! rowspan="2" class="year" | 1
+! høst
+| class="e1" | [TTM4105](https://www.ntnu.no/studier/emner/TTM4105)<br/>Access and Transport Networks
+| class="e1" | [TTM4110](https://www.ntnu.no/studier/emner/TTM4110)<br/>Dependability and Performance with Discrete Event Simulation
+| class="e1" | [TTM4240](https://www.ntnu.no/studier/emner/TTM4240)<br/>Advanced Network Control and Management
+| colspan="1" class="e1" | Valgemner
+|-
+! vår
+| class="e1" | [TTM4115](https://www.ntnu.no/studier/emner/TTM4115)<br/>Design of Communicating Systems
+| class="e1" | [TTM4133](https://www.ntnu.no/studier/emner/TTM4133)<br/>Mobile Networks and Services
+| class="e1" | [TTM4135](https://www.ntnu.no/studier/emner/TTM4135)<br/>Applied Cryptography and Network Security
+| colspan="1" class="e1" | Valgemner
+|-
+! rowspan="2" class="year" | 2
+! høst
+| class="e1" | [TTM4502](https://www.ntnu.no/studier/emner/TTM4502)<br/>Communication Technology, Specialization Project
+| colspan="3" class="e1" | Valgemner
+|-
+! vår
+| class="e1" colspan="4" | [TTM4905](https://www.ntnu.no/studier/emner/TTM4905)<br/>Communication Technology, Master's Thesis
+|}
