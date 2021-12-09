@@ -1,12 +1,12 @@
-# Master i Digital infrastruktur og cybersikkerhet
+# Master in Security and Cloud Computing
 
 
-* [NTNU Website for Program](https://www.ntnu.edu/studies/mstcnns)
-* [Utdanning.no](https://utdanning.no/utdanning/ntnu.no/digital_infrastructure_and_cyber_security_masters_programme)
+* [NTNU Website for Program](https://www.ntnu.edu/studies/mssecclo)
+* [secclo.eu](https://www.secclo.eu)
 
 
 ---
 type: table
-file: tables/mdigsec.mw
+file: tables/mssecclo.mw
 class: coursetable
 ---

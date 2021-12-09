@@ -50,20 +50,19 @@
 <tr><td class="details" >THESIS, Gjøvik, &#126;60 students.</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/erik.hjelmas">Erik Hjelmås</a> emneansvarlig</td></tr></tbody>
 <tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIKG4001">IIKG4001</a></td>
-<td ><b>Eksperter i team - Digital communities </b></td></tr>
+<td ><b>EiT</b></td></tr>
 <tr><td class="details" >EIT, Gjøvik</td></tr>
-<tr><td ><a href="https://www.ntnu.no/ansatte/stewart.kowalski">Stewart James Kowalski</a> emneansvarlig</td></tr></tbody>
+<tr><td ></td></tr></tbody>
 <tbody><tr><td rowspan="5" ><a href="https://www.ntnu.no/studier/emner/IMT4016">IMT4016</a></td>
 <td ><b>Eksperter i team - Digital communities and welfare</b></td></tr>
 <tr><td class="details" >EIT, Gjøvik, &#126;30 students.</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/basel.katt">Basel Katt</a> emneansvarlig</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/basel.katt">Basel Katt</a> lærer</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/erjon.zoto">Erjon Zoto</a> lærer</td></tr></tbody>
-<tbody><tr><td rowspan="5" ><a href="https://www.ntnu.no/studier/emner/IMT4116">IMT4116</a></td>
+<tbody><tr><td rowspan="4" ><a href="https://www.ntnu.no/studier/emner/IMT4116">IMT4116</a></td>
 <td ><b>Reverse Engineering and Malware Analysis</b></td></tr>
 <tr><td class="details" >Gjøvik, Trondheim, &#126;120 students.</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/geir.dyrkolbotn">Geir Olav Dyrkolbotn</a> emneansvarlig</td></tr>
-<tr><td ><a href="https://www.ntnu.no/ansatte/sergii.banin">Sergii Banin</a> lærer</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/geir.dyrkolbotn">Geir Olav Dyrkolbotn</a> lærer</td></tr></tbody>
 <tbody><tr><td rowspan="4" ><a href="https://www.ntnu.no/studier/emner/IMT4124">IMT4124</a></td>
 <td ><b>Cryptology</b></td></tr>
@@ -92,45 +91,55 @@
 <tr><td class="details" >Gjøvik, &#126;40 students.</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/lasse.overlier">Lasse Øverlier</a> emneansvarlig</td></tr>
 <tr><td colspan="2" >Jeffery David Hamm lærer</td></tr></tbody>
-<tbody><tr><td rowspan="4" ><a href="https://www.ntnu.no/studier/emner/IMT4133">IMT4133</a></td>
+<tbody><tr><td rowspan="5" ><a href="https://www.ntnu.no/studier/emner/IMT4133">IMT4133</a></td>
 <td ><b>Data Science for Security and Forensics </b></td></tr>
 <tr><td class="details" >Gjøvik, &#126;30 students.</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/andrii.shalaginov">Andrii Shalaginov</a> emneansvarlig</td></tr>
-<tr><td ><a href="https://www.ntnu.no/ansatte/karen.parish">Karen Parish</a> lærer</td></tr></tbody>
+<tr><td ><a href="https://www.ntnu.no/ansatte/andrii.shalaginov">Andrii Shalaginov</a> lærer</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/kyle.porter">Kyle Porter</a> lærer</td></tr></tbody>
 <tbody><tr><td rowspan="4" ><a href="https://www.ntnu.no/studier/emner/IMT4213">IMT4213</a></td>
 <td ><b>Cyber Tactics </b></td></tr>
 <tr><td class="details" >Gjøvik, &#126;20 students.</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/geir.dyrkolbotn">Geir Olav Dyrkolbotn</a> emneansvarlig</td></tr>
 <tr><td colspan="2" >Roger Johnsen lærer</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IMT4905">IMT4905</a></td>
+<td ><b>Experience-based Master's Thesis</b></td></tr>
+<tr><td class="details" >THESIS, Gjøvik, &#126;10 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/katrin.franke">Katrin Franke</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/MIS4900">MIS4900</a></td>
+<td ><b>Masteroppgave informasjonssikkerhet</b></td></tr>
+<tr><td class="details" >THESIS, Gjøvik, &#126;30 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/slobodan.petrovic">Slobodan Petrovic</a> emneansvarlig</td></tr></tbody>
 <tbody><tr><td rowspan="6" ><a href="https://www.ntnu.no/studier/emner/TTM4100">TTM4100</a></td>
 <td ><b>Kommunikasjon - Tjenester og nett</b></td></tr>
 <tr><td class="details" >Trondheim, &#126;576 students.</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/norvald.stol">Norvald Stol</a> emneansvarlig</td></tr>
-<tr><td ><a href="https://www.ntnu.no/ansatte/norvald.stol">Norvald Stol</a> lærer</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/bv">Bjørn Jonny Villa</a> lærer</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/norvald.stol">Norvald Stol</a> lærer</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/karolikv">Faiga M. Alawad</a> stipendiat</td></tr></tbody>
 <tbody><tr><td rowspan="6" ><a href="https://www.ntnu.no/studier/emner/TTM4115">TTM4115</a></td>
 <td ><b>Design av kommuniserende systemer</b></td></tr>
 <tr><td class="details" >Trondheim, &#126;90 students.</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/kraemer">Frank Alexander Kraemer</a> emneansvarlig</td></tr>
-<tr><td ><a href="https://www.ntnu.no/ansatte/peter.herrmann">Peter Michael Herrmann</a> lærer</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/amirhosein.taherkordi">Amirhosein Taherkordi</a> lærer</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/peter.herrmann">Peter Michael Herrmann</a> lærer</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/hafiz.a.asad">Hafiz Areeb Asad</a> stipendiat</td></tr></tbody>
 <tbody><tr><td rowspan="7" ><a href="https://www.ntnu.no/studier/emner/TTM4133">TTM4133</a></td>
 <td ><b>Mobile nett og tjenester</b></td></tr>
 <tr><td class="details" >Trondheim, &#126;61 students.</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/david.palma">David Fonseca Palma</a> emneansvarlig</td></tr>
-<tr><td ><a href="https://www.ntnu.no/ansatte/eirik.folstad">Eirik Larsen Følstad</a> lærer</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/david.palma">David Fonseca Palma</a> lærer</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/eirik.folstad">Eirik Larsen Følstad</a> lærer</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/kashif.mehmood">Kashif Mehmood</a> stipendiat</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/kalpanie.mendis">Handunneththi V. Kalpanie Mendis</a> stipendiat</td></tr></tbody>
-<tbody><tr><td rowspan="6" ><a href="https://www.ntnu.no/studier/emner/TTM4135">TTM4135</a></td>
+<tbody><tr><td rowspan="7" ><a href="https://www.ntnu.no/studier/emner/TTM4135">TTM4135</a></td>
 <td ><b>Anvendt kryptografi og nettverksikkerhet</b></td></tr>
 <tr><td class="details" >Trondheim, &#126;246 students.</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/colin.boyd">Colin Alexander Boyd</a> emneansvarlig</td></tr>
-<tr><td ><a href="https://www.ntnu.no/ansatte/jonathan.k.eriksen">Jonathan Komada Eriksen</a> stipendiat</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/bor.dekock">Bor de Kock</a> lærer</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/bor.dekock">Bor de Kock</a> stipendiat</td></tr>
-<tr><td ><a href="https://www.ntnu.no/ansatte/lise.millerjord">Lise Millerjord</a> stipendiat</td></tr></tbody>
+<tr><td ><a href="https://www.ntnu.no/ansatte/lise.millerjord">Lise Millerjord</a> stipendiat</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/jonathan.k.eriksen">Jonathan Komada Eriksen</a> stipendiat</td></tr></tbody>
 <tbody><tr><td rowspan="4" ><a href="https://www.ntnu.no/studier/emner/TTM4180">TTM4180</a></td>
 <td ><b>Nettverkshåndtering</b></td></tr>
 <tr><td class="details" >Trondheim, &#126;43 students.</td></tr>
@@ -140,14 +149,14 @@
 <td ><b>Grunnleggende kommunikasjonsteknologi og -sikkerhet for SmartGrid</b></td></tr>
 <tr><td class="details" >Trondheim</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/norvald.stol">Norvald Stol</a> emneansvarlig</td></tr>
-<tr><td ><a href="https://www.ntnu.no/ansatte/patrick.bours">Patrick Adrianus Bours</a> lærer</td></tr>
-<tr><td ><a href="https://www.ntnu.no/ansatte/bv">Bjørn Jonny Villa</a> lærer</td></tr></tbody>
+<tr><td ><a href="https://www.ntnu.no/ansatte/bv">Bjørn Jonny Villa</a> lærer</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/patrick.bours">Patrick Adrianus Bours</a> lærer</td></tr></tbody>
 <tbody><tr><td rowspan="6" ><a href="https://www.ntnu.no/studier/emner/TTM4200">TTM4200</a></td>
 <td ><b>Datanettverk</b></td></tr>
 <tr><td class="details" >Trondheim, &#126;63 students.</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/david.palma">David Fonseca Palma</a> emneansvarlig</td></tr>
-<tr><td ><a href="https://www.ntnu.no/ansatte/stanislav.lange">Stanislav Lange</a> lærer</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/david.palma">David Fonseca Palma</a> lærer</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/stanislav.lange">Stanislav Lange</a> lærer</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/abdulmajid.a.murad">Abdulmajid Murad</a> stipendiat</td></tr></tbody>
 <tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/TTM4850">TTM4850</a></td>
 <td ><b>Eksperter i team - Fremtidens brukeropplevelser i en hverdag preget av digitalisering</b></td></tr>
