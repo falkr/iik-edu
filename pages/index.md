@@ -2,6 +2,13 @@
 # IIK Education Guide
 
 
+---
+type: button
+text: "kontakt@iik.ntnu.no"
+url: mailto:kontakt@iik.ntnu.no
+---
+
+
 * [Studies at IIK](https://innsida.ntnu.no/wiki/-/wiki/English/Studies+at+IIK)
 
 
@@ -26,4 +33,6 @@
 * [Generelle lover og regler](https://innsida.ntnu.no/wiki/-/wiki/Norsk/Generelle+lover+og+regler+-+studier)
 
 
+### NTNU Links
 
+* [Calendar](https://i.ntnu.no/en/studiekalender)

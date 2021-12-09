@@ -17,8 +17,9 @@ file: tables/programs.mw
 
 ### Specific Tasks
 
-* [Conducting dialog meetings](dialogmøter-spl.html) with students three times per semester.
+* [Dialog meetings](dialogmøter-spl.html) with students three times per semester.
 * Writing the quality report at the end of the year.
 * Maintaining and updating the study program plan.
 * Contributing to IIK Education meetings.
 * Being a member of the study program council.
+* Meetings with teachers in the program
