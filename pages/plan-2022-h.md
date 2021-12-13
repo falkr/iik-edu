@@ -46,9 +46,10 @@
 <tr><td class="details" >THESIS, Gjøvik, &#126;60 students.</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/erik.hjelmas">Erik Hjelmås</a> emneansvarlig</td></tr>
 <tr><td colspan="2" >Geir Ove Rosvold lærer</td></tr></tbody>
-<tbody><tr><td rowspan="4" ><a href="https://www.ntnu.no/studier/emner/HMS0010">HMS0010</a></td>
+<tbody><tr><td rowspan="5" ><a href="https://www.ntnu.no/studier/emner/HMS0010">HMS0010</a></td>
 <td ><b>HMS-kurs for 1. årsstudenter Gjøvik</b></td></tr>
 <tr><td class="details" >HMS, Gjøvik, &#126;150 students.</td></tr>
+<tr><td colspan="2" >Hilde Bakke emneansvarlig</td></tr>
 <tr><td colspan="2" >Lise Margrethe Konow Linnerud lærer</td></tr>
 <tr><td colspan="2" >Pål Erik Endrerud lærer</td></tr></tbody>
 <tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IDATG2202">IDATG2202</a></td>
@@ -64,9 +65,41 @@
 <td ><b>Digital juss og forretningsvirksomhet</b></td></tr>
 <tr><td class="details" >FE, Gjøvik, Trondheim</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/haraldov">Harald Øverby</a> emneansvarlig</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/haraldov">Harald Øverby</a> lærer</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/iwona.windekilde">Iwona Maria Windekilde</a> lærer</td></tr>
-<tr><td ><a href="https://www.ntnu.no/ansatte/katrien.demoor">Katrien Rachel W de Moor</a> lærer</td></tr>
-<tr><td ><a href="https://www.ntnu.no/ansatte/haraldov">Harald Øverby</a> lærer</td></tr></tbody>
+<tr><td ><a href="https://www.ntnu.no/ansatte/katrien.demoor">Katrien Rachel W de Moor</a> lærer</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6510">IIK6510</a></td>
+<td ><b>Digtial sikkerhet - behov</b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6511">IIK6511</a></td>
+<td ><b>Digtial sikkerhet - risikostrying</b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6512">IIK6512</a></td>
+<td ><b>Digtial sikkerhet - ledelse og organisasjon</b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6513">IIK6513</a></td>
+<td ><b>Digtial sikkerhet - teknologi </b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6514">IIK6514</a></td>
+<td ><b>Introduksjon til digital sikkerhet -innføring</b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6515">IIK6515</a></td>
+<td ><b>Introduksjon til digital sikkerhet - risikostyring</b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6520">IIK6520</a></td>
+<td ><b>Grunnleggende cyber- og informasjonssikkerhet for lærere</b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6521">IIK6521</a></td>
+<td ><b>Anvendt cyber- og informasjonssikkerhet for lærere</b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
 <tbody><tr><td rowspan="4" ><a href="https://www.ntnu.no/studier/emner/IIKG1001">IIKG1001</a></td>
 <td ><b>Cybersikkerhet og datanettverk</b></td></tr>
 <tr><td class="details" >Gjøvik, &#126;108 students.</td></tr>
@@ -85,9 +118,10 @@
 <td ><b>Infrastructure as Code</b></td></tr>
 <tr><td class="details" >Gjøvik, &#126;71 students.</td></tr>
 <tr><td colspan="2" >Boye Holden emneansvarlig</td></tr></tbody>
-<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIKG3010">IIKG3010</a></td>
+<tbody><tr><td rowspan="4" ><a href="https://www.ntnu.no/studier/emner/IIKG3010">IIKG3010</a></td>
 <td ><b>Project Work for Exchange Bachelor Students</b></td></tr>
 <tr><td class="details" >FE, Gjøvik, &#126;3 students.</td></tr>
+<tr><td colspan="2" >Hilde Bakke emneansvarlig</td></tr>
 <tr><td colspan="2" >Marius Pedersen lærer</td></tr></tbody>
 <tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIKG3020">IIKG3020</a></td>
 <td ><b>Introduksjon til hendelseshåndtering</b></td></tr>
@@ -233,8 +267,8 @@
 <td ><b>Introduksjon til kommunikasjonsteknologi og digital sikkerhet</b></td></tr>
 <tr><td class="details" >Trondheim, &#126;71 students.</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/kraemer">Frank Alexander Kraemer</a> emneansvarlig</td></tr>
-<tr><td ><a href="https://www.ntnu.no/ansatte/siriya">Laszlo Erdodi</a> lærer</td></tr>
-<tr><td ><a href="https://www.ntnu.no/ansatte/kraemer">Frank Alexander Kraemer</a> lærer</td></tr></tbody>
+<tr><td ><a href="https://www.ntnu.no/ansatte/kraemer">Frank Alexander Kraemer</a> lærer</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/siriya">Laszlo Erdodi</a> lærer</td></tr></tbody>
 <tbody><tr><td rowspan="6" ><a href="https://www.ntnu.no/studier/emner/TTM4185">TTM4185</a></td>
 <td ><b>Sikkerhet og robusthet i IKT system</b></td></tr>
 <tr><td class="details" >K-emne, Trondheim, &#126;117 students.</td></tr>
@@ -245,10 +279,10 @@
 <tbody><tr><td rowspan="6" ><a href="https://www.ntnu.no/studier/emner/TTM4195">TTM4195</a></td>
 <td ><b>Blokkjede-teknologier og kryptovalutaer</b></td></tr>
 <tr><td class="details" >Trondheim, &#126;117 students.</td></tr>
-<tr><td ><a href="https://www.ntnu.no/ansatte/mattia.veroni">Mattia Veroni</a> lærer</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/jonathan.k.eriksen">Jonathan Komada Eriksen</a> lærer</td></tr>
-<tr><td ><a href="https://www.ntnu.no/ansatte/mattia.veroni">Mattia Veroni</a> stipendiat</td></tr>
-<tr><td ><a href="https://www.ntnu.no/ansatte/jonathan.k.eriksen">Jonathan Komada Eriksen</a> stipendiat</td></tr></tbody>
+<tr><td ><a href="https://www.ntnu.no/ansatte/mattia.veroni">Mattia Veroni</a> lærer</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/jonathan.k.eriksen">Jonathan Komada Eriksen</a> stipendiat</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/mattia.veroni">Mattia Veroni</a> stipendiat</td></tr></tbody>
 <tbody><tr><td rowspan="4" ><a href="https://www.ntnu.no/studier/emner/TTM4240">TTM4240</a></td>
 <td ><b>Avansert nettverkskontroll og administrasjon</b></td></tr>
 <tr><td class="details" >Trondheim, &#126;60 students.</td></tr>
@@ -268,6 +302,6 @@
 <tr><td class="details" >FE, Trondheim, &#126;140 students.</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/danilo.gligoroski">Danilo Gligoroski</a> emneansvarlig</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/danilo.gligoroski">Danilo Gligoroski</a> lærer</td></tr>
-<tr><td ><a href="https://www.ntnu.no/ansatte/sahana.sridhar">Sahana Sridhar</a> stipendiat</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/mattia.veroni">Mattia Veroni</a> stipendiat</td></tr>
-<tr><td ><a href="https://www.ntnu.no/ansatte/sonu.k.jha">Sonu Kumar Jha</a> stipendiat</td></tr></tbody></table>
+<tr><td ><a href="https://www.ntnu.no/ansatte/sonu.k.jha">Sonu Kumar Jha</a> stipendiat</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/sahana.sridhar">Sahana Sridhar</a> stipendiat</td></tr></tbody></table>

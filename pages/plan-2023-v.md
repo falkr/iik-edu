@@ -49,10 +49,54 @@
 <td ><b>Bacheloroppgave Bachelor i digital infrastruktur og cybersikkerhet</b></td></tr>
 <tr><td class="details" >THESIS, Gjøvik, &#126;60 students.</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/erik.hjelmas">Erik Hjelmås</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/HMS0010">HMS0010</a></td>
+<td ><b>HMS-kurs for 1. årsstudenter Gjøvik</b></td></tr>
+<tr><td class="details" >HMS, Gjøvik, &#126;150 students.</td></tr>
+<tr><td colspan="2" >Hilde Bakke emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6510">IIK6510</a></td>
+<td ><b>Digtial sikkerhet - behov</b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6511">IIK6511</a></td>
+<td ><b>Digtial sikkerhet - risikostrying</b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6512">IIK6512</a></td>
+<td ><b>Digtial sikkerhet - ledelse og organisasjon</b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6513">IIK6513</a></td>
+<td ><b>Digtial sikkerhet - teknologi </b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6514">IIK6514</a></td>
+<td ><b>Introduksjon til digital sikkerhet -innføring</b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6515">IIK6515</a></td>
+<td ><b>Introduksjon til digital sikkerhet - risikostyring</b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6520">IIK6520</a></td>
+<td ><b>Grunnleggende cyber- og informasjonssikkerhet for lærere</b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6521">IIK6521</a></td>
+<td ><b>Anvendt cyber- og informasjonssikkerhet for lærere</b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIKG3010">IIKG3010</a></td>
+<td ><b>Project Work for Exchange Bachelor Students</b></td></tr>
+<tr><td class="details" >FE, Gjøvik, &#126;3 students.</td></tr>
+<tr><td colspan="2" >Hilde Bakke emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIKG4000">IIKG4000</a></td>
+<td ><b>Fordypningsemne - individuelt</b></td></tr>
+<tr><td class="details" >FE, Gjøvik, &#126;2 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/raghavendra.ramachandra">Raghavendra Ramachandra</a> emneansvarlig</td></tr></tbody>
 <tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIKG4001">IIKG4001</a></td>
 <td ><b>EiT</b></td></tr>
 <tr><td class="details" >EIT, Gjøvik</td></tr>
-<tr><td ></td></tr></tbody>
+<tr><td ><a href="https://www.ntnu.no/ansatte/stewart.kowalski">Stewart James Kowalski</a> emneansvarlig</td></tr></tbody>
 <tbody><tr><td rowspan="5" ><a href="https://www.ntnu.no/studier/emner/IMT4016">IMT4016</a></td>
 <td ><b>Eksperter i team - Digital communities and welfare</b></td></tr>
 <tr><td class="details" >EIT, Gjøvik, &#126;30 students.</td></tr>
@@ -103,6 +147,10 @@
 <tr><td class="details" >Gjøvik, &#126;20 students.</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/geir.dyrkolbotn">Geir Olav Dyrkolbotn</a> emneansvarlig</td></tr>
 <tr><td colspan="2" >Roger Johnsen lærer</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IMT4215">IMT4215</a></td>
+<td ><b>Specialization Project</b></td></tr>
+<tr><td class="details" >FE, Gjøvik, &#126;5 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/raghavendra.ramachandra">Raghavendra Ramachandra</a> emneansvarlig</td></tr></tbody>
 <tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IMT4905">IMT4905</a></td>
 <td ><b>Experience-based Master's Thesis</b></td></tr>
 <tr><td class="details" >THESIS, Gjøvik, &#126;10 students.</td></tr>

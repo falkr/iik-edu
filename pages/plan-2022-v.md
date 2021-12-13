@@ -49,6 +49,30 @@
 <td ><b>Bacheloroppgave Bachelor i digital infrastruktur og cybersikkerhet</b></td></tr>
 <tr><td class="details" >THESIS, Gjøvik, &#126;60 students.</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/erik.hjelmas">Erik Hjelmås</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6510">IIK6510</a></td>
+<td ><b>Digtial sikkerhet - behov</b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6511">IIK6511</a></td>
+<td ><b>Digtial sikkerhet - risikostrying</b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6512">IIK6512</a></td>
+<td ><b>Digtial sikkerhet - ledelse og organisasjon</b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6513">IIK6513</a></td>
+<td ><b>Digtial sikkerhet - teknologi </b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6514">IIK6514</a></td>
+<td ><b>Introduksjon til digital sikkerhet -innføring</b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
+<tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIK6515">IIK6515</a></td>
+<td ><b>Introduksjon til digital sikkerhet - risikostyring</b></td></tr>
+<tr><td class="details" >EVU, Gjøvik, &#126;20 students.</td></tr>
+<tr><td ><a href="https://www.ntnu.no/ansatte/nils.kalstad">Nils Kalstad</a> emneansvarlig</td></tr></tbody>
 <tbody><tr><td rowspan="3" ><a href="https://www.ntnu.no/studier/emner/IIKG4001">IIKG4001</a></td>
 <td ><b>EiT</b></td></tr>
 <tr><td class="details" >EIT, Gjøvik</td></tr>
