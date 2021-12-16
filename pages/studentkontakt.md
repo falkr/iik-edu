@@ -12,7 +12,7 @@ Oppgavene er:
 
 ## Sosiale og faglige arrangementer
 
-* Organisering af frokostmøter eller andre informasjonsmøter med eksterne foredragsholdere
+* Organisering av frokostmøter eller andre informasjonsmøter med eksterne foredragsholdere
 * Hjelpe til instituttet med informasjonsmøter
 
 
