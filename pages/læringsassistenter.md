@@ -2,6 +2,11 @@
 
 There are two different types of positions for students, Learning Assistant and Student Assistant. The former is a bit more comprehensive than the latter. Both are normally hired for 80-120 hours per semester, on a fixed or timely basis. Note the differences below.
 
+## Administrative contacts
+
+### Trondheim:  Maria Sofie Sortvik Barosen
+### Gjøvik:     Linda Derawi 
+
 # Learning Assistants
 
 From [Lokal lønnspolitikk for NTNU](https://innsida.ntnu.no/c/wiki/get_page_attachment?p_l_id=2562032420&nodeId=24647&title=Lønnspolitikk&fileName=Lokal%20lønnspolitikk%20rev%2004.09.2020.pdf):
