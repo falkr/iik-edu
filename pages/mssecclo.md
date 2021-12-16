@@ -2,7 +2,8 @@
 
 
 * [NTNU Website for Program](https://www.ntnu.edu/studies/mssecclo)
-* [secclo.eu](https://www.secclo.eu)
+* [Official SECCLO website](https://www.secclo.eu)
+* [Get to know SECCLO at YouTube](https://www.youtube.com/channel/UCapVdyuZOmvPs3ZVzm71a2g)
 
 
 ---
