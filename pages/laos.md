@@ -5,7 +5,7 @@ Context:
 
 * All students in teaching positions that directly communicate with students must fulfill the LAOS program.
 * The program covers basic pedagogic principles and offer several optional modules students can select.
-* See [LAOS](https://innsida.ntnu.no/wiki/-/wiki/Norsk/laos+-+opplæring+for+læringsassistenter.)
+* See [LAOS](https://innsida.ntnu.no/wiki/-/wiki/Norsk/laos+-+opplæring+for+læringsassistenter)
 * Part of this program is a course-specific part, scheduled in total for 6 hours.
 * The department pays the students for these 6 hours.
 
