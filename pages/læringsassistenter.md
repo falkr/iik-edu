@@ -4,8 +4,8 @@ There are two different types of positions for students, Learning Assistant and 
 
 ## Administrative contacts
 
-### Trondheim:  Maria Sofie Sortvik Barosen
-### Gjøvik:     Linda Derawi 
+* Trondheim:  Maria Sofie Sortvik Barosen
+* Gjøvik:     Linda Derawi 
 
 # Learning Assistants
 
