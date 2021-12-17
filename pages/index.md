@@ -28,6 +28,19 @@ url: mailto:kontakt@iik.ntnu.no
 * [Studiekvalitetsportalen](https://innsida.ntnu.no/studiekvalitetsportalen/) Published course and study program reports
 
 
+### NTNU Links for Teaching
+
+* [Calendar](https://i.ntnu.no/en/studiekalender)
+* [Administrere eksamen](https://i.ntnu.no/administrere-eksamen)
+* [Begrunnelse og klage](https://i.ntnu.no/wiki/-/wiki/Norsk/Begrunnelse+og+klage)
+* [Course planning](https://i.ntnu.no/emneansvarlig)
+* [Course search](https://www.ntnu.no/studier/emner)
+* [Evaluere emne - for emneansvarlig](https://i.ntnu.no/evaluere-emne)
+* [Teaching and learning support for teachers](https://i.ntnu.no/undervisningsstotte)
+* [Online teaching](https://i.ntnu.no/nettbasert-undervisning)
+* [Order course reading list - For employees](https://i.ntnu.no/pensumforberedelse)
+* [Semester planning](https://i.ntnu.no/planlegge-semesteret)
+
 ### Laws and Regulations
 
 * [Forskrift om studier ved Norges teknisk-naturvitenskapelige universitet (NTNU)](https://lovdata.no/dokument/SF/forskrift/2015-12-08-1449)
@@ -36,7 +49,3 @@ url: mailto:kontakt@iik.ntnu.no
 * [Lover og reglementer](https://innsida.ntnu.no/wiki/-/wiki/Norsk/lover+og+reglementer)
 * [Generelle lover og regler](https://innsida.ntnu.no/wiki/-/wiki/Norsk/Generelle+lover+og+regler+-+studier)
 
-
-### NTNU Links
-
-* [Calendar](https://i.ntnu.no/en/studiekalender)
