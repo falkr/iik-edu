@@ -1,7 +1,7 @@
 # Master in Information Security (MIS)
 
 
-* [NTNU Website for Program](https://www.ntnu.edu/studies/mis]
+* [NTNU Website for Program](https://www.ntnu.edu/studies/mis)
 * [Utdanning.no](https://utdanning.no/utdanning/ntnu.no/master_information_security)
 
 

@@ -2,5 +2,5 @@
 
 
 
-* [NTNU Website for Program](
+* [NTNU Website for Program](https://www.ntnu.no/studier/miseb)
 * [Utdanning.no](https://utdanning.no/utdanning/ntnu.no/experience-based_master_information_security)
