@@ -15,7 +15,62 @@
     <link href="assets/style.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/bootstrap-icons.css">
 <script src="assets/anchor.js"></script>
-<style type="text/css">table.coursetable td {
+<style type="text/css">a.ntnu-button {
+    font: 600 14px "Source Sans Pro", Georgia, serif;
+    background: #fff;
+    color: #00509e;
+    border: 1px solid #00509e;
+    border-color: #00509e !important
+    border-style: solid !important;
+    border-radius: 10rem;
+    display: inline-block;
+    padding: 5px 15px;
+    height: auto;
+    font-weight: bold;
+    line-height: 1.5em;
+    text-align: center;
+    vertical-align: top;
+    cursor: pointer;
+    text-decoration: none
+}
+
+a.ntnu-button:hover {
+    background: #00509e;
+    color: #fff;
+    text-decoration: none
+}
+div.checklistbox {
+  width: 18rem;
+  float: right;
+  padding: 10px;
+  margin-left: 10px;
+  background-color: #EFF7FF;
+  border-radius: 0px;
+  border-top: 6px solid #00509e
+  }
+  
+div.checklistbox::before { 
+  content: "Checklist:";
+  font-weight: bold;
+  padding: 0px 0 12px 0;
+  display: block;
+  color: #00509e;
+  }
+
+div.checklistbox ul li:before {
+  content: '\f26a';
+  font-family: bootstrap-icons !important;
+  float: left;
+  margin-left: -1.5em;
+  color: #00509e;
+  line-height: 1.5rem;
+}
+
+
+div.checklistbox ul {
+  list-style-type: none;
+}
+table.coursetable td {
   font-size:0.6rem;
 }
 
@@ -59,6 +114,49 @@ table.coursetable td.e3 {
 
 table.coursetable td.e4 {
   background-color: #e3bcda;
+}
+button:hover {
+  background-color: #EFF7FF;
+}
+div.qna .accordion-button:not(.collapsed) {
+  color: black;
+  background-color: #EFF7FF;
+  box-shadow: inset 0 -1px 0 rgba(0,0,0,.125);
+  color: #00509e;
+}
+
+div.qna .accordion-button:not(.collapsed)::after {
+  color: #00509e;
+}
+
+div.tipsbox {
+  padding: 12px;
+  background-color: #EFF7FF;
+  border-radius: 0px;
+  border-top: 6px solid #00509e;
+  margin: 1rem 0 1rem 0;
+  }
+  
+div.tipsbox::before { 
+  content: "Tips:";
+  font-weight: bold;
+  display: block;
+  color: #00509e;
+  padding: 0px 0 12px 0;
+  }
+
+div.tipsbox ul li:before {
+  content: '\f26a';
+  font-family: bootstrap-icons !important;
+  float: left;
+  margin-left: -1.5em;
+  color: #00509e;
+  line-height: 1.5rem;
+}
+
+
+div.tipsbox ul {
+  list-style-type: none;
 }
 
 </style>

@@ -27,7 +27,7 @@
 
 ## Reference Groups
 
-
+* [Information about Reference Groups](https://edu.iik.ntnu.no/referansegruppe.html) 
 
 
 
