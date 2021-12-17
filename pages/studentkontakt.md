@@ -13,10 +13,12 @@ Oppgavene er:
 ## Sosiale og faglige arrangementer
 
 * Organisering av frokostmøter eller andre informasjonsmøter med eksterne foredragsholdere
-* Hjelpe til instituttet med informasjonsmøter
+* Hjelpe instituttet med informasjonsmøter
 
 
 ## Kontakt med studenter
 
 * Holde åpent kontor, slik at studenter kan komme innom og stille spørsmål
 * Holde kontakt med studieprogramleder og kullkoordinator
+
+[Se oversikt over alle studentkontakter ved IIK her.](https://edu.iik.ntnu.no/studenter.html)  
