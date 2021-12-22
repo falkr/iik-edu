@@ -14,6 +14,7 @@ url: mailto:kontakt@iik.ntnu.no
 ### IIK Links
 
 * [Studies at IIK](https://innsida.ntnu.no/wiki/-/wiki/English/Studies+at+IIK)
+* [Grading of Master's Theses](https://i.ntnu.no/wiki/-/wiki/English/Grading+MSc+theses+at+IIK)
 
 
 ### Tools
