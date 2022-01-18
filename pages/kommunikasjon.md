@@ -23,6 +23,13 @@ Have a look below for a tutorial how to use Piazza in your course. Thanks to Mat
 <iframe src="https://ntnu.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=018be636-f637-4e0e-a698-ae210154baa8&autoplay=false&offerviewer=false&showtitle=false&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 </div>
 
+
+:tipsbox:
+* Introduce Piazza in your course explicitly, and tell students to ask questions there instead of via for instance email.
+* Add a task in the lecture where students should post a question on Piazza, just for getting into the habit. In this first round, these can be fun questions.
+
+
+
 ---
 type: qna
 q: Why does IIK use Piazza?
