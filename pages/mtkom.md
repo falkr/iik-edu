@@ -1,7 +1,11 @@
 # Kommunikasjonsteknologi og digital sikkerhet (MTKOM)
 
 
-Denne siden illustrerer og forklarer studieplanen ved hjelp av emnevegger. Fullstendig, oppdatert og gjeldende studieplan finner du [her](https://www.ntnu.no/studier/mtkom/oppbygging).
+* [NTNU Website for Program](https://www.ntnu.edu/studies/mtkom)
+* [Utdanning.no](https://utdanning.no/utdanning/ntnu.no/kommunikasjonsteknologi_og_digital_sikkerhet_-_masterstudium_5-arig)
+
+
+Fullstendig, oppdatert og gjeldende studieplan finner du [her](https://www.ntnu.no/studier/mtkom/oppbygging).
 
 
 ---
