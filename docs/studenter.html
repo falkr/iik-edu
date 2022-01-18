@@ -15,7 +15,31 @@
     <link href="assets/style.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/bootstrap-icons.css">
 <script src="assets/anchor.js"></script>
-<style type="text/css">div.checklistbox {
+<style type="text/css">a.ntnu-button {
+    font: 600 14px "Source Sans Pro", Georgia, serif;
+    background: #fff;
+    color: #00509e;
+    border: 1px solid #00509e;
+    border-color: #00509e !important
+    border-style: solid !important;
+    border-radius: 10rem;
+    display: inline-block;
+    padding: 5px 15px;
+    height: auto;
+    font-weight: bold;
+    line-height: 1.5em;
+    text-align: center;
+    vertical-align: top;
+    cursor: pointer;
+    text-decoration: none
+}
+
+a.ntnu-button:hover {
+    background: #00509e;
+    color: #fff;
+    text-decoration: none
+}
+div.checklistbox {
   width: 18rem;
   float: right;
   padding: 10px;
@@ -45,6 +69,91 @@ div.checklistbox ul li:before {
 
 div.checklistbox ul {
   list-style-type: none;
+}
+table.coursetable td {
+  font-size:0.6rem;
+}
+
+table.coursetable a {
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: black;
+}
+
+table.coursetable th {
+  background-color: #F7F9F9;
+  text-align: left;
+  font-weight: 400;
+  font-size: 0.8rem;
+}
+
+table.coursetable th.year p {
+  font-weight: 700;
+  font-size: 2.5rem;
+  color: #BEBEBE;
+  line-height: 0.8em;
+}
+
+table.coursetable td {
+  width:22%;
+  background-color: #cfdaf1;
+  text-align: center;
+}
+
+table.coursetable td.e1 {
+  background-color: #cfdaf1;
+}
+
+table.coursetable td.e1e {
+  background: repeating-linear-gradient(
+    45deg,
+    #ffffff00,
+    #ffffff00 10px,
+    #ffffff88 10px,
+    #ffffff88 20px
+  ), #cfdaf1;
+}
+
+table.coursetable td.e2 {
+  background-color: #ebf0c4;
+}
+
+table.coursetable td.e2e {
+  background: repeating-linear-gradient(
+    45deg,
+    #ffffff00,
+    #ffffff00 10px,
+    #ffffff88 10px,
+    #ffffff88 20px
+  ), #ebf0c4;
+}
+
+table.coursetable td.e3 {
+  background-color: #fdd9b5;
+}
+
+table.coursetable td.e3e {
+  background: repeating-linear-gradient(
+    45deg,
+    #ffffff00,
+    #ffffff00 10px,
+    #ffffff88 10px,
+    #ffffff88 20px
+  ), #fdd9b5;
+}
+
+table.coursetable td.e4 {
+  background-color: #e3bcda;
+}
+
+table.coursetable td.e4e {
+  background: repeating-linear-gradient(
+    45deg,
+    #ffffff00,
+    #ffffff00 10px,
+    #ffffff88 10px,
+    #ffffff88 20px
+  ), #e3bcda;
 }
 button:hover {
   background-color: #EFF7FF;
@@ -213,233 +322,383 @@ div.tipsbox ul {
       <div class="page">
     </section>
     <section class="content">
-<h1 id="student-representatives">Student Representatives</h1>
-<h3 id="trondheim">Trondheim</h3>
+<h1>Student Representatives</h1>
+
+<h3>Trondheim</h3>
+
 <table class="table table-sm">
 <tr>
-<th><p>Role</p></th>
-<th><p>Name</p></th>
-<th><p>Class</p></th>
-<th><p>Contact</p></th>
-<th><p>Period</p></th>
+<th><p>Role</p>
+</th>
+<th><p>Name</p>
+</th>
+<th><p>Class</p>
+</th>
+<th><p>Contact</p>
+</th>
+<th><p>Period</p>
+</th>
 </tr>
 <tr>
-<td><p>ITV</p></td>
-<td><p>Emilie Rieber</p></td>
-<td><p>MTKOM-19</p></td>
-<td><p>emiliri@stud.ntnu.no</p></td>
-<td><p>Jul 2020 - Jul 2022</p></td>
+<td><p>ITV</p>
+</td>
+<td><p>Emilie Rieber</p>
+</td>
+<td><p>MTKOM-19</p>
+</td>
+<td><p>emiliri@stud.ntnu.no</p>
+</td>
+<td><p>Jul 2020 - Jul 2022</p>
+</td>
 </tr>
 <tr>
-<td><p>ITV</p></td>
-<td><p>Sander Fjeld Waasjø</p></td>
-<td><p>MTKOM-20</p></td>
-<td><p>sander.f.waasjo@ntnu.no</p></td>
-<td><p>Jan 2021 -</p></td>
+<td><p>ITV</p>
+</td>
+<td><p>Sander Fjeld Waasjø</p>
+</td>
+<td><p>MTKOM-20</p>
+</td>
+<td><p>sander.f.waasjo@ntnu.no</p>
+</td>
+<td><p>Jan 2021 -</p>
+</td>
 </tr>
 <tr>
-<td><p>KTV-1</p></td>
-<td><p>Håkon Grue</p></td>
-<td><p>MTKOM-21</p></td>
-<td><p>haakosgr@stud.ntnu.no</p></td>
-<td><p>Aug 2021 - Jun 2026</p></td>
+<td><p>KTV-1</p>
+</td>
+<td><p>Håkon Grue</p>
+</td>
+<td><p>MTKOM-21</p>
+</td>
+<td><p>haakosgr@stud.ntnu.no</p>
+</td>
+<td><p>Aug 2021 - Jun 2026</p>
+</td>
 </tr>
 <tr>
-<td><p>KTV-2</p></td>
-<td><p>Henriette Bjørheim</p></td>
-<td><p>MTKOM-20</p></td>
-<td><p>henbjo@stud.ntnu.no</p></td>
-<td><p>Aug 2020 - Jun 2025</p></td>
+<td><p>KTV-2</p>
+</td>
+<td><p>Henriette Bjørheim</p>
+</td>
+<td><p>MTKOM-20</p>
+</td>
+<td><p>henbjo@stud.ntnu.no</p>
+</td>
+<td><p>Aug 2020 - Jun 2025</p>
+</td>
 </tr>
 <tr>
-<td><p>KTV-3</p></td>
-<td><p>Emilie Rieber</p></td>
-<td><p>MTKOM-19</p></td>
-<td><p>emiliri@stud.ntnu.no</p></td>
-<td><p>Aug 2019 - Jun 2024</p></td>
+<td><p>KTV-3</p>
+</td>
+<td><p>Emilie Rieber</p>
+</td>
+<td><p>MTKOM-19</p>
+</td>
+<td><p>emiliri@stud.ntnu.no</p>
+</td>
+<td><p>Aug 2019 - Jun 2024</p>
+</td>
 </tr>
 <tr>
-<td><p>(KTV-4)</p></td>
-<td><p>(Marie Øseth)</p></td>
-<td><p>MTKOM-18</p></td>
-<td><p>marioset@stud.ntnu.no</p></td>
-<td><p>Aug 2018 - Jun 2023</p></td>
+<td><p>(KTV-4)</p>
+</td>
+<td><p>(Marie Øseth)</p>
+</td>
+<td><p>MTKOM-18</p>
+</td>
+<td><p>marioset@stud.ntnu.no</p>
+</td>
+<td><p>Aug 2018 - Jun 2023</p>
+</td>
 </tr>
 <tr>
-<td><p>KTV-4 (vara)</p></td>
-<td><p>Carl Axel Lind</p></td>
-<td><p>MTKOM-18</p></td>
-<td><p>calind@stud.ntnu.no</p></td>
+<td><p>KTV-4 (vara)</p>
+</td>
+<td><p>Carl Axel Lind</p>
+</td>
+<td><p>MTKOM-18</p>
+</td>
+<td><p>calind@stud.ntnu.no</p>
+</td>
 <td></td>
 </tr>
 <tr>
-<td><p>KTV-5</p></td>
-<td><p>Tilde Thorvik</p></td>
-<td><p>MTKOM-17</p></td>
-<td><p>tildegt@stud.ntnu.no</p></td>
-<td><p>Aug 2017 - Jun 2022</p></td>
+<td><p>KTV-5</p>
+</td>
+<td><p>Tilde Thorvik</p>
+</td>
+<td><p>MTKOM-17</p>
+</td>
+<td><p>tildegt@stud.ntnu.no</p>
+</td>
+<td><p>Aug 2017 - Jun 2022</p>
+</td>
 </tr>
 <tr>
-<td><p>Studentkontakt</p></td>
-<td><p>Emilie Rieber</p></td>
-<td><p>MTKOM-19</p></td>
-<td><p>emiliri@stud.ntnu.no</p></td>
-<td><p>Aug 2019 - Jun 2024</p></td>
+<td><p>Studentkontakt</p>
+</td>
+<td><p>Emilie Rieber</p>
+</td>
+<td><p>MTKOM-19</p>
+</td>
+<td><p>emiliri@stud.ntnu.no</p>
+</td>
+<td><p>Aug 2019 - Jun 2024</p>
+</td>
 </tr>
 <tr>
-<td><p>Studentkontakt</p></td>
-<td><p>Henriette Bjørheim</p></td>
-<td><p>MTKOM-20</p></td>
-<td><p>henbjo@stud.ntnu.no</p></td>
-<td><p>Aug 2020 - Jun 2025</p></td>
+<td><p>Studentkontakt</p>
+</td>
+<td><p>Henriette Bjørheim</p>
+</td>
+<td><p>MTKOM-20</p>
+</td>
+<td><p>henbjo@stud.ntnu.no</p>
+</td>
+<td><p>Aug 2020 - Jun 2025</p>
+</td>
 </tr>
 <tr>
-<td><p>Studentkontakt</p></td>
-<td><p>Marie Øseth</p></td>
-<td><p>MTKOM-18</p></td>
-<td><p>marioset@stud.ntnu.no</p></td>
-<td><p>Mar 2019 - Jun 2023</p></td>
+<td><p>Studentkontakt</p>
+</td>
+<td><p>Marie Øseth</p>
+</td>
+<td><p>MTKOM-18</p>
+</td>
+<td><p>marioset@stud.ntnu.no</p>
+</td>
+<td><p>Mar 2019 - Jun 2023</p>
+</td>
 </tr>
 <tr>
-<td><p>Studentkontakt</p></td>
-<td><p>Helene Bolkan</p></td>
-<td><p>MTKOM-18</p></td>
-<td><p>helensbo@stud.ntnu.no</p></td>
-<td><p>Mar 2019 - Jun 2023</p></td>
+<td><p>Studentkontakt</p>
+</td>
+<td><p>Helene Bolkan</p>
+</td>
+<td><p>MTKOM-18</p>
+</td>
+<td><p>helensbo@stud.ntnu.no</p>
+</td>
+<td><p>Mar 2019 - Jun 2023</p>
+</td>
 </tr>
 <tr>
-<td><p>Studentkontakt</p></td>
-<td><p>Carl Axel Lind</p></td>
-<td><p>MTKOM-18</p></td>
-<td><p>calind@stud.ntnu.no</p></td>
-<td><p>Mar 2019 - Jun 2023</p></td>
+<td><p>Studentkontakt</p>
+</td>
+<td><p>Carl Axel Lind</p>
+</td>
+<td><p>MTKOM-18</p>
+</td>
+<td><p>calind@stud.ntnu.no</p>
+</td>
+<td><p>Mar 2019 - Jun 2023</p>
+</td>
 </tr>
 <tr>
-<td><p>KTV-2</p></td>
-<td><p>Branislav Petrovic</p></td>
-<td><p>MSTCNNS-20</p></td>
-<td><p>branislp@stud.ntnu.no</p></td>
-<td><p>Aug 2020 - Jun 2022</p></td>
+<td><p>KTV-2</p>
+</td>
+<td><p>Branislav Petrovic</p>
+</td>
+<td><p>MSTCNNS-20</p>
+</td>
+<td><p>branislp@stud.ntnu.no</p>
+</td>
+<td><p>Aug 2020 - Jun 2022</p>
+</td>
 </tr>
 <tr>
-<td><p>KTV-1</p></td>
-<td><p>Sebastian Grøsvik</p></td>
-<td><p>MSTCNNS-21</p></td>
-<td><p>sebastgg@stud.ntnu.no</p></td>
-<td><p>Aug 2021 - Jun 2023</p></td>
+<td><p>KTV-1</p>
+</td>
+<td><p>Sebastian Grøsvik</p>
+</td>
+<td><p>MSTCNNS-21</p>
+</td>
+<td><p>sebastgg@stud.ntnu.no</p>
+</td>
+<td><p>Aug 2021 - Jun 2023</p>
+</td>
 </tr>
 <tr>
-<td><p>Studentkontakt</p></td>
-<td><p>Branislav Petrovic</p></td>
-<td><p>MSTCNNS-20</p></td>
-<td><p>branislp@stud.ntnu.no</p></td>
-<td><p>Aug 2020 - Jun 2022</p></td>
+<td><p>Studentkontakt</p>
+</td>
+<td><p>Branislav Petrovic</p>
+</td>
+<td><p>MSTCNNS-20</p>
+</td>
+<td><p>branislp@stud.ntnu.no</p>
+</td>
+<td><p>Aug 2020 - Jun 2022</p>
+</td>
 </tr>
 <tr>
-<td><p>Studentkontakt</p></td>
-<td><p>Sebastian Grøsvik</p></td>
-<td><p>MSTCNNS-21</p></td>
-<td><p>sebastgg@stud.ntnu.no</p></td>
-<td><p>Aug 2021 - Jun 2023</p></td>
+<td><p>Studentkontakt</p>
+</td>
+<td><p>Sebastian Grøsvik</p>
+</td>
+<td><p>MSTCNNS-21</p>
+</td>
+<td><p>sebastgg@stud.ntnu.no</p>
+</td>
+<td><p>Aug 2021 - Jun 2023</p>
+</td>
 </tr>
 </table>
-<h3 id="gjøvik">Gjøvik</h3>
+<h3>Gjøvik</h3>
+
 <table class="table table-sm">
 <tr>
-<th><p>Role</p></th>
-<th><p>Name</p></th>
-<th><p>Class</p></th>
-<th><p>Contact</p></th>
-<th><p>Period</p></th>
+<th><p>Role</p>
+</th>
+<th><p>Name</p>
+</th>
+<th><p>Class</p>
+</th>
+<th><p>Contact</p>
+</th>
+<th><p>Period</p>
+</th>
 </tr>
 <tr>
-<td><p>ITV</p></td>
-<td><p>Espen Eriksen</p></td>
-<td><p>BDIGSEC</p></td>
-<td><p>espeje@stud.ntnu.no</p></td>
+<td><p>ITV</p>
+</td>
+<td><p>Espen Eriksen</p>
+</td>
+<td><p>BDIGSEC</p>
+</td>
+<td><p>espeje@stud.ntnu.no</p>
+</td>
 <td></td>
 </tr>
 <tr>
-<td><p>ITV</p></td>
-<td><p>Simen Ramberg</p></td>
-<td><p>BDIGSEC-19</p></td>
-<td><p>simenram@stud.ntnu.no</p></td>
-<td><p>Jan 2020 - Des 2020</p></td>
+<td><p>ITV</p>
+</td>
+<td><p>Simen Ramberg</p>
+</td>
+<td><p>BDIGSEC-19</p>
+</td>
+<td><p>simenram@stud.ntnu.no</p>
+</td>
+<td><p>Jan 2020 - Des 2020</p>
+</td>
 </tr>
 <tr>
-<td><p>PTV</p></td>
-<td><p>Simen Ramberg</p></td>
-<td><p>MIS-19</p></td>
-<td><p>simenram@stud.ntnu.no</p></td>
+<td><p>PTV</p>
+</td>
+<td><p>Simen Ramberg</p>
+</td>
+<td><p>MIS-19</p>
+</td>
+<td><p>simenram@stud.ntnu.no</p>
+</td>
 <td></td>
 </tr>
 <tr>
-<td><p>KTV</p></td>
-<td><p>Marius Mølnvik Øye</p></td>
-<td><p>MIS-19</p></td>
-<td><p>mariusoy@stud.ntnu.no</p></td>
+<td><p>KTV</p>
+</td>
+<td><p>Marius Mølnvik Øye</p>
+</td>
+<td><p>MIS-19</p>
+</td>
+<td><p>mariusoy@stud.ntnu.no</p>
+</td>
 <td></td>
 </tr>
 <tr>
-<td><p>KTV</p></td>
-<td><p>Malene Vassenden</p></td>
-<td><p>MIS-20</p></td>
-<td><p>malenev@stud.ntnu.no</p></td>
+<td><p>KTV</p>
+</td>
+<td><p>Malene Vassenden</p>
+</td>
+<td><p>MIS-20</p>
+</td>
+<td><p>malenev@stud.ntnu.no</p>
+</td>
 <td></td>
 </tr>
 <tr>
-<td><p>KTV-1</p></td>
-<td><p>Sofie Hagen</p></td>
-<td><p>BDIGSEC-21</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><p>KTV-1 (vara)</p></td>
-<td><p>Ane Malene Olaussen</p></td>
-<td><p>BDIGSEC-21</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><p>KTV</p></td>
-<td><p>Odin Korsfur Henriksen</p></td>
-<td><p>BDIGSEC-19</p></td>
-<td><p>odinkh@stud.ntnu.no</p></td>
-<td><p>Aug 2019 - Jun 2020</p></td>
-</tr>
-<tr>
-<td><p>KTV</p></td>
-<td><p>Gaute Klakegg Dvergsdal</p></td>
-<td><p>BITSEC-18</p></td>
-<td><p>gautekd@stud.ntnu.no</p></td>
-<td><p>Aug 2019 - Jun 2020</p></td>
-</tr>
-<tr>
-<td><p>KTV (vara)</p></td>
-<td><p>Sondre Breivik</p></td>
-<td><p>BITSEC-18</p></td>
-<td><p>sondb@stud.ntnu.no</p></td>
-<td><p>Aug 2019 - Jun 2020</p></td>
-</tr>
-<tr>
-<td><p>KTV</p></td>
-<td><p>Job Nestor Bahner</p></td>
-<td><p>BITSEC-17</p></td>
-<td><p>jobnb@stud.ntnu.no</p></td>
-<td><p>Aug 2019 - Jun 2020</p></td>
-</tr>
-<tr>
-<td><p>Studentkontakt</p></td>
-<td><p>Vilde Nylund Johnsen</p></td>
-<td><p>MIS-21</p></td>
+<td><p>KTV-1</p>
+</td>
+<td><p>Sofie Hagen</p>
+</td>
+<td><p>BDIGSEC-21</p>
+</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td><p>Studentkontakt</p></td>
-<td><p>Michael N. Kristiansen</p></td>
-<td><p>MISEB-20</p></td>
+<td><p>KTV-1 (vara)</p>
+</td>
+<td><p>Ane Malene Olaussen</p>
+</td>
+<td><p>BDIGSEC-21</p>
+</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>KTV</p>
+</td>
+<td><p>Odin Korsfur Henriksen</p>
+</td>
+<td><p>BDIGSEC-19</p>
+</td>
+<td><p>odinkh@stud.ntnu.no</p>
+</td>
+<td><p>Aug 2019 - Jun 2020</p>
+</td>
+</tr>
+<tr>
+<td><p>KTV</p>
+</td>
+<td><p>Gaute Klakegg Dvergsdal</p>
+</td>
+<td><p>BITSEC-18</p>
+</td>
+<td><p>gautekd@stud.ntnu.no</p>
+</td>
+<td><p>Aug 2019 - Jun 2020</p>
+</td>
+</tr>
+<tr>
+<td><p>KTV (vara)</p>
+</td>
+<td><p>Sondre Breivik</p>
+</td>
+<td><p>BITSEC-18</p>
+</td>
+<td><p>sondb@stud.ntnu.no</p>
+</td>
+<td><p>Aug 2019 - Jun 2020</p>
+</td>
+</tr>
+<tr>
+<td><p>KTV</p>
+</td>
+<td><p>Job Nestor Bahner</p>
+</td>
+<td><p>BITSEC-17</p>
+</td>
+<td><p>jobnb@stud.ntnu.no</p>
+</td>
+<td><p>Aug 2019 - Jun 2020</p>
+</td>
+</tr>
+<tr>
+<td><p>Studentkontakt</p>
+</td>
+<td><p>Vilde Nylund Johnsen</p>
+</td>
+<td><p>MIS-21</p>
+</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><p>Studentkontakt</p>
+</td>
+<td><p>Michael N. Kristiansen</p>
+</td>
+<td><p>MISEB-20</p>
+</td>
 <td></td>
 <td></td>
 </tr>
@@ -447,6 +706,7 @@ div.tipsbox ul {
 <p>KTV: En klassetillitsvalgt (KTV) er valgt inn av egen klasse, og skal være bindeleddet mellom klassen og både studentprogramrådet og Studentrådet IE. KTV-er skal være kontaktperson for sin klasse, og møte på relevante samlinger i regi av instituttet og andre møter arrangert av ITV, PTV og FTV. Ellers skal de bistå medstudenter med problemer som angår studiet og klassen. I utgangspunktet blir en KTV valgt for hele studieperioden (2 eller 5 år), men dersom det er behov for det har KTV-en ansvar for å velge en ny KTV.</p>
 <p>ITV: En instituttillitsvalgt (ITV) er valgt av studentene ved instituttet og representerer studentene ved instituttet. De er bindeleddet mellom student, institutt og Studieprogramrådet IE og jobber for å ivareta studentenes interesser, oppnå godt læringsmiljø og sikre god informasjonsflyt fra instituttet til studentene.</p>
 <p>FTV: Fakultetstillitsvalgte er koordinert av fakultetet, og er <a href="https://ie.studentrad.no/">beskrevet her</a>.</p>
+
     </section>
 </div>
 
@@ -467,5 +727,15 @@ div.tipsbox ul {
       anchors.add('h1').add('h2').add('h3');
       anchors.options.visible = 'always';
   </script>
+  <script>
+    
+
+
+
+
+
+
+
+</script>
   </body>
 </html>

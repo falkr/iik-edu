@@ -15,62 +15,7 @@
     <link href="assets/style.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/bootstrap-icons.css">
 <script src="assets/anchor.js"></script>
-<style type="text/css">a.ntnu-button {
-    font: 600 14px "Source Sans Pro", Georgia, serif;
-    background: #fff;
-    color: #00509e;
-    border: 1px solid #00509e;
-    border-color: #00509e !important
-    border-style: solid !important;
-    border-radius: 10rem;
-    display: inline-block;
-    padding: 5px 15px;
-    height: auto;
-    font-weight: bold;
-    line-height: 1.5em;
-    text-align: center;
-    vertical-align: top;
-    cursor: pointer;
-    text-decoration: none
-}
-
-a.ntnu-button:hover {
-    background: #00509e;
-    color: #fff;
-    text-decoration: none
-}
-div.checklistbox {
-  width: 18rem;
-  float: right;
-  padding: 10px;
-  margin-left: 10px;
-  background-color: #EFF7FF;
-  border-radius: 0px;
-  border-top: 6px solid #00509e
-  }
-  
-div.checklistbox::before { 
-  content: "Checklist:";
-  font-weight: bold;
-  padding: 0px 0 12px 0;
-  display: block;
-  color: #00509e;
-  }
-
-div.checklistbox ul li:before {
-  content: '\f26a';
-  font-family: bootstrap-icons !important;
-  float: left;
-  margin-left: -1.5em;
-  color: #00509e;
-  line-height: 1.5rem;
-}
-
-
-div.checklistbox ul {
-  list-style-type: none;
-}
-table.coursetable td {
+<style type="text/css">table.coursetable td {
   font-size:0.6rem;
 }
 
@@ -104,59 +49,56 @@ table.coursetable td.e1 {
   background-color: #cfdaf1;
 }
 
+table.coursetable td.e1e {
+  background: repeating-linear-gradient(
+    45deg,
+    #ffffff00,
+    #ffffff00 10px,
+    #ffffff88 10px,
+    #ffffff88 20px
+  ), #cfdaf1;
+}
+
 table.coursetable td.e2 {
   background-color: #ebf0c4;
+}
+
+table.coursetable td.e2e {
+  background: repeating-linear-gradient(
+    45deg,
+    #ffffff00,
+    #ffffff00 10px,
+    #ffffff88 10px,
+    #ffffff88 20px
+  ), #ebf0c4;
 }
 
 table.coursetable td.e3 {
   background-color: #fdd9b5;
 }
 
+table.coursetable td.e3e {
+  background: repeating-linear-gradient(
+    45deg,
+    #ffffff00,
+    #ffffff00 10px,
+    #ffffff88 10px,
+    #ffffff88 20px
+  ), #fdd9b5;
+}
+
 table.coursetable td.e4 {
   background-color: #e3bcda;
 }
-button:hover {
-  background-color: #EFF7FF;
-}
-div.qna .accordion-button:not(.collapsed) {
-  color: black;
-  background-color: #EFF7FF;
-  box-shadow: inset 0 -1px 0 rgba(0,0,0,.125);
-  color: #00509e;
-}
 
-div.qna .accordion-button:not(.collapsed)::after {
-  color: #00509e;
-}
-
-div.tipsbox {
-  padding: 12px;
-  background-color: #EFF7FF;
-  border-radius: 0px;
-  border-top: 6px solid #00509e;
-  margin: 1rem 0 1rem 0;
-  }
-  
-div.tipsbox::before { 
-  content: "Tips:";
-  font-weight: bold;
-  display: block;
-  color: #00509e;
-  padding: 0px 0 12px 0;
-  }
-
-div.tipsbox ul li:before {
-  content: '\f26a';
-  font-family: bootstrap-icons !important;
-  float: left;
-  margin-left: -1.5em;
-  color: #00509e;
-  line-height: 1.5rem;
-}
-
-
-div.tipsbox ul {
-  list-style-type: none;
+table.coursetable td.e4e {
+  background: repeating-linear-gradient(
+    45deg,
+    #ffffff00,
+    #ffffff00 10px,
+    #ffffff88 10px,
+    #ffffff88 20px
+  ), #e3bcda;
 }
 
 </style>
@@ -282,51 +224,81 @@ div.tipsbox ul {
       <div class="page">
     </section>
     <section class="content">
-<h1 id="bachelor-i-digital-infrastruktur-og-cybersikkerhet">Bachelor i Digital infrastruktur og cybersikkerhet</h1>
+<h1>Bachelor i Digital infrastruktur og cybersikkerhet</h1>
+
 <ul>
 <li><a href="https://www.ntnu.no/studier/bdigsec/">NTNU Website for Program</a></li>
 <li><a href="https://utdanning.no/utdanning/ntnu.no/bachelor_i_digital_infrastruktur_og_cybersikkerhet">Utdanning.no</a></li>
 </ul>
+
 <table class="coursetable table table-sm">
 <tr>
-<th rowspan="2" class="year"><p>1</p></th>
-<th><p>høst</p></th>
-<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/BMA1010">BMA1010</a><br/>Matematikk for Informatikk</p></td>
-<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/DCSG1001">DCSG1001</a><br/>Infrastruktur: grunnleggende ferdigheter</p></td>
-<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/DCSG1002">DCSG1002</a><br/>Cybersikkerhet og teamarbeid</p></td>
-<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/PROG1001">PROG1001</a><br/>Programvareutvikling</p></td>
+<th rowspan="2" class="year"><p>1</p>
+</th>
+<th><p>høst</p>
+</th>
+<td class="e3"><p><a href="https://www.ntnu.no/studier/emner/BMA1010">BMA1010</a><br/>Matematikk for Informatikk</p>
+</td>
+<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/DCSG1001">DCSG1001</a><br/>Infrastruktur: grunnleggende ferdigheter</p>
+</td>
+<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/DCSG1002">DCSG1002</a><br/>Cybersikkerhet og teamarbeid</p>
+</td>
+<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/PROG1001">PROG1001</a><br/>Programvareutvikling</p>
+</td>
 </tr>
 <tr>
-<th><p>vår</p></th>
-<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/DCSG1005">DCSG1005</a><br/>Infrastruktur: sikre grunntjenester</p></td>
-<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/DCSG1006">DCSG1006</a><br/>Datakommunikasjon og nettverk</p></td>
-<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/PROG1003">PROG1003</a><br/>Objektorientert programmering</p></td>
-<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/PROG1004">PROG1004</a><br/>Programvareutvikling</p></td>
+<th><p>vår</p>
+</th>
+<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/DCSG1005">DCSG1005</a><br/>Infrastruktur: sikre grunntjenester</p>
+</td>
+<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/DCSG1006">DCSG1006</a><br/>Datakommunikasjon og nettverk</p>
+</td>
+<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/PROG1003">PROG1003</a><br/>Objektorientert programmering</p>
+</td>
+<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/PROG1004">PROG1004</a><br/>Programvareutvikling</p>
+</td>
 </tr>
 <tr>
-<th rowspan="2" class="year"><p>2</p></th>
-<th><p>høst</p></th>
-<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/DCSG2001">DCSG2001</a><br/>Sammenkoblede nettverk og nettverkssikkerhet</p></td>
-<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/EXPH0300">EXPH0300</a><br/>Examen philosophicum for naturvitenskap og teknologi</p></td>
-<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/IDATG2202">IDATG2202</a><br/>Operativsystemer</p></td>
-<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/PROG2053">PROG2053</a><br/>WWW-teknologier</p></td>
+<th rowspan="2" class="year"><p>2</p>
+</th>
+<th><p>høst</p>
+</th>
+<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/DCSG2001">DCSG2001</a><br/>Sammenkoblede nettverk og nettverkssikkerhet</p>
+</td>
+<td class="e4"><p><a href="https://www.ntnu.no/studier/emner/EXPH0300">EXPH0300</a><br/>Examen philosophicum for naturvitenskap og teknologi</p>
+</td>
+<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/IDATG2202">IDATG2202</a><br/>Operativsystemer</p>
+</td>
+<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/PROG2053">PROG2053</a><br/>WWW-teknologier</p>
+</td>
 </tr>
 <tr>
-<th><p>vår</p></th>
-<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/DCSG2003">DCSG2003</a><br/>Robuste og skalerbare tjenester</p></td>
-<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/DCSG2005">DCSG2005</a><br/>Risikostyring</p></td>
-<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/DCST2004">DCST2004</a><br/>Digital tjenesteforvaltning</p></td>
+<th><p>vår</p>
+</th>
+<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/DCSG2003">DCSG2003</a><br/>Robuste og skalerbare tjenester</p>
+</td>
+<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/DCSG2005">DCSG2005</a><br/>Risikostyring</p>
+</td>
+<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/DCST2004">DCST2004</a><br/>Digital tjenesteforvaltning</p>
+</td>
 </tr>
 <tr>
-<th rowspan="2" class="year"><p>2</p></th>
-<th><p>høst</p></th>
-<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/DCSG2900">DCSG2900</a><br/>Bacheloroppgave - del 1 av 2</p></td>
-<td colspan="3" class="e1"><p>Valgemner</p></td>
+<th rowspan="2" class="year"><p>2</p>
+</th>
+<th><p>høst</p>
+</th>
+<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/DCSG2900">DCSG2900</a><br/>Bacheloroppgave - del 1 av 2</p>
+</td>
+<td colspan="3" class="e1e"><p>Valgemner</p>
+</td>
 </tr>
 <tr>
-<th><p>vår</p></th>
-<td colspan="3" class="e1"><p><a href="https://www.ntnu.no/studier/emner/DCSG2900">DCSG2900</a><br/>Bacheloroppgave - del 2 av 2</p></td>
-<td class="e1"><p><a href="https://www.ntnu.no/studier/emner/IØ2000">IØ2000</a><br/>Hvordan bli en endringsagent</p></td>
+<th><p>vår</p>
+</th>
+<td colspan="3" class="e1"><p><a href="https://www.ntnu.no/studier/emner/DCSG2900">DCSG2900</a><br/>Bacheloroppgave - del 2 av 2</p>
+</td>
+<td class="e4"><p><a href="https://www.ntnu.no/studier/emner/I%C3%982000">IØ2000</a><br/>Hvordan bli en endringsagent</p>
+</td>
 </tr>
 </table>
     </section>
@@ -349,5 +321,11 @@ div.tipsbox ul {
       anchors.add('h1').add('h2').add('h3');
       anchors.options.visible = 'always';
   </script>
+  <script>
+    
+
+
+
+</script>
   </body>
 </html>
