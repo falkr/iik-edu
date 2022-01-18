@@ -29,3 +29,14 @@ type: table
 file: tables/mis-t.mw
 class: coursetable
 ---
+
+
+
+
+```yaml
+---
+type: table
+file: tables/mis-t.mw
+class: coursetable
+---
+```
