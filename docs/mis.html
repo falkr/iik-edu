@@ -15,7 +15,38 @@
     <link href="assets/style.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/bootstrap-icons.css">
 <script src="assets/anchor.js"></script>
-<style type="text/css">table.coursetable td {
+<style type="text/css">div.checklistbox {
+  width: 18rem;
+  float: right;
+  padding: 10px;
+  margin-left: 10px;
+  background-color: #EFF7FF;
+  border-radius: 0px;
+  border-top: 6px solid #00509e
+  }
+  
+div.checklistbox::before { 
+  content: "Checklist:";
+  font-weight: bold;
+  padding: 0px 0 12px 0;
+  display: block;
+  color: #00509e;
+  }
+
+div.checklistbox ul li:before {
+  content: '\f26a';
+  font-family: bootstrap-icons !important;
+  float: left;
+  margin-left: -1.5em;
+  color: #00509e;
+  line-height: 1.5rem;
+}
+
+
+div.checklistbox ul {
+  list-style-type: none;
+}
+table.coursetable td {
   font-size:0.6rem;
 }
 
@@ -101,6 +132,35 @@ table.coursetable td.e4e {
   ), #e3bcda;
 }
 
+div.tipsbox {
+  padding: 12px;
+  background-color: #EFF7FF;
+  border-radius: 0px;
+  border-top: 6px solid #00509e;
+  margin: 1rem 0 1rem 0;
+  }
+  
+div.tipsbox::before { 
+  content: "Tips:";
+  font-weight: bold;
+  display: block;
+  color: #00509e;
+  padding: 0px 0 12px 0;
+  }
+
+div.tipsbox ul li:before {
+  content: '\f26a';
+  font-family: bootstrap-icons !important;
+  float: left;
+  margin-left: -1.5em;
+  color: #00509e;
+  line-height: 1.5rem;
+}
+
+
+div.tipsbox ul {
+  list-style-type: none;
+}
 </style>
 </head>
   <body>
@@ -161,6 +221,7 @@ table.coursetable td.e4e {
                   <li><a href="emneansvarlig.html" class="link-dark rounded">Course Responsible</a></li>
                   <li><a href="referansegruppe.html" class="link-dark rounded">Reference Groups</a></li>
                   <li><a href="vurdering.html" class="link-dark rounded">Assessment</a></li>
+                  <li><a href="kommunikasjon.html" class="link-dark rounded">Contact with Students</a></li>
                 </ul>
               </div>
             </li>
@@ -408,6 +469,8 @@ table.coursetable td.e4e {
   </script>
   <script>
     
+
+
 
 
 
