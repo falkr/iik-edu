@@ -140,7 +140,7 @@
 <tr><td ><a href="https://www.ntnu.no/ansatte/norvald.stol">Norvald Stol</a> emneansvarlig</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/bv">Bjørn Jonny Villa</a> lærer</td></tr>
 <tr><td ><a href="https://www.ntnu.no/ansatte/norvald.stol">Norvald Stol</a> lærer</td></tr>
-<tr><td ><a href="https://www.ntnu.no/ansatte/karolikv">Faiga M. Alawad</a> stipendiat</td></tr></tbody>
+<tr><td ><a href="https://www.ntnu.no/ansatte/faigam">Faiga M. Alawad</a> stipendiat</td></tr></tbody>
 <tbody><tr><td rowspan="6" ><a href="https://www.ntnu.no/studier/emner/TTM4115">TTM4115</a></td>
 <td ><b>Design av kommuniserende systemer</b></td></tr>
 <tr><td class="details" >Trondheim, &#126;90 students.</td></tr>
