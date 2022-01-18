@@ -4,7 +4,7 @@ A class coordinators (_kullkoordinator_) is a dedicated teacher per student coho
 
 ---
 type: table
-file: tables/kullkoordinatorer.mw
+file: tables/kullkoordinatorer-2022.mw
 ---
 
 
