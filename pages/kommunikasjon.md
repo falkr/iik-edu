@@ -17,7 +17,7 @@ The main function of Piazza is asking questions that you, assistants or peer stu
 The use of Piazza for students is voluntary, which means that any information that all students should receive necessary information as always as Blackboard announcements. Piazza should only be used to answer additional questions asked by students.
 
 
-Have a look below for a tutorial how to use Piazza in your course. Thanks to Mattia teaching in Colins course TTM4195.
+Have a look below for a tutorial how to use Piazza in your course. Thanks to Mattia teaching in Colin's course TTM4195 and Danilo's course TTM4536.
 
 <div>
 <iframe src="https://ntnu.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=018be636-f637-4e0e-a698-ae210154baa8&autoplay=false&offerviewer=false&showtitle=false&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
