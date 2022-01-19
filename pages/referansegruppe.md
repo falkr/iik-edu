@@ -73,6 +73,14 @@ The reference group should meet **at least three times during the semester**. Th
 * Consider to which degree you want to involve learning assistants in the reference group meetings.
 
 
+---
+type: qna
+q: Why should the first meeting be early in the semester?
+---
+We observe that some issues in a course that lead to problems later could have been prevented by simple countermeasures early in the semester. Having the first reference group meeting early helps to uncover them. 
+
+
+
 ## Reference Group Report
 
 The reference group writes a final report using the template in the Teams for reference groups.

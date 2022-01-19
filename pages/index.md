@@ -28,7 +28,8 @@ url: mailto:kontakt@iik.ntnu.no
 * [NTNU Help](https://innsida.ntnu.no/ntnuhjelp)
 * [Undervisningsstøtte](https://innsida.ntnu.no/en/undervisningsstotte)
 * [Studiekvalitetsportalen](https://innsida.ntnu.no/studiekvalitetsportalen/) Published course and study program reports
-
+* [Panopto](https://ntnu.cloud.panopto.eu/)
+* [Zoom](https://ntnu.zoom.us)
 
 ### NTNU Links for Teaching
 
@@ -39,6 +40,7 @@ Time and Location:
 * [Bestilling av rom](https://tp.uio.no/ntnu/rombestilling/?)
 * [Romtimeplan](https://tp.uio.no/ntnu/timeplan/?type=room)
 * [Timeplan for emner](https://tp.uio.no/ntnu/timeplan/emner.php)
+* [Timeplan for studentgruper](https://tp.uio.no/ntnu/timeplan/student.php)
 
 
 Grading and Assessment:
