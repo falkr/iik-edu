@@ -35,10 +35,6 @@ Education.
 * After the class meeting, make short notes about any issues and inform SPL and Head of Education.
 
 
-## Links
-
-* [Table of all current cohort coordinators](https://innsida.ntnu.no/wiki/-/wiki/English/Studies+at+IIK)
-
 
 ## Veiledning til Studenter
 
