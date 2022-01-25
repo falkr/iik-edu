@@ -15,7 +15,67 @@
     <link href="assets/style.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/bootstrap-icons.css">
 <script src="assets/anchor.js"></script>
-<style type="text/css">
+<style type="text/css">div.checklistbox {
+  width: 18rem;
+  float: right;
+  padding: 10px;
+  margin-left: 10px;
+  background-color: #EFF7FF;
+  border-radius: 0px;
+  border-top: 6px solid #00509e
+  }
+  
+div.checklistbox::before { 
+  content: "Checklist:";
+  font-weight: bold;
+  padding: 0px 0 12px 0;
+  display: block;
+  color: #00509e;
+  }
+
+div.checklistbox ul li:before {
+  content: '\f26a';
+  font-family: bootstrap-icons !important;
+  float: left;
+  margin-left: -1.5em;
+  color: #00509e;
+  line-height: 1.5rem;
+}
+
+
+div.checklistbox ul {
+  list-style-type: none;
+}
+
+div.tipsbox {
+  padding: 12px;
+  background-color: #EFF7FF;
+  border-radius: 0px;
+  border-top: 6px solid #00509e;
+  margin: 1rem 0 1rem 0;
+  }
+  
+div.tipsbox::before { 
+  content: "Tips:";
+  font-weight: bold;
+  display: block;
+  color: #00509e;
+  padding: 0px 0 12px 0;
+  }
+
+div.tipsbox ul li:before {
+  content: '\f26a';
+  font-family: bootstrap-icons !important;
+  float: left;
+  margin-left: -1.5em;
+  color: #00509e;
+  line-height: 1.5rem;
+}
+
+
+div.tipsbox ul {
+  list-style-type: none;
+}
 </style>
 </head>
   <body>
@@ -450,11 +510,12 @@ Education.</li>
 
 <h2>Getting Started</h2>
 <ul>
-<li>Find the name of the contact student for your cohort, and optionally the focus course, in the table on this page.</li>
+<li>Find the name of the <a href="studenter.html">contact student for your cohort</a></li>
+<li>Optionally find the focus course in the table on this page.</li>
 <li>Plan three class meetings. One within the first three weeks of the semester, one in the middle, and another one towards the end of the lecture period. If there is no suitable focus course, contact students can help with finding a good time slot.</li>
-<li>Inform all students via the focus course's Blackboard announcements or via the cohort's mailing list. Send a reminder a few days before the meeting.</li>
+<li>Inform all students via the focus course's Blackboard announcements or via the <a href="epostlister.html">cohort's mailing list</a>. Send a reminder a few days before the meeting.</li>
 <li>During the first meeting, introduce yourself and the tasks of the cohort coordinator(opening a dialog with the students). Explain the other supporting roles and functions to the students like study advisors, contact students, reference groups, and what their tasks are.</li>
-<li>If you want, you can open the dialog with a survey using Mentimeter, asking students for any issues, opening for (anonymous) questions or comments. This often results in meaningful, valuable dialogs.</li>
+<li>If you want, you can open the dialog with a survey using <a href="mentimeter.com">Mentimeter</a>, asking students for any issues, opening for (anonymous) questions or comments. This often results in meaningful, valuable dialogs.</li>
 <li>After the class meeting, make short notes about any issues and inform SPL and Head of Education.</li>
 </ul>
 
@@ -492,6 +553,8 @@ Education.</li>
   </script>
   <script>
     
+
+
 
 </script>
   </body>
