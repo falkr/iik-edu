@@ -23,3 +23,11 @@ file: tables/programs.mw
 * Contributing to IIK Education meetings.
 * Being a member of the study program council.
 * Meetings with teachers in the program
+
+
+## Study Program Councils
+
+
+
+* [Studieprogramråd for informasjonssikkerhet og kommunikasjonsteknologi](https://i.ntnu.no/wiki/-/wiki/Norsk/Studieprogramråd+for+informasjonssikkerhet+og+kommunikasjonsteknologi)
+* [Studieprogramråd for Digital infrastruktur og cybersikkerhet](https://i.ntnu.no/wiki/-/wiki/Norsk/Studieprogramråd+for+Digital+infrastruktur+og+cybersikkerhet)
