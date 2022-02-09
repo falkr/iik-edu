@@ -16,7 +16,6 @@ file: tables/students-g.mw
 ---
 
 
-
 **KTV**: En klassetillitsvalgt (KTV) er valgt inn av egen klasse, og skal være bindeleddet mellom klassen og både studentprogramrådet og Studentrådet IE. KTV-er skal være kontaktperson for sin klasse, og møte på relevante samlinger i regi av instituttet og andre møter arrangert av ITV, PTV og FTV. Ellers skal de bistå medstudenter med problemer som angår studiet og klassen. I utgangspunktet blir en KTV valgt for hele studieperioden (2 eller 5 år), men dersom det er behov for det har KTV-en ansvar for å velge en ny KTV. 
 [Mandat for KTV](https://ie.studentrad.no/wp-content/uploads/2018/04/Instruks-for-klassetillitsvalgt-KTV-1.pdf).
 
