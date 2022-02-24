@@ -14,6 +14,8 @@ Oppgavene er:
 
 * Organisering av frokostmøter eller andre informasjonsmøter med eksterne foredragsholdere
 * Hjelpe instituttet med informasjonsmøter
+* Organisere kollokviegrupper
+* I årstrinn 2 (og 5) hjelpe med motivasjon til [Studiebarometeret](https://studiebarometeret.no)
 
 
 ## Kontakt med studenter
