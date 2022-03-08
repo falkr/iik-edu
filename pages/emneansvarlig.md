@@ -42,4 +42,13 @@
 ## Course Report
 
 
+1. Log into [Kasper](https://studntnu.sharepoint.com/sites/studieplanlegging)
+2. Click on [Emneevaluering](https://studntnu.sharepoint.com/sites/studieplanlegging/SitePages/Startside-emne.aspx)
+3. Under "Verktøy for emneevaluering", click on "Skrive Emnerapport".
+4. A page opens [Mine emnerapporter](https://studntnu.sharepoint.com/sites/studieplanlegging/SitePages/Mine-emnerapporter.aspx)
+5. Select the correct semester in the tab, and you should see the courses. (The table may be a little slow to load.)
+6. Click on a course, and a form for the course report should open. 
+7. Fill out the course report. 
+8. At the bottom of the page, find the button "Publiser rapport"
+
 
