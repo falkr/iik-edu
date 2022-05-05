@@ -1,7 +1,7 @@
 # Studentkontakter
 
 Studentkontakter er betalt av instituttet for ulike oppgaver. Det skal finnes en studentkontakt per kull.
-Ofte er det samme student som har rollen som KTV.
+Ofte er det samme student som har rollen som [KTV](ktv.html).
 
 Oppgavene er:
 
@@ -16,7 +16,7 @@ Oppgavene er:
 * Hjelpe instituttet med informasjonsmøter
 * Organisere kollokviegrupper
 * I årstrinn 2 (og 5) hjelpe med motivasjon til [Studiebarometeret](https://studiebarometeret.no)
-
+* I årstrinn 1 hjelpe med [Studentmentorer](studentmentorer.html)
 
 ## Kontakt med studenter
 
