@@ -4,27 +4,33 @@ En klassetillitsvalgt (KTV) er valgt inn av egen klasse, og skal være bindeledd
 [Mandat for KTV](https://ie.studentrad.no/wp-content/uploads/2018/04/Instruks-for-klassetillitsvalgt-KTV-1.pdf).
 
 
+## Konkret mandat for KTV ved IIK
+
+- Delta i dialogmøte med studieprogramleder
+
+Ofte er KTV også studentkontakt. Se også på [konkrete oppgavene i denne rollen](studentkontakt.html).
 
 ---
 type: quote
 title: Mandat for KTV fra studentrådet IE
 link: https://ie.studentrad.no/wp-content/uploads/2018/04/Instruks-for-klassetillitsvalgt-KTV-1.pdf
 --- 
-### Instruks​ ​for​ ​klassetillitsvalgt​ ​(KTV) 
+# Instruks​ ​for​ ​klassetillitsvalgt​ ​(KTV) 
 
 Vedtatt​ ​på​ ​Studentrådsmøte​ ​18.​ ​januar​ ​2017
-  *​ KTV​ ​skal​ ​være​ ​bindeledd​ ​mellom​ ​sin​ ​klasse​ ​og​ ​Studentrådet​ ​IE 
-  *​ KTV​ ​skal​ ​jobbe​ ​for​ ​å
-	*​ Være​ ​synlig​ ​og​ ​tilgjengelig​ ​for​ ​studentene​ ​i​ ​sin​ ​klasse
-	* ​Bistå​ ​medstudenter​ ​med​ ​problemer​ ​som​ ​angår​ ​studiet​ ​og ​​klassesituasjonen
-	*​ Være​ ​kontaktperson​ ​for​ ​klassen
-	* ​Engasjere​ ​seg​ ​i​ ​kvalitetssikringen​ ​av​ ​fellesfagene
-	* ​Ha​ ​en​ ​jevnlig​ ​kontakt​ ​med​ ​klassen
-  *​ KTV​ ​skal
-	* ​Møte​ ​på​ ​samlinger​ ​arrangert​ ​av​ ​ITV
-	* ​Møte​ ​på​ ​samlinger​ ​arrangert​ ​av​ ​instituttet
-	* ​Møte​ ​på​ ​Allmøte,​ ​samt​ ​informere​ ​klassen​ ​om​ ​dette
-	* ​Ta​ ​initiativ​ ​til​ ​at​ ​saker​ ​som​ ​angår​ ​klassen​ ​internt​ ​blir​ ​tatt ​videre,​ ​enten​ ​dette​ ​er​ ​rettet​ ​mot​ ​faglærer​ ​eller​ ​klassen​ ​i​ ​sin ​​helhet
+
+- KTV​ skal​ ​være​ ​bindeledd​ ​mellom​ ​sin​ ​klasse​ ​og​ ​Studentrådet​ ​IE 
+- KTV​ ​skal​ ​jobbe​ ​for​ ​å
+  - Være​ ​synlig​ ​og​ ​tilgjengelig​ ​for​ ​studentene​ ​i​ ​sin​ ​klasse
+  - Bistå​ ​medstudenter​ ​med​ ​problemer​ ​som​ ​angår​ ​studiet​ ​og ​​klassesituasjonen
+  - Være​ ​kontaktperson​ ​for​ ​klassen
+  - ​Engasjere​ ​seg​ ​i​ ​kvalitetssikringen​ ​av​ ​fellesfagene
+  - ​Ha​ ​en​ ​jevnlig​ ​kontakt​ ​med​ ​klassen
+- KTV​ ​skal
+  - ​Møte​ ​på​ ​samlinger​ ​arrangert​ ​av​ ​ITV
+  - ​Møte​ ​på​ ​samlinger​ ​arrangert​ ​av​ ​instituttet
+  - ​Møte​ ​på​ ​Allmøte,​ ​samt​ ​informere​ ​klassen​ ​om​ ​dette
+  -​ Ta​ ​initiativ​ ​til​ ​at​ ​saker​ ​som​ ​angår​ ​klassen​ ​internt​ ​blir​ ​tatt ​videre,​ ​enten​ ​dette​ ​er​ ​rettet​ ​mot​ ​faglærer​ ​eller​ ​klassen​ ​i​ ​sin ​​helhet
 
 ### Myndighet
 KTV​ ​velges​ ​blant​ ​klassen​ ​og​ ​representerer​ ​studentene​ ​i​ ​sin​ ​klasse.​ ​KTV har​ ​ansvaret​ ​for​​at​ ​det​ ​velges​ ​ny​ ​KTV​ ​ved​ ​behov.

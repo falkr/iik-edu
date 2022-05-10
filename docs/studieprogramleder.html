@@ -14,188 +14,28 @@
     <link href="assets/style.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/bootstrap-icons.css">
 <script src="assets/anchor.js"></script>
-<style type="text/css">a.ntnu-button {
-    font: 600 14px "Source Sans Pro", Georgia, serif;
-    background: #fff;
-    color: #00509e;
-    border: 1px solid #00509e;
-    border-color: #00509e !important;
-    border-style: solid !important;
-    border-radius: 10rem;
-    display: inline-block;
-    padding: 5px 15px;
-    height: auto;
-    font-weight: bold;
-    line-height: 1.5em;
-    text-align: center;
-    vertical-align: top;
-    cursor: pointer;
-    text-decoration: none
-}
-
-a.ntnu-button:hover {
-    background: #00509e;
-    color: #fff;
-    text-decoration: none
-}
-div.checklistbox {
-  width: 18rem;
-  float: right;
-  padding: 10px;
-  margin-left: 30px;
-  margin-bottom: 30px;
-  background-color: #EFF7FF;
+<style type="text/css">div.quotedoc {
+  padding: 22px;
+  xbackground-color: #EFF7FF;
   border-radius: 0px;
-  border-top: 6px solid #00509e
-  }
+  border-top: 0px solid #00509e;
+  #margin: 1rem 0 1rem 0;
+}
+
+div.quotecontent {
+  font-size:1em;
   
-div.checklistbox::before { 
-  content: "Checklist:";
-  font-weight: bold;
-  padding: 0px 0 12px 0;
-  display: block;
-  color: #00509e;
-  }
-
-div.checklistbox ul li:before {
-  content: '\f26a';
-  font-family: bootstrap-icons !important;
-  float: left;
-  margin-left: -1.5em;
-  color: #00509e;
-  line-height: 1.5rem;
 }
 
-
-div.checklistbox ul {
-  list-style-type: none;
-}
-table.coursetable td {
-  font-size:0.6rem;
+div.quotetitle {
+  font-style: italic;
+  margin-bottom: 2rem;
 }
 
-table.coursetable a {
-  font-size: 0.8rem;
-  font-weight: 400;
-  color: black;
-}
-
-table.coursetable th {
-  background-color: #F7F9F9;
-  text-align: left;
-  font-weight: 400;
-  font-size: 0.8rem;
-}
-
-table.coursetable th.year p {
-  font-weight: 700;
-  font-size: 2.5rem;
-  color: #BEBEBE;
-  line-height: 0.8em;
-}
-
-table.coursetable td {
-  width:22%;
-  background-color: #cfdaf1;
-  text-align: center;
-}
-
-table.coursetable td.e1 {
-  background-color: #cfdaf1;
-}
-
-table.coursetable td.e1e {
-  background: repeating-linear-gradient(
-    45deg,
-    #ffffff00,
-    #ffffff00 10px,
-    #ffffff88 10px,
-    #ffffff88 20px
-  ), #cfdaf1;
-}
-
-table.coursetable td.e2 {
-  background-color: #ebf0c4;
-}
-
-table.coursetable td.e2e {
-  background: repeating-linear-gradient(
-    45deg,
-    #ffffff00,
-    #ffffff00 10px,
-    #ffffff88 10px,
-    #ffffff88 20px
-  ), #ebf0c4;
-}
-
-table.coursetable td.e3 {
-  background-color: #fdd9b5;
-}
-
-table.coursetable td.e3e {
-  background: repeating-linear-gradient(
-    45deg,
-    #ffffff00,
-    #ffffff00 10px,
-    #ffffff88 10px,
-    #ffffff88 20px
-  ), #fdd9b5;
-}
-
-table.coursetable td.e4 {
-  background-color: #e3bcda;
-}
-
-table.coursetable td.e4e {
-  background: repeating-linear-gradient(
-    45deg,
-    #ffffff00,
-    #ffffff00 10px,
-    #ffffff88 10px,
-    #ffffff88 20px
-  ), #e3bcda;
-}
-button:hover {
-  background-color: #EFF7FF;
-}
-div.qna .accordion-button:not(.collapsed) {
-  background-color: #EFF7FF;
-  box-shadow: inset 0 -1px 0 rgba(0,0,0,.125);
-  color: #00509e;
-}
-
-div.qna .accordion-button:not(.collapsed)::after {
-  color: #00509e;
-}
-
-div.tipsbox {
-  padding: 12px;
-  background-color: #EFF7FF;
-  border-radius: 0px;
-  border-top: 6px solid #00509e;
-  margin: 1rem 0 1rem 0;
-  }
-  
-div.tipsbox::before { 
-  content: "Tips:";
-  font-weight: bold;
-  display: block;
-  color: #00509e;
-  padding: 0px 0 12px 0;
-  }
-
-div.tipsbox ul li:before {
-  content: '\f26a';
-  font-family: bootstrap-icons !important;
-  float: left;
-  margin-left: -1.5em;
-  color: #00509e;
-  line-height: 1.5rem;
-}
-
-
-div.tipsbox ul {
-  list-style-type: none;
+div.quotedoc h1:first-child,
+div.quotedoc h2:first-child,
+div.quotedoc h3:first-child {
+  margin-top: 0em;
 }
 
 </style>
@@ -428,11 +268,7 @@ div.tipsbox ul {
 </table>
 <h2>Mandate and Tasks</h2>
 
-<ul>
-<li><a href="https://innsida.ntnu.no/wiki/-/wiki/Norsk/ledelse+av+studieprogram">NTNU mandate for study program leaders</a></li>
-</ul>
-
-<h3>Specific Tasks</h3>
+<h3>Specific Tasks at IIK</h3>
 <ul>
 <li><a href="dialogm%C3%B8ter-spl.html">Dialog meetings</a> with students three times per semester.</li>
 <li>Writing the quality report at the end of the year.</li>
@@ -449,6 +285,42 @@ div.tipsbox ul {
 <li><a href="https://i.ntnu.no/wiki/-/wiki/Norsk/Studieprogramr%C3%A5d+for+Digital+infrastruktur+og+cybersikkerhet">Studieprogramråd for Digital infrastruktur og cybersikkerhet</a></li>
 </ul>
 
+<div class="quotedoc shadow-sm mt-5 bg-light rounded">
+<div class="quotetitle"><a href="https://innsida.ntnu.no/wiki/-/wiki/Norsk/ledelse+av+studieprogram"><!--<i class="bi bi-arrow-right-circle-fill"/>-->
+    
+    Mandat for studieprogramledere ved NTNU</a></div>
+<div class="quotecontent">
+<h1>Mandat for studieprogramledere NTNU</h1>
+<p>Robuste faglige og administrative rammer er en forutsetning for god kvalitet i våre studieprogram. Under følger en utdyping av NTNUs forventninger til studieprogramleders arbeid og rammene for dette arbeidet.</p>
+<h2>Studieprogramleders oppgaver</h2>
+<p>Studieprogramleder skal bidra til å utvikle læringsmiljø og faglig og pedagogisk kvalitet i studieprogrammet. Studieprogramleders funksjon er rådgivende og oppgavene utøves i tett dialog og samarbeid med dekan, instituttleder, emneansvarlige, faglærere og studenter. Utvikling av kvalitet i studieprogram er en kollektiv oppgave for fagmiljøet. Studieprogramleder leder studieprogramrådet og rapporterer til ansvarlig linjeleder. Studieprogramleders oppgaver beskrives under med utgangspunkt i sirkelen til høyre hvor utvikling av faglig og pedagogisk kvalitet legger grunnlaget for utviklingen av et helhetlig læringsmiljø.</p>
+<h2>Utvikling av faglig og pedagogisk kvalitet</h2>
+<p>Studieprogramleder skal utøve faglig og pedagogisk lederskap for studieprogrammet, det innebærer blant annet å:</p>
+<ul>
+<li>utvikle studieprogrammets faglige innhold, profil og relevans.</li>
+<li>sørge for at studieprogrammets læringsutbyttebeskrivelse uttrykker studieprogrammets ambisjon
+og at emnene som inngår bidrar til at studentene oppnår læringsutbyttet i studieprogrammet.</li>
+<li>utvikle programdesign med god sammenheng mellom studieprogrammets læringsutbyttebeskrivelse, læringsaktiviteter og vurderingsformer, og sørge for at emnene er koordinerte horisontalt og vertikalt.</li>
+<li>ivareta at studieprogrammet og undervisningsformene er forskningsbaserte og i samråd med ledelsen bidra til at det gjennomføres av robuste forskningsmiljø.</li>
+<li>legge til rette for dialog og utvikling av faglig og pedagogisk kvalitet i studieprogrammet i relevante fora og prosesser på institutt og fakultet, og følge opp krav til kvalitetsarbeid beskrevet i NTNUs kvalitetssystem.</li>
+<li>bidra til at studentene utvikler en sterk og selvstendig faglig identitet innenfor studieprogrammets kunnskapsområde.</li>
+<li>bidra til å utvikle et gjensidig fruktbart forhold til relevante eksterne parter (praksisfelt/profesjon/arbeidsliv/samfunnet) innenfor studieprogrammets kunnskapsområde.</li>
+</ul>
+<h2>Utvikling av læringsmiljø</h2>
+<p>Studieprogramleder skal bidra til å utvikle et godt læringsmiljø2 for studentene på studieprogrammet Dette innebærer blant annet å stimulere til at studentene utvikler en felles identitet og tilhørighet til programmet, og til utvikling av gode relasjoner mellom studenter, fagmiljø og administrasjon.</p>
+<h2>Rammer for studieprogramleders arbeid</h2>
+<p>God studieprogramledelse krever tilstrekkelige rammer for arbeidet, i form av tid, administrativ støtte, ressurser og tilgang til relevante dialog- og beslutningsarenaer.</p>
+<ul>
+<li>Alle studieprogramledere skal ha en avtalt ramme for tidsbruk. Normalordningen er 20 % stilling, men dette kan opp- eller nedjusteres med utgangspunkt i programmets størrelse, kompleksitet, og utviklingsbehov. Det bør tilstrebes en viss varighet for funksjonen for å sikre kontinuitet i arbeidet.</li>
+<li>Rammen må gi rom for at studieprogramleder kan utvikle egen kompetanse innenfor studieprogramledelse.</li>
+<li>Alle studieprogram skal ha administrativ støtte tilpasset studieprogrammets behov.</li>
+<li>Det skal være klart hvem som er ansvarlig linjeleder (dekan eller instituttleder).</li>
+<li>Studieprogramleder skal ha tilgang til informasjon og relevante dialog- og beslutningsarenaer som gir grunnlag og mulighet for å utvikle studieprogrammets kvalitet.</li>
+<li>Studieprogramleder bør ha minimum førstekompetanse og være i fast hovedstilling ved NTNU.</li>
+</ul>
+
+</div>
+</div>
     </section>
 </div>
 
@@ -471,11 +343,6 @@ div.tipsbox ul {
   </script>
   <script>
     
-
-
-
-
-
 
 
 </script>

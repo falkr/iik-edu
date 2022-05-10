@@ -5,7 +5,7 @@ En instituttillitsvalgt (ITV) er valgt av studentene ved instituttet og represen
 [Mandat for ITV](https://ie.studentrad.no/wp-content/uploads/2019/11/Instruks-ITV-20191105.pdf).
 
 
-## Konkret mandat ITV ved IIK
+## Konkret mandat for ITV ved IIK
 
 * Være medlem i instituttets utvidet ledergruppe
 * Hjelpe å koordinere sosiale og faglige aktiviteter
