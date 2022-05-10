@@ -5,10 +5,10 @@ Ofte er det samme student som har rollen som [KTV](ktv.html).
 
 Oppgavene er:
 
-* Hjelpe med informasjon til andre studenter i studiet
-* Hjelpe til med å forhindre frafall fra studiet
-* Hjelpe til med rekruttering av nye studenter
-
+- Hjelpe med informasjon til andre studenter i studiet
+- Hjelpe til med å forhindre frafall fra studiet
+- Hjelpe til med rekruttering av nye studenter
+- Hjelpe til å finne nok studentassistenter til emner
 
 ## Sosiale og faglige arrangementer
 

@@ -6,7 +6,8 @@ En klassetillitsvalgt (KTV) er valgt inn av egen klasse, og skal være bindeledd
 
 ## Konkret mandat for KTV ved IIK
 
-- Delta i dialogmøte med studieprogramleder
+- Delta i dialogmøter med studieprogramleder
+- Påse og hjelpe til at alle emner har en referansegruppe
 
 Ofte er KTV også studentkontakt. Se også på [konkrete oppgavene i denne rollen](studentkontakt.html).
 
