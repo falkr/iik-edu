@@ -8,11 +8,14 @@ En instituttillitsvalgt (ITV) er valgt av studentene ved instituttet og represen
 ## Konkret mandat for ITV ved IIK
 
 * Være medlem i instituttets utvidet ledergruppe
+* Delta i [dialogmøter med KTV og studieprogramleder](dialogmøter-spl.html) og følge opp saker derfra
+* Delta i dialogmøter med nestleder for utdanning 
+* Delta i [studentrådsmøter](https://ie.studentrad.no) og på studentråds-seminar
+* Delta i ansettelsesmøter og prøveforelesninger ved behov
 * Hjelpe å koordinere sosiale og faglige aktiviteter
-* Sørge for at alle klassetrinn har en studentkontakt
+* Sørge for at alle klassetrinn har en [studentkontakt](studentkontakt.html) og [KTV](ktv.html)
+* Sørge for at det er PTVer på de studieprogramrådene tilhørende IIK
 * Sørge for at [informasjon om studenter](studenter.html) er oppdatert
-
-
 
 
 ---
@@ -20,7 +23,7 @@ type: quote
 title: Instruks for Instituttillitsvalgt (ITV)
 link: https://ie.studentrad.no/wp-content/uploads/2019/11/Instruks-ITV-20191105.pdf
 --- 
-## Instruks for Instituttillitsvalgt (ITV)
+# Instruks for Instituttillitsvalgt (ITV)
 
 Vedtatt på Studentrådsmøte 05. november 2019
 
@@ -55,14 +58,14 @@ Vedtatt på Studentrådsmøte 05. november 2019
   * Kvalitetssikringssystemet på NTNU
   * Hva som foregår på instituttet (blant annet økonomi)
 
-### Myndighet
+## Myndighet
 ITV er valgt av studentene ved instituttet i henhold til gjeldende valgreglement og representerer studentene ved instituttet utenfor allmøtene
 
-### Godtgjørelse
+## Godtgjørelse
 ITV får godtgjørelse av institutt i henhold til avtale mellom Studenttinget og NTNU
 
-### Ikrafttredelse
+## Ikrafttredelse
 Instruksen trer i kraft fra 01. januar 2020
 
-### Endringer
+## Endringer
 Endringer i stillingsinstruksen blir vedtatt med 2/3 flertall på Studentrådsmøte
