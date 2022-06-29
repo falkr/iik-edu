@@ -18,6 +18,8 @@
 
 ## Prosedyre for innmelding av ekstern sensor
 
+*Trondheim*
+
 Det er faglærer sitt ansvar å fremskaffe ekstern sensor til eksamen, oppdatere studieadministrasjonen om vedkommede, samt sørge for at sensor kvalitetssikrer oppgavesettet før fristen for innlevering (5 dager før eksamensdato). Innmelding av ekstern sensor skal skje tidlig i semesteret, slik at studieadministrasjonen får gjennomført all nødvendig registrering i god tid før eksamen. 
 
 ### Hvordan melde inn ekstern sensor?
