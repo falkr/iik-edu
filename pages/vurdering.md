@@ -22,7 +22,7 @@ Det er faglærer sitt ansvar å fremskaffe ekstern sensor til eksamen, oppdatere
 
 ### Hvordan melde inn ekstern sensor?
 
-* Kontakt en ekstern sensor som er aktuell for temaet - se IIKs oversikt over oppnevnte sensorer
+* Kontakt en ekstern sensor som er aktuell for temaet - [se IIKs oversikt over oppnevnte sensorer](https://studntnu.sharepoint.com/:b:/r/sites/o365_IIKAllStaff/Shared%20Documents/General/Eksterne%20sensorer%20ved%20IIK/Oversikt%20sensorer%2021-24.pdf?csf=1&web=1&e=BpITiu)
 * Meld inn ekstern sensor med engang det er gjort en avtale om sensurarbeidet - sørg for å gi oppdatert epostadresse
 * Legg ved minst to forslag til potensielle klagesensorer
 * Legg ved forslag til intern sensor
