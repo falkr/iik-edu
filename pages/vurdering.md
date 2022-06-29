@@ -29,3 +29,10 @@ Det er faglærer sitt ansvar å fremskaffe ekstern sensor til eksamen, oppdatere
 
 OBS: Klagesensur skjer ofte i perioder med ferieavvikling, det er derfor nødvendig å ha en liste over potensielle klagesensorer på plass før eksamen finner sted. 
 
+### Hva trenger klagesensor?
+
+Klagesensor vil få de tilganger som trengs fra studieadministrasjonen. Det er fint om faglærer på forhånd sender følgende til studieadministrasonen:
+
+* Løsningsforslag
+* Forklaring på poengberegning ved behov
+
