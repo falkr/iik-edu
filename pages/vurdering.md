@@ -7,20 +7,21 @@
 
 # Eksamen - viktige frister
 
-* Melde inn ekstern sensor:                                               1 måned etter semesterstart
-* Innlevering av kvalitetssikret oppgavesett (skoleeksamen/Inspera):      5 dager før eksamensdato
-* Sensurfrist eksamen:                                                    3 uker etter eksamensdato
-* Begrunnelse (frist student):                                            1 uke etter karakter er publisert
-* Begrunnelse (frist faglærer):                                           2 uker etter forespørsel registrert av student
-* Klage (frist student):                                                  3 uker etter karakter er publisert
-* Klage sensurfrist:                                                      Så raskt som mulig, uten opphold 
+* **Melde inn ekstern sensor:**                                               1 måned etter semesterstart*
+* **Innlevering av kvalitetssikret oppgavesett (skoleeksamen/Inspera):**      5 dager før eksamensdato
+* **Sensurfrist eksamen:**                                                    3 uker etter eksamensdato
+* **Begrunnelse (frist student):**                                            1 uke etter karakter er publisert
+* **Begrunnelse (frist faglærer):**                                           2 uker etter forespørsel registrert av student
+* **Klage (frist student):**                                                  3 uker etter karakter er publisert
+* **Klage sensurfrist:**                                                      Så raskt som mulig, uten opphold 
 
+**OBS:** Alle frister over gjelder også for kontinuasjonseksamen. 
+
+**Ved kontinuasjonseksamen skal ekstern sensor meldes inn med en gang det er klart at denne vil gjennomføres.*
 
 ## Prosedyre for innmelding av ekstern sensor
 
-*Trondheim*
-
-Det er faglærer sitt ansvar å fremskaffe ekstern sensor til eksamen, oppdatere studieadministrasjonen om vedkommede, samt sørge for at sensor kvalitetssikrer oppgavesettet før fristen for innlevering (5 dager før eksamensdato). Innmelding av ekstern sensor skal skje tidlig i semesteret, slik at studieadministrasjonen får gjennomført all nødvendig registrering i god tid før eksamen. 
+Det er faglærer sitt ansvar å fremskaffe ekstern sensor til eksamen, oppdatere studieadministrasjonen om vedkommede, samt sørge for at sensor kvalitetssikrer oppgavesettet før fristen for innlevering (5 dager før eksamensdato). Innmelding av ekstern sensor skal skje tidlig i semesteret, slik at studieadministrasjonen får gjennomført all nødvendig registrering i god tid før eksamen. Ved delvurdering er ekstern sensor også nødt til å komme inn på et mye tidligere tidspunkt. Frist for innmelding er dermed satt til 1 måned etter semesterstart. 
 
 ### Hvordan melde inn ekstern sensor?
 
@@ -29,7 +30,8 @@ Det er faglærer sitt ansvar å fremskaffe ekstern sensor til eksamen, oppdatere
 * Legg ved minst to forslag til potensielle klagesensorer
 * Legg ved forslag til intern sensor
 
-OBS: Klagesensur skjer ofte i perioder med ferieavvikling, det er derfor nødvendig å ha en liste over potensielle klagesensorer på plass før eksamen finner sted. 
+**OBS:** Klagesensur skjer ofte i perioder med ferieavvikling, det er derfor nødvendig å ha en liste over potensielle klagesensorer på plass før eksamen finner sted. 
+ 
 
 ### Hva trenger klagesensor?
 
