@@ -1,3 +1,54 @@
+# IIK Utdanningsportalen
+
+## For Studenter
+
+* [IIK Snacks and Science](snacks.html)
+* [Studentmentorer 1. år](studentmentorer.html)
+* [Prosjekt og masteroppgave](ttm4905.html)
+* [Rom](rom.html)
+
+## For Emneansvarlige
+
+* [Emneansvarlig](emneansvarlig.html)
+* [Vurdering](vurdering.html)
+* [Referansegruppe](referansegruppe.html)
+* [Emneundersøkelse](emneundersøkelse.html)
+* [Kommunikasjon med studenter](kommunikasjon.html)
+* [Læringsassistenter](læringsassistenter.html)
+* [LAOS](laos.html)
+
+
+## For Studieprogramledere
+
+* [Studieprogramleder](studieprogramleder.html)
+* [Dialogmøter](dialogmøter-spl.html)
+* [Studentrepresentanter](studenter.html)
+* [Studentkontakter](studentkontakt.html)
+* [Epostlister](epostlister.html)
+* [BDIGSEC](bdigsec.html)
+* [MDIGSEC](mdigsec.html)
+* [MIS](mis.html) [MISEB](miseb.html)
+* [MSSECCLO](mssecclo.html)
+* [MTKOM](mtkom.html)
+
+
+## For Kullkoordinatorer
+
+* [Kullkoordinator](kullkoordinator.html)
+* [Studentrepresentanter](studenter.html)
+* [Studentkontakter](studentkontakt.html)
+* [Epostlister](epostlister.html)
+
+
+## For studenter med mandat
+
+* [Studentrepresentanter](studenter.html)
+* [Instituttstillitsvalgt](itv.html)
+* [Klassetillitsvalgt](ktv.html)
+* [Studentkontakter](studentkontakt.html)
+
+
+
 
 # IIK Education Guide
 
@@ -80,4 +131,12 @@ Other:
 ### Guidelines and Recommendations
 
 * [FTS - Fremtidens Teknologistudier](https://www.ntnu.no/fremtidensteknologistudier)
+
+
+
+
+
+
+
+
 
