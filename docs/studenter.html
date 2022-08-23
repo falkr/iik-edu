@@ -14,7 +14,31 @@
     <link href="assets/style.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/bootstrap-icons.css">
 <script src="assets/anchor.js"></script>
-<style type="text/css">div.checklistbox {
+<style type="text/css">a.ntnu-button {
+    font: 600 14px "Source Sans Pro", Georgia, serif;
+    background: #fff;
+    color: #00509e;
+    border: 1px solid #00509e;
+    border-color: #00509e !important;
+    border-style: solid !important;
+    border-radius: 10rem;
+    display: inline-block;
+    padding: 5px 15px;
+    height: auto;
+    font-weight: bold;
+    line-height: 1.5em;
+    text-align: center;
+    vertical-align: top;
+    cursor: pointer;
+    text-decoration: none
+}
+
+a.ntnu-button:hover {
+    background: #00509e;
+    color: #fff;
+    text-decoration: none
+}
+div.checklistbox {
   width: 18rem;
   float: right;
   padding: 10px;
@@ -130,6 +154,71 @@ table.coursetable td.e4e {
     #ffffff88 10px,
     #ffffff88 20px
   ), #e3bcda;
+}
+button:hover {
+  background-color: #EFF7FF;
+}
+div.qna .accordion-button:not(.collapsed) {
+  background-color: #EFF7FF;
+  box-shadow: inset 0 -1px 0 rgba(0,0,0,.125);
+  color: #00509e;
+}
+
+div.qna .accordion-button:not(.collapsed)::after {
+  color: #00509e;
+}
+div.quotedoc {
+  padding: 22px;
+  xbackground-color: #EFF7FF;
+  border-radius: 0px;
+  border-top: 0px solid #00509e;
+  #margin: 1rem 0 1rem 0;
+}
+
+div.quotecontent {
+  font-size:1em;
+  
+}
+
+div.quotetitle {
+  font-style: italic;
+  margin-bottom: 2rem;
+}
+
+div.quotedoc h1:first-child,
+div.quotedoc h2:first-child,
+div.quotedoc h3:first-child {
+  margin-top: 0em;
+}
+
+div.tipsbox {
+  padding: 12px;
+  background-color: #EFF7FF;
+  border-radius: 0px;
+  border-top: 6px solid #00509e;
+  margin: 1rem 0 1rem 0;
+  }
+  
+div.tipsbox::before { 
+  content: "Tips:";
+  font-weight: bold;
+  display: block;
+  color: #00509e;
+  padding: 0px 0 12px 0;
+  }
+
+div.tipsbox ul li:before {
+  content: '\f26a';
+  font-family: bootstrap-icons !important;
+  float: left;
+  margin-left: -1.5em;
+  color: #00509e;
+  line-height: 1.5rem;
+}
+
+
+div.tipsbox ul {
+  list-style-type: none;
 }
 
 </style>
@@ -309,7 +398,18 @@ table.coursetable td.e4e {
 </td>
 </tr>
 <tr>
-<td><p>KTV-1</p>
+<td><p>KTV-1 / Studentkontakt</p>
+</td>
+<td></td>
+<td><p>MTKOM-22</p>
+</td>
+<td><p>@stud.ntnu.no</p>
+</td>
+<td><p>Aug 2022 - Jun 2027</p>
+</td>
+</tr>
+<tr>
+<td><p>KTV-2 / Studentkontakt</p>
 </td>
 <td><p>Håkon Grue</p>
 </td>
@@ -321,7 +421,7 @@ table.coursetable td.e4e {
 </td>
 </tr>
 <tr>
-<td><p>KTV-2</p>
+<td><p>KTV-3 / Studentkontakt</p>
 </td>
 <td><p>Henriette Bjørheim</p>
 </td>
@@ -333,7 +433,7 @@ table.coursetable td.e4e {
 </td>
 </tr>
 <tr>
-<td><p>KTV-3</p>
+<td><p>KTV-4 / Studentkontakt</p>
 </td>
 <td><p>Emilie Rieber</p>
 </td>
@@ -345,9 +445,9 @@ table.coursetable td.e4e {
 </td>
 </tr>
 <tr>
-<td><p>(KTV-4)</p>
+<td><p>(KTV-5)</p>
 </td>
-<td><p>(Marie Øseth)</p>
+<td><p>(Marie Øseth) / Studentkontakt</p>
 </td>
 <td><p>MTKOM-18</p>
 </td>
@@ -357,7 +457,7 @@ table.coursetable td.e4e {
 </td>
 </tr>
 <tr>
-<td><p>KTV-4 (vara)</p>
+<td><p>KTV-5 (vara) / Studentkontakt</p>
 </td>
 <td><p>Carl Axel Lind</p>
 </td>
@@ -368,66 +468,6 @@ table.coursetable td.e4e {
 <td></td>
 </tr>
 <tr>
-<td><p>KTV-5</p>
-</td>
-<td><p>Tilde Thorvik</p>
-</td>
-<td><p>MTKOM-17</p>
-</td>
-<td><p>tildegt@stud.ntnu.no</p>
-</td>
-<td><p>Aug 2017 - Jun 2022</p>
-</td>
-</tr>
-<tr>
-<td><p>Studentkontakt</p>
-</td>
-<td><p>Håkon Grue</p>
-</td>
-<td><p>MTKOM-21</p>
-</td>
-<td><p>haakosgr@stud.ntnu.no</p>
-</td>
-<td><p>Aug 2021 - Jun 2026</p>
-</td>
-</tr>
-<tr>
-<td><p>Studentkontakt</p>
-</td>
-<td><p>Emilie Rieber</p>
-</td>
-<td><p>MTKOM-19</p>
-</td>
-<td><p>emiliri@stud.ntnu.no</p>
-</td>
-<td><p>Aug 2019 - Jun 2024</p>
-</td>
-</tr>
-<tr>
-<td><p>Studentkontakt</p>
-</td>
-<td><p>Henriette Bjørheim</p>
-</td>
-<td><p>MTKOM-20</p>
-</td>
-<td><p>henbjo@stud.ntnu.no</p>
-</td>
-<td><p>Aug 2020 - Jun 2025</p>
-</td>
-</tr>
-<tr>
-<td><p>Studentkontakt</p>
-</td>
-<td><p>Marie Øseth</p>
-</td>
-<td><p>MTKOM-18</p>
-</td>
-<td><p>marioset@stud.ntnu.no</p>
-</td>
-<td><p>Mar 2019 - Jun 2023</p>
-</td>
-</tr>
-<tr>
 <td><p>Studentkontakt</p>
 </td>
 <td><p>Helene Bolkan</p>
@@ -435,18 +475,6 @@ table.coursetable td.e4e {
 <td><p>MTKOM-18</p>
 </td>
 <td><p>helensbo@stud.ntnu.no</p>
-</td>
-<td><p>Mar 2019 - Jun 2023</p>
-</td>
-</tr>
-<tr>
-<td><p>Studentkontakt</p>
-</td>
-<td><p>Carl Axel Lind</p>
-</td>
-<td><p>MTKOM-18</p>
-</td>
-<td><p>calind@stud.ntnu.no</p>
 </td>
 <td><p>Mar 2019 - Jun 2023</p>
 </td>
@@ -474,43 +502,19 @@ table.coursetable td.e4e {
 <td></td>
 </tr>
 <tr>
-<td><p>KTV-2</p>
+<td><p>KTV-1 / Studentkontakt</p>
 </td>
-<td><p>Branislav Petrovic</p>
+<td><p>Denise Burgos</p>
 </td>
-<td><p>MSTCNNS-20</p>
+<td><p>MSTCNNS-22</p>
 </td>
-<td><p>branislp@stud.ntnu.no</p>
+<td><p>deniselb@stud.ntnu.no</p>
 </td>
-<td><p>Aug 2020 - Jun 2022</p>
-</td>
-</tr>
-<tr>
-<td><p>KTV-1</p>
-</td>
-<td><p>Sebastian Grøsvik</p>
-</td>
-<td><p>MSTCNNS-21</p>
-</td>
-<td><p>sebastgg@stud.ntnu.no</p>
-</td>
-<td><p>Aug 2021 - Jun 2023</p>
+<td><p>Aug 2022 - Jun 2024</p>
 </td>
 </tr>
 <tr>
-<td><p>Studentkontakt</p>
-</td>
-<td><p>Branislav Petrovic</p>
-</td>
-<td><p>MSTCNNS-20</p>
-</td>
-<td><p>branislp@stud.ntnu.no</p>
-</td>
-<td><p>Aug 2020 - Jun 2022</p>
-</td>
-</tr>
-<tr>
-<td><p>Studentkontakt</p>
+<td><p>KTV-2 / Studentkontakt</p>
 </td>
 <td><p>Sebastian Grøsvik</p>
 </td>
@@ -756,6 +760,11 @@ table.coursetable td.e4e {
   </script>
   <script>
     
+
+
+
+
+
 
 
 
