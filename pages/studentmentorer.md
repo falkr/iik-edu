@@ -24,25 +24,25 @@ type: table
 | rowspan="3" | 1
 | rowspan="3" | torsdager kl. 9:00 - 12:00
 | rowspan="3" | [Mojave A276](https://link.mazemap.com/UpEMmPCI)
-| Eva Vartdal Kvalø
-| evakval@stud.ntnu.no
+| Oda Kristin Gripenberg
+| @stud.ntnu.no
 |-
-| Emil Bragstad
-| emilbrag@stud.ntnu.no
+| Anna Emilie Lio
+| @stud.ntnu.no
 |-
-| Aksel Katralen
-| akselnk@stud.ntnu.no
+| Sebastian Ellingsen
+| @stud.ntnu.no
 |-
 | rowspan="3" | BDIGSEC
 | rowspan="3" | 1
 | rowspan="3" | fredager kl. 15:00 - 18:00
 | rowspan="3" | [K205B Kråkereiret](https://link.mazemap.com/G2BfQZK0)
-| Ole Morud
-| olekmo@stud.ntnu.no
+| Erlend Aursand Berge
+| @stud.ntnu.no
 |-
-| Lars Martin Nygaard
-| larsmny@stud.ntnu.no
+| Mohammad Rdwan Alhammod
+| @stud.ntnu.no
 |-
-| Espen-Andreas Oseth
-| espenano@stud.ntnu.no
+| Hanan Mahmoud Shamsi
+| @stud.ntnu.no
 |}

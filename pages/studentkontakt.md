@@ -17,6 +17,7 @@ Oppgavene er:
 * Organisere kollokviegrupper
 * I årstrinn 2 (og 5) hjelpe med motivasjon til [Studiebarometeret](https://studiebarometeret.no)
 * I årstrinn 1 hjelpe med [Studentmentorer](studentmentorer.html)
+* I årstrinn 5 hjelpe med organisering av utmatrikuleringen
 
 ## Kontakt med studenter
 

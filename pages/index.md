@@ -105,8 +105,9 @@ Grading and Assessment:
 
 Quality System:
 
-* [Evaluere emne - for emneansvarlig](https://i.ntnu.no/evaluere-emne)
-* [Quality assurance of education](https://i.ntnu.no/wiki/-/wiki/English/Quality+assurance+of+education)
+* [Evaluere emne - for emneansvarlig](https://i.ntnu.no/utdanningskvalitet/emner)
+* [Evaluaere emne - for studenter](https://i.ntnu.no/emne-evaluere)
+* [Quality assurance of education](https://i.ntnu.no/en/utdanningskvalitet)
 
 Other:
 
