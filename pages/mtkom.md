@@ -5,7 +5,7 @@
 * [Utdanning.no](https://utdanning.no/utdanning/ntnu.no/kommunikasjonsteknologi_og_digital_sikkerhet_-_masterstudium_5-arig)
 
 
-Fullstendig, oppdatert og gjeldende studieplan finner du [her](https://www.ntnu.no/studier/mtkom/oppbygging).
+Fullstendig, oppdatert og gjeldende studieplan finner du [her](https://www.ntnu.no/studier/mtkom/studiets-oppbygning).
 
 
 ---

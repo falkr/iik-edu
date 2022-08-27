@@ -4,7 +4,7 @@ There are two different types of positions for students, Learning Assistant and 
 
 # Learning Assistants
 
-From [Lokal lønnspolitikk for NTNU](https://innsida.ntnu.no/c/wiki/get_page_attachment?p_l_id=2562032420&nodeId=24647&title=Lønnspolitikk&fileName=Lokal%20lønnspolitikk%20rev%2004.09.2020.pdf):
+From [Lokal lønnspolitikk for NTNU](https://i.ntnu.no/documents/portlet_file_entry/1305837853/Lokal+lønnspolitikk+rev+1.6.2022.pdf/5b5ce972-400c-e1c4-8d50-253259c83202):
 
   >> Læringsassistentene har en omfattende og fleksibel funksjon der de bevisstgjør studentene på egen læring, og driver ’undervisning og veiledning’ i samarbeid med faste faglærere. Eksempelvis vil læringsassistentene hovedsakelig ha oppgaver relatert til veiledning, gruppeledelse (herunder øvinger, kollokvier og seminarer) og evaluering. De skal ikke pålegges selvstendige forelesninger.
 
@@ -19,7 +19,7 @@ Learning assistants require [LAOS](laos.html).
 
 # Student Assistants
 
-From [Lokal lønnspolitikk for NTNU](https://innsida.ntnu.no/c/wiki/get_page_attachment?p_l_id=2562032420&nodeId=24647&title=Lønnspolitikk&fileName=Lokal%20lønnspolitikk%20rev%2004.09.2020.pdf):
+From [Lokal lønnspolitikk for NTNU](https://i.ntnu.no/documents/portlet_file_entry/1305837853/Lokal+lønnspolitikk+rev+1.6.2022.pdf/5b5ce972-400c-e1c4-8d50-253259c83202):
 
   >> Studentassistenter brukes som betegnelse på assistentstillinger med mer variabelt innhold enn læringsassistentstillingene, og der virksomheten i mindre grad er knyttet til den fast organiserte undervisning, veiledning og lignende. 
 
