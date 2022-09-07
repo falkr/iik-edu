@@ -2,6 +2,7 @@
 
 ## For Studenter
 
+* [Delta i referansegrupper](referansegruppe-studenter.html)
 * [IIK Snacks and Science](snacks.html)
 * [Studentmentorer 1. år](studentmentorer.html)
 * [Prosjekt og masteroppgave](ttm4905.html)

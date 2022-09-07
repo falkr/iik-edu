@@ -53,9 +53,13 @@ q: What if no students volunteer for the reference group?
 
 ## Information to Students
 
-We have collected information relevant for the students in reference groups [on this separate page](referansegruppe-studenter.html). Just provide the link to this page to the students.
-
-
+Inform students in the reference group about the [tasks of a reference group](https://innsida.ntnu.no/wiki/-/wiki/Norsk/referansegruppe+-+kvalitetssikring+av+utdanning), or show them the following video.
+   
+---
+type: video
+video: geSMQozDkAE
+caption: "Video explaining reference groups to students."
+---
 
 ## Reference Group Meetings
 
