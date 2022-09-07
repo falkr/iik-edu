@@ -11,6 +11,7 @@
 
 
 ### Trondheim
+
 ---
 type: table
 file: tables/students-t.mw
@@ -18,6 +19,7 @@ file: tables/students-t.mw
 
 
 ### Gjøvik
+
 ---
 type: table
 file: tables/students-g.mw
