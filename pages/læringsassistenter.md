@@ -27,7 +27,7 @@ From [Lokal lønnspolitikk for NTNU](https://i.ntnu.no/documents/portlet_file_en
 
 The process of recruitment and employment of the students differs slightly between the two campuses. Please see the contact details below, for questions related to the process for courses at your campus.
 
-#### Please keep to the deadlines given during the process. That way we can ensure that the recruitment and employment goes as smoothly as it can for all parts.  
+**Please keep to the deadlines given during the process. That way we can ensure that the recruitment and employment goes as smoothly as it can for all parts.**
 
 In short, this is the procedure:
 

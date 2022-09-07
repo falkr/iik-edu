@@ -20,7 +20,7 @@ type: table
 | rowspan="3" | MTKOM
 | rowspan="3" | 1
 | rowspan="3" | Torsdager 14:00 - 17:00
-| rowspan="3" | [Mojave A276](https://link.mazemap.com/UpEMmPCI)
+| rowspan="3" | [A280B](https://link.mazemap.com/Q3GRVxL5)
 | Oda Kristin Gripenberg
 | odakgr@stud.ntnu.no
 |-
@@ -32,7 +32,7 @@ type: table
 |-
 | rowspan="3" | BDIGSEC
 | rowspan="3" | 1
-| rowspan="3" | 
+| rowspan="3" | Mandager 10:00 til 13:00
 | rowspan="3" | [K205B Kråkereiret](https://link.mazemap.com/G2BfQZK0)
 | Erlend Aursand Berge
 | erleab@stud.ntnu.no
