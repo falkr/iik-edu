@@ -1,8 +1,10 @@
-# Studentmentorer
+# IIK Studentmentorer
 
 For studenter i første klasse til MTKOM (Kommunikasjonsteknologi og digital sikkerhet) og BDIGSEC Gjøvik (Digital infrastruktur og cybersikkerhet) tilbyr IIK et mentorprogram. 
 
-Klassementorer er studenter som tilbyr hver uke 3 timer med generell faglig hjelp, altså hjelper på tvers av alle emner.
+Klassementorer er studenter som tilbyr hver uke 3 timer med generell hjelp, altså hjelper på tvers av alle emner. Dere kan spørre om alt, det er ment som et tilbud for å få hjelp med ting dere kanskje synes er vanskelig å få hjelp om andre steder.
+
+Her er en oversikt over mentorene, tid og sted:
 
 
 ---

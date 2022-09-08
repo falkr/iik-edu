@@ -8,8 +8,8 @@ These rooms are available to all students studying at IIK.
 -   [A272](http://bit.ly/2PeuC0h) Serengeti
 -   [A276](http://bit.ly/362XAXR) Mojave
 -   [A268](http://bit.ly/2rgzQAL) Gobi 2.0
--   [A280A](http://bit.ly/369rMAL) Workspace
--   [A280B](http://bit.ly/369rMAL) Workspace
+-   [A280A](http://bit.ly/369rMAL) Workspace [Reservations](https://docs.google.com/spreadsheets/d/1X3Hb_-zogr8egZgwDPjRj7nbp523s4HAU4X6Dkem-Zw/edit?fbclid=IwAR3Mdz9rO4VbT2sQsUA-DdGhC7YSRkWMWM6KiPWgZTaHiv46uvEt17Bpm8o#gid=0)
+-   [A280B](http://bit.ly/369rMAL) Workspace [Reservations](https://docs.google.com/spreadsheets/d/1X3Hb_-zogr8egZgwDPjRj7nbp523s4HAU4X6Dkem-Zw/edit?fbclid=IwAR3Mdz9rO4VbT2sQsUA-DdGhC7YSRkWMWM6KiPWgZTaHiv46uvEt17Bpm8o#gid=0)
 -   [F256](http://bit.ly/2Pk6Zn2) Coffee room
 -   [F272](http://bit.ly/2RxKPRh) Sahara lab
 
