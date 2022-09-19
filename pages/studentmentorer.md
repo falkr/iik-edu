@@ -34,7 +34,7 @@ type: table
 |-
 | rowspan="3" | BDIGSEC
 | rowspan="3" | 1
-| rowspan="3" | Mandager 10:00 til 13:00
+| rowspan="3" | Mandager 12:00 til 15:00
 | rowspan="3" | [K205B Kråkereiret](https://link.mazemap.com/G2BfQZK0)
 | Erlend Aursand Berge
 | erleab@stud.ntnu.no
