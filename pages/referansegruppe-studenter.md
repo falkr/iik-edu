@@ -1,7 +1,6 @@
-# Reference Groups (for Students)
+# Reference Groups
 
 
-Inform students in the reference group about the [tasks of a reference group](https://innsida.ntnu.no/wiki/-/wiki/Norsk/referansegruppe+-+kvalitetssikring+av+utdanning), or show them the following video.
    
 ---
 type: video

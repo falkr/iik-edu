@@ -1,12 +1,3 @@
-https://innsida.ntnu.no/wiki/-/wiki/Norsk/Kvalitetssystem+for+utdanning
-
-https://innsida.ntnu.no/romreservasjon
-https://tp.uio.no/ntnu/rombestilling/?
-
-
-
-http://www.universitetsavisa.no/
-
 https://innsida.ntnu.no/wiki/-/wiki/Norsk/møteledelse
 
 
@@ -23,7 +14,15 @@ rules
 https://innsida.ntnu.no/wiki/-/wiki/Norsk/Studieutvalget+ved+IE
 
 
-KTV:
-- påse at referansegrupper er oprettet
-- påse at MTKOM studenter er med i referansefupper for emner med andre studieprogram
-- delta i dialogmøter
+
+
+
+### IIK Links
+
+* [Studies at IIK](https://innsida.ntnu.no/wiki/-/wiki/English/Studies+at+IIK)
+* [Grading of Master's Theses](https://i.ntnu.no/wiki/-/wiki/English/Grading+MSc+theses+at+IIK)
+
+
+
+
+

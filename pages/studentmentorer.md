@@ -7,6 +7,8 @@ Klassementorer er studenter som tilbyr hver uke 3 timer med generell hjelp, alts
 Her er en oversikt over mentorene, tid og sted:
 
 
+# Mentorprogram for høsten 2022
+
 ---
 type: table
 ---

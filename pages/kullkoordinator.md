@@ -1,4 +1,12 @@
-# Cohort Coordinators
+# For Cohort Coordinators
+
+
+* [Studentrepresentanter](studentrepresentanter.html)
+* [Studentkontakter](studentkontakt.html)
+* [Epostlister](epostlister.html)
+
+
+
 
 A class coordinator (_kullkoordinator_) is a dedicated teacher per student cohort, often a teacher that also teaches a course for that cohort. They act as an academic contact point for a cohort of students and focus on the learning environment for the students from their perspective as a cohort, across the courses. Class contacts work closely together with the contact students, study program leader (SPL), study advisors and other administrative staff. Cohort coordinators stay with a specific study year, that means, students get a new cohort coordinator as they progress.
 

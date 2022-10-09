@@ -1,6 +1,17 @@
 
 
-# Study Program Leaders
+# For Study Program Leaders
+
+
+* [Dialogmøter](dialogmøter-spl.html)
+* [Studentrepresentanter](studenter.html)
+* [Studentkontakter](studentkontakt.html)
+* [Epostlister](epostlister.html)
+* [BDIGSEC](bdigsec.html)
+* [MDIGSEC](mdigsec.html)
+* [MIS](mis.html) [MISEB](miseb.html)
+* [MSSECCLO](mssecclo.html)
+* [MTKOM](mtkom.html)
 
 
 ---

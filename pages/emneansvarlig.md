@@ -15,11 +15,10 @@
 * [NTNU Wiki for Course Responsibles](https://innsida.ntnu.no/emneansvarlig)
 
 
-## Yearly Wheel
-
 
 ## Links
 
+* [LAOS at IIK](laos.html)
 * [Accessibility](https://i.ntnu.no/wiki/-/wiki/Norsk/Forelese+for+studenter+med+funksjonsnedsettelse)
 
 
