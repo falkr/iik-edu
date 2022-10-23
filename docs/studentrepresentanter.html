@@ -40,6 +40,22 @@ a.ntnu-button:hover {
     color: #fff;
     text-decoration: none
 }
+.person-card img {
+  width: 56px;
+  border: 1px solid #eee;
+}
+
+.person-card-name {
+  font-weight: 600;
+}
+
+.person-card-email {
+  font-size: 0.8em;
+}
+
+.person-card-detail {
+  font-size: 0.8em;
+}
 div.checklistbox {
   width: 18rem;
   float: right;
@@ -157,18 +173,6 @@ table.coursetable td.e4e {
     #ffffff88 20px
   ), #e3bcda;
 }
-button:hover {
-  background-color: #EFF7FF;
-}
-div.qna .accordion-button:not(.collapsed) {
-  background-color: #EFF7FF;
-  box-shadow: inset 0 -1px 0 rgba(0,0,0,.125);
-  color: #00509e;
-}
-
-div.qna .accordion-button:not(.collapsed)::after {
-  color: #00509e;
-}
 div.quotedoc {
   padding: 22px;
   xbackground-color: #EFF7FF;
@@ -193,35 +197,6 @@ div.quotedoc h3:first-child {
   margin-top: 0em;
 }
 
-div.tipsbox {
-  padding: 12px;
-  background-color: #EFF7FF;
-  border-radius: 0px;
-  border-top: 6px solid #00509e;
-  margin: 1rem 0 1rem 0;
-  }
-  
-div.tipsbox::before { 
-  content: "Tips:";
-  font-weight: bold;
-  display: block;
-  color: #00509e;
-  padding: 0px 0 12px 0;
-  }
-
-div.tipsbox ul li:before {
-  content: '\f26a';
-  font-family: bootstrap-icons !important;
-  float: left;
-  margin-left: -1.5em;
-  color: #00509e;
-  line-height: 1.5rem;
-}
-
-
-div.tipsbox ul {
-  list-style-type: none;
-}
 
 
   </style>
@@ -268,13 +243,14 @@ div.tipsbox ul {
         <div class="page">
     </section>
     <section class="content">
-<h1>Student Representatives</h1>
+<h1>Studentrepresentanter</h1>
+
 <ul>
-<li><a href="itv.html">ITV</a></li>
-<li><a href="ktv.html">KTV</a></li>
-<li><a href="studentkontakt.html">Studentkontakt</a></li>
-<li><strong>PTV</strong>: En programtillitsvalgt (PTV) representerer studentene av et studieprogram i <a href="studieprogramr%C3%A5d.html">studieprogramrådet</a>.</li>
-<li><strong>FTV</strong>: Fakultetstillitsvalgte er koordinert av fakultetet, og er <a href="https://ie.studentrad.no/">beskrevet her</a>.
+<li><a href="itv.html">Insituttillitsvalgte (ITVs)</a> er ansvarlig for kontakt mellom studentene og instituttet. Ved IIK har vi fire ITVs, to per campus.</li>
+<li><a href="ktv.html">Klassetillitsvalgte (KTVs)</a> er ansvarlig for hele klassen og studieprogrammet.</li>
+<li><a href="studentkontakt.html">Studentkontakter</a> hjelper med ulike oppgaver, og er ofte samme student som KTV.</li>
+<li>Programtillitsvalgt (PTVs) representerer studentene av et studieprogram i <a href="studieprogramr%C3%A5d.html">studieprogramrådet</a>.</li>
+<li>Fakultetstillitsvalgte (FTVs) er koordinert av fakultetet, og er <a href="https://ie.studentrad.no/">beskrevet her</a>.
 <a href="https://ie.studentrad.no/wp-content/uploads/2018/04/FTVstillingsinstruks2017-1.pdf">Mandat for FTV</a>.</li>
 </ul>
 
@@ -310,7 +286,8 @@ div.tipsbox ul {
 </td>
 <td><p>Torbjørn Birkenes</p>
 </td>
-<td></td>
+<td><p>MSTCNNS-21</p>
+</td>
 <td><p>torbjbi@stud.ntnu.no</p>
 </td>
 <td><p>Jan 2022 -</p>
@@ -655,7 +632,6 @@ div.tipsbox ul {
   </script>
   <script>
     
-
 
 
 

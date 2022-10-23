@@ -40,134 +40,21 @@ a.ntnu-button:hover {
     color: #fff;
     text-decoration: none
 }
-div.checklistbox {
-  width: 18rem;
-  float: right;
-  padding: 10px;
-  margin-left: 30px;
-  margin-bottom: 30px;
-  background-color: #EFF7FF;
-  border-radius: 0px;
-  border-top: 6px solid #00509e
-  }
-  
-div.checklistbox::before { 
-  content: "Checklist:";
-  font-weight: bold;
-  padding: 0px 0 12px 0;
-  display: block;
-  color: #00509e;
-  }
-
-div.checklistbox ul li:before {
-  content: '\f26a';
-  font-family: bootstrap-icons !important;
-  float: left;
-  margin-left: -1.5em;
-  color: #00509e;
-  line-height: 1.5rem;
+.person-card img {
+  width: 56px;
+  border: 1px solid #eee;
 }
 
-
-div.checklistbox ul {
-  list-style-type: none;
-}
-table.coursetable td {
-  font-size:0.6rem;
+.person-card-name {
+  font-weight: 600;
 }
 
-table.coursetable a {
-  font-size: 0.8rem;
-  font-weight: 400;
-  color: black;
+.person-card-email {
+  font-size: 0.8em;
 }
 
-table.coursetable th {
-  background-color: #F7F9F9;
-  text-align: left;
-  font-weight: 400;
-  font-size: 0.8rem;
-}
-
-table.coursetable th.year p {
-  font-weight: 700;
-  font-size: 2.5rem;
-  color: #BEBEBE;
-  line-height: 0.8em;
-}
-
-table.coursetable td {
-  width:22%;
-  background-color: #cfdaf1;
-  text-align: center;
-}
-
-table.coursetable td.e1 {
-  background-color: #cfdaf1;
-}
-
-table.coursetable td.e1e {
-  background: repeating-linear-gradient(
-    45deg,
-    #ffffff00,
-    #ffffff00 10px,
-    #ffffff88 10px,
-    #ffffff88 20px
-  ), #cfdaf1;
-}
-
-table.coursetable td.e2 {
-  background-color: #ebf0c4;
-}
-
-table.coursetable td.e2e {
-  background: repeating-linear-gradient(
-    45deg,
-    #ffffff00,
-    #ffffff00 10px,
-    #ffffff88 10px,
-    #ffffff88 20px
-  ), #ebf0c4;
-}
-
-table.coursetable td.e3 {
-  background-color: #fdd9b5;
-}
-
-table.coursetable td.e3e {
-  background: repeating-linear-gradient(
-    45deg,
-    #ffffff00,
-    #ffffff00 10px,
-    #ffffff88 10px,
-    #ffffff88 20px
-  ), #fdd9b5;
-}
-
-table.coursetable td.e4 {
-  background-color: #e3bcda;
-}
-
-table.coursetable td.e4e {
-  background: repeating-linear-gradient(
-    45deg,
-    #ffffff00,
-    #ffffff00 10px,
-    #ffffff88 10px,
-    #ffffff88 20px
-  ), #e3bcda;
-}
-button:hover {
-  background-color: #EFF7FF;
-}
-div.qna .accordion-button:not(.collapsed) {
-  background-color: #EFF7FF;
-  box-shadow: inset 0 -1px 0 rgba(0,0,0,.125);
-  color: #00509e;
-}
-
-div.qna .accordion-button:not(.collapsed)::after {
-  color: #00509e;
+.person-card-detail {
+  font-size: 0.8em;
 }
 div.quotedoc {
   padding: 22px;
@@ -192,37 +79,6 @@ div.quotedoc h2:first-child,
 div.quotedoc h3:first-child {
   margin-top: 0em;
 }
-
-div.tipsbox {
-  padding: 12px;
-  background-color: #EFF7FF;
-  border-radius: 0px;
-  border-top: 6px solid #00509e;
-  margin: 1rem 0 1rem 0;
-  }
-  
-div.tipsbox::before { 
-  content: "Tips:";
-  font-weight: bold;
-  display: block;
-  color: #00509e;
-  padding: 0px 0 12px 0;
-  }
-
-div.tipsbox ul li:before {
-  content: '\f26a';
-  font-family: bootstrap-icons !important;
-  float: left;
-  margin-left: -1.5em;
-  color: #00509e;
-  line-height: 1.5rem;
-}
-
-
-div.tipsbox ul {
-  list-style-type: none;
-}
-
 
   </style>
 </head>
@@ -284,6 +140,8 @@ div.tipsbox ul {
 <li>Sørge for at det er PTVer på de studieprogramrådene tilhørende IIK</li>
 <li>Sørge for at <a href="studenter.html">informasjon om studenter</a> er oppdatert</li>
 </ul>
+
+<p>Du kan bruke <a href="epostlister.html">e-post</a> for å nå alle studenter.</p>
 
 <div class="quotedoc shadow-sm mt-5 mb-5 bg-light rounded">
 <div class="quotetitle"><a href="https://ie.studentrad.no/wp-content/uploads/2019/11/Instruks-ITV-20191105.pdf"><i class="bi bi-arrow-right-circle-fill"></i>&nbsp;Instruks for Instituttillitsvalgt (ITV)</a></div>
@@ -368,10 +226,6 @@ div.tipsbox ul {
   </script>
   <script>
     
-
-
-
-
 
 
 

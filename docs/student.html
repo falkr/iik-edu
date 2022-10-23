@@ -40,6 +40,22 @@ a.ntnu-button:hover {
     color: #fff;
     text-decoration: none
 }
+.person-card img {
+  width: 56px;
+  border: 1px solid #eee;
+}
+
+.person-card-name {
+  font-weight: 600;
+}
+
+.person-card-email {
+  font-size: 0.8em;
+}
+
+.person-card-detail {
+  font-size: 0.8em;
+}
 div.checklistbox {
   width: 18rem;
   float: right;
@@ -157,18 +173,6 @@ table.coursetable td.e4e {
     #ffffff88 20px
   ), #e3bcda;
 }
-button:hover {
-  background-color: #EFF7FF;
-}
-div.qna .accordion-button:not(.collapsed) {
-  background-color: #EFF7FF;
-  box-shadow: inset 0 -1px 0 rgba(0,0,0,.125);
-  color: #00509e;
-}
-
-div.qna .accordion-button:not(.collapsed)::after {
-  color: #00509e;
-}
 div.quotedoc {
   padding: 22px;
   xbackground-color: #EFF7FF;
@@ -193,35 +197,6 @@ div.quotedoc h3:first-child {
   margin-top: 0em;
 }
 
-div.tipsbox {
-  padding: 12px;
-  background-color: #EFF7FF;
-  border-radius: 0px;
-  border-top: 6px solid #00509e;
-  margin: 1rem 0 1rem 0;
-  }
-  
-div.tipsbox::before { 
-  content: "Tips:";
-  font-weight: bold;
-  display: block;
-  color: #00509e;
-  padding: 0px 0 12px 0;
-  }
-
-div.tipsbox ul li:before {
-  content: '\f26a';
-  font-family: bootstrap-icons !important;
-  float: left;
-  margin-left: -1.5em;
-  color: #00509e;
-  line-height: 1.5rem;
-}
-
-
-div.tipsbox ul {
-  list-style-type: none;
-}
 
 
   </style>
@@ -276,70 +251,62 @@ div.tipsbox ul {
 <a class="ntnu-button" href="mailto:kontakt@iik.ntnu.no">kontakt@iik.ntnu.no</a>
 <h3>Tilbud ved IIK</h3>
 
-<div class="mt-5 mb-5">
-    <div class="row row-cols-1 row-cols-md-2 g-4">
-        <div class="col">
-            <div class="card shadow-sm">
-            <div class="card-body">
-                <h5 class="card-title">IIK Snacks and Science</h5>
-                <p class="card-text">Seminar om forskning for studenter ved IIK.</p>
-                <a href="snacks.html" class="stretched-link">
-                </a>
-            </div>
-            </div>
-        </div>
-        <div class="col">
-            <div class="card shadow-sm">
-            <div class="card-body">
-                <h5 class="card-title">IIK Lunsjvenn</h5>
-                <p class="card-text">Bli kjent med noen i klassen din.</p>
-                <a href="lunsjvenn.html" class="stretched-link">
-                </a>
-            </div>
-            </div>
-        </div>
-        <div class="col">
-            <div class="card shadow-sm">
-            <div class="card-body">
-                <h5 class="card-title">Studentmentorer</h5>
-                <p class="card-text">Ekstra ukentlige hjelpetimer for alle i førsteklasse.</p>
-                <a href="studentmentorer.html" class="stretched-link">
-                </a>
-            </div>
-            </div>
-        </div>
+<div class="row row-cols-1 row-cols-md-2 g-4 mb-5">
+<div class="col">
+    <div class="card shadow-sm">
+    <div class="card-body">
+        <h5 class="card-title">IIK Snacks and Science</h5>
+        <p class="card-text">Seminar om forskning for studenter ved IIK.</p>
+        <a href="snacks.html" class="stretched-link"></a>
+    </div>
     </div>
 </div>
-
-
-
+<div class="col">
+    <div class="card shadow-sm">
+    <div class="card-body">
+        <h5 class="card-title">IIK Lunsjvenn</h5>
+        <p class="card-text">Bli kjent med noen i klassen din.</p>
+        <a href="lunsjvenn.html" class="stretched-link"></a>
+    </div>
+    </div>
+</div>
+<div class="col">
+    <div class="card shadow-sm">
+    <div class="card-body">
+        <h5 class="card-title">Studentmentorer</h5>
+        <p class="card-text">Ekstra ukentlige hjelpetimer for alle i førsteklasse.</p>
+        <a href="studentmentorer.html" class="stretched-link"></a>
+    </div>
+    </div>
+</div>
+</div>
 <h3>Ta kontakt</h3>
 
-<div class="mt-3 mb-3">
-    <div class="row row-cols-1 row-cols-md-2 g-4">
-        <div class="col">
-            <div class="card shadow-sm">
-            <div class="card-body">
-                <h5 class="card-title">Dine studentrepresentanter</h5>
-                <p class="card-text">Som student har du en del tillitsvalgte, representanter og andre kontaktpunkter.</p>
-                <ul>
-                    <li><a href="studentrepresentanter.html" class="stretched-link">Finn dine studentrepresentanter</a></li>
-                </ul>
-            </div>
-            </div>
-        </div>
-        <div class="col">
-            <div class="card shadow-sm">
-            <div class="card-body">
-                <h5 class="card-title">Din kullkoordinator</h5>
-                <p class="card-text">Ved IIK har de fleste årstrinn i studieprogrammene en egen kullkoordinator.</p>
-                <ul>
-                    <li><a href="kullkoordinator-studenter.html" class="stretched-link">Finn din kullkoordinator</a></li>
-                </ul>
-            </div>
-            </div>
-        </div>
+<div class="row row-cols-1 row-cols-md-2 g-4 mb-5">
+<div class="col">
+    <div class="card shadow-sm">
+    <div class="card-body">
+        <h5 class="card-title">Dine studentrepresentanter</h5>
+        <p class="card-text">Som student har du en del tillitsvalgte, representanter og andre kontaktpunkter.</p>
+<ul>
+    <li><a href="studentrepresentanter.html" class="stretched-link">Finn dine studentrepresentanter</a></li>
+</ul>
     </div>
+    </div>
+</div>
+<div class="col">
+    <div class="card shadow-sm">
+    <div class="card-body">
+        <h5 class="card-title">Din kullkoordinator</h5>
+        <p class="card-text">Ved IIK har de fleste årstrinn i studieprogrammene en egen kullkoordinator.</p>
+<ul>
+    <li><a href="kullkoordinator-studenter.html" class="stretched-link">Finn din kullkoordinator</a></li>
+</ul>
+    </div>
+    </div>
+</div>
+</div>
+<div class="mt-3 mb-3">
     <div class="row row-cols-1 g-4 mt-3">
         <div class="col">
             <div class="card shadow-sm">
@@ -363,35 +330,26 @@ div.tipsbox ul {
 
 <h3>Bidra i læringsmiljøet</h3>
 
-<div class="mt-3 mb-3">
-    <div class="row row-cols-1 row-cols-md-2 g-4">
-        <div class="col">
-            <div class="card shadow-sm">
-            <div class="card-body">
-                <h5 class="card-title">Vær med i referansegrupper</h5>
-                <p class="card-text">Les mer om hvordan referansegrupper fungerer.</p>
-                <a href="referansegruppe-studenter.html" class="stretched-link">
-                </a>
-            </div>
-            </div>
-        </div>
-        <div class="col">
-            <div class="card shadow-sm">
-            <div class="card-body">
-                <h5 class="card-title">Bli læringsassistent</h5>
-                <p class="card-text">Oversikt over åpne jobber ved fakultetet.</p>
-                <a href="https://i.ntnu.no/wiki/-/wiki/Norsk/Ledige+stillinger+for+studenter+ved+IE" class="stretched-link">
-                </a>
-            </div>
-            </div>
-        </div>
+<div class="row row-cols-1 row-cols-md-2 g-4 mb-5">
+<div class="col">
+    <div class="card shadow-sm">
+    <div class="card-body">
+        <h5 class="card-title">Vær med i referansegrupper</h5>
+        <p class="card-text">Les mer om hvordan referansegrupper fungerer.</p>
+        <a href="referansegruppe-studenter.html" class="stretched-link"></a>
+    </div>
     </div>
 </div>
-
-
-
-
-
+<div class="col">
+    <div class="card shadow-sm">
+    <div class="card-body">
+        <h5 class="card-title">Bli læringsassistent</h5>
+        <p class="card-text">Oversikt over åpne jobber ved fakultetet.</p>
+        <a href="https://i.ntnu.no/wiki/-/wiki/Norsk/Ledige+stillinger+for+studenter+ved+IE" class="stretched-link" class="stretched-link"></a>
+    </div>
+    </div>
+</div>
+</div>
 <h3>Ditt studieprogram</h3>
 <p>Du finner ekstra informasjon om studieprogrammet ditt nedenfor.</p>
 
@@ -506,7 +464,7 @@ div.tipsbox ul {
                     <li><a href="https://abakus.no/">Abakus</a> - Linjeforening (Trondheim)</li>
                     <li><a href="https://login.no">Login</a> - Linjeforening (Gjøvik)</li>
                     <li><a href="https://online.ntnu.no/">Online</a> - Linjeforening (Trondheim)</li>
-                    <li><a href="https://itemize.no/">Itemize NTNU</a> - Interesseorganisasjon for informasjonssikkerhet og CTF-lag</li>
+                    <li><a href="https://itemize.no/">Itemize NTNU</a> - Interesseorganisasjon for informasjonssikkerhet og CTF-lag (Trondheim)</li>
                 </ul>
             </div>
             </div>
@@ -626,6 +584,7 @@ div.tipsbox ul {
   </script>
   <script>
     
+
 
 
 
