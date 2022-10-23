@@ -16,70 +16,53 @@ url: mailto:kontakt@iik.ntnu.no
 ### Tilbud ved IIK
 
 
-<div class="mt-5 mb-5">
-    <div class="row row-cols-1 row-cols-md-2 g-4">
-        <div class="col">
-            <div class="card shadow-sm">
-            <div class="card-body">
-                <h5 class="card-title">IIK Snacks and Science</h5>
-                <p class="card-text">Seminar om forskning for studenter ved IIK.</p>
-                <a href="snacks.html" class="stretched-link">
-                </a>
-            </div>
-            </div>
-        </div>
-        <div class="col">
-            <div class="card shadow-sm">
-            <div class="card-body">
-                <h5 class="card-title">IIK Lunsjvenn</h5>
-                <p class="card-text">Bli kjent med noen i klassen din.</p>
-                <a href="lunsjvenn.html" class="stretched-link">
-                </a>
-            </div>
-            </div>
-        </div>
-        <div class="col">
-            <div class="card shadow-sm">
-            <div class="card-body">
-                <h5 class="card-title">Studentmentorer</h5>
-                <p class="card-text">Ekstra ukentlige hjelpetimer for alle i førsteklasse.</p>
-                <a href="studentmentorer.html" class="stretched-link">
-                </a>
-            </div>
-            </div>
-        </div>
-    </div>
-</div>
+
+---
+type: card/text
+title: IIK Snacks and Science
+text: Seminar om forskning for studenter ved IIK.
+link: snacks.html
+---
+
+---
+type: card/text
+title: IIK Lunsjvenn
+text: Bli kjent med noen i klassen din.
+link: lunsjvenn.html
+---
+
+---
+type: card/text
+title: Studentmentorer
+text: Ekstra ukentlige hjelpetimer for alle i førsteklasse.
+link: studentmentorer.html
+---
 
 
 ### Ta kontakt
 
 
+---
+type: card/text
+title: Dine studentrepresentanter
+text: Som student har du en del tillitsvalgte, representanter og andre kontaktpunkter.
+link: studentrepresentanter.html
+link_title: Finn dine studentrepresentanter
+---
+
+---
+type: card/text
+title: Din kullkoordinator
+text: Ved IIK har de fleste årstrinn i studieprogrammene en egen kullkoordinator.
+link: kullkoordinator-studenter.html
+link_title: Finn din kullkoordinator
+---
+
+
+
+
+
 <div class="mt-3 mb-3">
-    <div class="row row-cols-1 row-cols-md-2 g-4">
-        <div class="col">
-            <div class="card shadow-sm">
-            <div class="card-body">
-                <h5 class="card-title">Dine studentrepresentanter</h5>
-                <p class="card-text">Som student har du en del tillitsvalgte, representanter og andre kontaktpunkter.</p>
-                <ul>
-                    <li><a href="studentrepresentanter.html" class="stretched-link">Finn dine studentrepresentanter</a></li>
-                </ul>
-            </div>
-            </div>
-        </div>
-        <div class="col">
-            <div class="card shadow-sm">
-            <div class="card-body">
-                <h5 class="card-title">Din kullkoordinator</h5>
-                <p class="card-text">Ved IIK har de fleste årstrinn i studieprogrammene en egen kullkoordinator.</p>
-                <ul>
-                    <li><a href="kullkoordinator-studenter.html" class="stretched-link">Finn din kullkoordinator</a></li>
-                </ul>
-            </div>
-            </div>
-        </div>
-    </div>
     <div class="row row-cols-1 g-4 mt-3">
         <div class="col">
             <div class="card shadow-sm">
@@ -103,31 +86,19 @@ url: mailto:kontakt@iik.ntnu.no
 ### Bidra i læringsmiljøet
 
 
-<div class="mt-3 mb-3">
-    <div class="row row-cols-1 row-cols-md-2 g-4">
-        <div class="col">
-            <div class="card shadow-sm">
-            <div class="card-body">
-                <h5 class="card-title">Vær med i referansegrupper</h5>
-                <p class="card-text">Les mer om hvordan referansegrupper fungerer.</p>
-                <a href="referansegruppe-studenter.html" class="stretched-link">
-                </a>
-            </div>
-            </div>
-        </div>
-        <div class="col">
-            <div class="card shadow-sm">
-            <div class="card-body">
-                <h5 class="card-title">Bli læringsassistent</h5>
-                <p class="card-text">Oversikt over åpne jobber ved fakultetet.</p>
-                <a href="https://i.ntnu.no/wiki/-/wiki/Norsk/Ledige+stillinger+for+studenter+ved+IE" class="stretched-link">
-                </a>
-            </div>
-            </div>
-        </div>
-    </div>
-</div>
+---
+type: card/text
+title: Vær med i referansegrupper
+text: Les mer om hvordan referansegrupper fungerer.
+link: referansegruppe-studenter.html
+---
 
+---
+type: card/text
+title: Bli læringsassistent
+text: Oversikt over åpne jobber ved fakultetet.
+link: https://i.ntnu.no/wiki/-/wiki/Norsk/Ledige+stillinger+for+studenter+ved+IE" class="stretched-link
+---
 
 
 
@@ -158,7 +129,7 @@ file: tables/programs.mw
                     <li><a href="https://abakus.no/">Abakus</a> - Linjeforening (Trondheim)</li>
                     <li><a href="https://login.no">Login</a> - Linjeforening (Gjøvik)</li>
                     <li><a href="https://online.ntnu.no/">Online</a> - Linjeforening (Trondheim)</li>
-                    <li><a href="https://itemize.no/">Itemize NTNU</a> - Interesseorganisasjon for informasjonssikkerhet og CTF-lag</li>
+                    <li><a href="https://itemize.no/">Itemize NTNU</a> - Interesseorganisasjon for informasjonssikkerhet og CTF-lag (Trondheim)</li>
                 </ul>
             </div>
             </div>

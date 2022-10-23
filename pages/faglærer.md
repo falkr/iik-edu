@@ -90,7 +90,7 @@ Grading and Assessment:
 Quality System:
 
 * [Evaluere emne - for emneansvarlig](https://i.ntnu.no/utdanningskvalitet/emner)
-* [Evaluaere emne - for studenter](https://i.ntnu.no/emne-evaluere)
+* [Evaluere emne - for studenter](https://i.ntnu.no/emne-evaluere)
 * [Quality assurance of education](https://i.ntnu.no/en/utdanningskvalitet)
 * [NTNU Quality System](https://innsida.ntnu.no/wiki/-/wiki/Norsk/Kvalitetssystem+for+utdanning)
 

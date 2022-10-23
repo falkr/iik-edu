@@ -18,6 +18,8 @@ En instituttillitsvalgt (ITV) er valgt av studentene ved instituttet og represen
 * Sørge for at [informasjon om studenter](studenter.html) er oppdatert
 
 
+Du kan bruke [e-post](epostlister.html) for å nå alle studenter.
+
 ---
 type: quote
 title: Instruks for Instituttillitsvalgt (ITV)

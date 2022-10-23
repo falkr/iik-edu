@@ -23,5 +23,6 @@ Oppgavene er:
 
 * Holde åpent kontor, slik at studenter kan komme innom og stille spørsmål
 * Holde kontakt med studieprogramleder og kullkoordinator
+* Du kan bruke [e-post](epostlister.html) for å nå alle studenter.
 
 [Se oversikt over alle studentkontakter ved IIK her.](https://edu.iik.ntnu.no/studenter.html)  

@@ -1,6 +1,8 @@
 # Email Lists
 
 
+Listene blir opprettet i begynnelsen av studieåret. Når du sender e-post for første gang, vil det ta noe tid siden første e-post må godkjennes.
+
 ---
 type: table
 ---
