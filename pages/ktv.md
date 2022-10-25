@@ -10,6 +10,7 @@ En klassetillitsvalgt (KTV) er valgt inn av egen klasse, og skal være bindeledd
 - Påse og hjelpe til at alle emner har en referansegruppe, og at nok studenter stiller i referansegrupper.
 
 Ofte er KTV også studentkontakt. Se også på [konkrete oppgavene i denne rollen](studentkontakt.html).
+Du kan bruke [e-post](epostlister.html) for å nå alle studenter.
 
 ---
 type: quote
