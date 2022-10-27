@@ -8,8 +8,8 @@ Her er en oversikt over mentorene, tid og sted:
 
 
 
-<div class="list-group mb-5" style="max-width: 540px;">
-  <div class="list-group-item fs-5">Digital infrastruktur og cybersikkerhet, 1. år, Gjøvik</div>
+<div class="list-group mb-5" style="max-width: 620px;">
+  <div class="list-group-item fs-5"><b>Gjøvik:</b> Digital infrastruktur og cybersikkerhet, 1. år</div>
   <div class="list-group-item">
   <a href="#" class="text-decoration-none">
 	<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar3" viewBox="0 0 16 16">
@@ -64,8 +64,8 @@ Her er en oversikt over mentorene, tid og sted:
 
 
 
-<div class="list-group" style="max-width: 540px;">
-  <div class="list-group-item fs-5">Kommunikasjonsteknologi og digital sikkerhet, 1. år, Trondheim</div>
+<div class="list-group" style="max-width: 620px;">
+  <div class="list-group-item fs-5"><b>Trondheim:</b> Kommunikasjonsteknologi og digital sikkerhet, 1. år</div>
   <div class="list-group-item">
 	<a href="#" class="text-decoration-none">
 	  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar3" viewBox="0 0 16 16">
@@ -91,7 +91,7 @@ Her er en oversikt over mentorene, tid og sted:
   <div class="card person-card list-group-item" style="border-radius:0px">
 	<div class="row g-0">
 		<div class="col-md-2">
-			<img src="images/studentmentorer/x.jpg" class="img-fluid" alt="Photo of Oda Kristin Gripenberg">
+			<img src="images/studentmentorer/oda-gripenberg.jpg" class="img-fluid" alt="Photo of Oda Kristin Gripenberg">
 		</div>
 		<div class="col-md-10">
 			<div class="card-body" style="padding: 0px 0px 0px 5px">
@@ -105,7 +105,7 @@ Her er en oversikt over mentorene, tid og sted:
 <div class="list-group-item card person-card " style="border-radius: 0px;">
   <div class="row g-0">
 	  <div class="col-md-2">
-		  <img src="images/studentmentorer/x.jpg" class="img-fluid" alt="Photo of Anna Emilie Lio">
+		  <img src="images/studentmentorer/anna-lio.jpg" class="img-fluid" alt="Photo of Anna Emilie Lio">
 	  </div>
 	  <div class="col-md-10">
 		  <div class="card-body" style="padding: 0px 0px 0px 5px">
