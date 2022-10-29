@@ -24,5 +24,15 @@ https://innsida.ntnu.no/wiki/-/wiki/Norsk/Studieutvalget+ved+IE
 
 
 
+### Bemanningsplan
+
+* [Bemanningsplan 2023 vår](plan-2023-v.html)
+* [Bemanningsplan 2022 høst](plan-2022-h.html)
+* [Bemanningsplan 2022 vår](plan-2022-v.html)
+* [Bemanningsplan 2021 høst](plan-2021-h.html)
 
 
+:checklistbox: 
+* [Read NTNU's Guide for Course Responsibles](https://innsida.ntnu.no/emneansvarlig)
+* Create a reference group, they are mandatory at IIK.
+* Deliver the course report.

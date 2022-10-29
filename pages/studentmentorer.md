@@ -119,7 +119,7 @@ Her er en oversikt over mentorene, tid og sted:
 <div class="list-group-item card person-card " style="border-top-left-radius: 0px; border-top-right-radius: 0px;">
   <div class="row g-0">
 	  <div class="col-md-2">
-		  <img src="images/studentmentorer/x.jpg" class="img-fluid" alt="Photo of Sebastian Ellingsen">
+		  <img src="images/studentmentorer/sebastian-ellingsen.png" class="img-fluid" alt="Photo of Sebastian Ellingsen">
 	  </div>
 	  <div class="col-md-10">
 		  <div class="card-body" style="padding: 0px 0px 0px 5px">

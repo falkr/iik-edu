@@ -30,8 +30,8 @@
         title: Referansegruppe
       - page: lærinsassistenter.md
         title: Læringsassistenter
-    - page: læringsassistenter.md
-      title: Læringassistenter
+    - page: veileder.md
+      title: Veilede en oppgave
   - page: studieprogramleder.md
     title: For studieprogramledere
   - - page: dialogmøter-spl.md
