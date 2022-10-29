@@ -1,11 +1,11 @@
-# Email Lists
+# E-postlister
 
 
 Listene blir opprettet i begynnelsen av studieåret. Når du sender e-post for første gang, vil det ta noe tid siden første e-post må godkjennes.
 
-E-post skal kun brukes til studierelatert informasjon, faglig eller sosialt. 
-
-Annonser om relevante jobber i næringslivet skal **ikke** publiseres via e-post, her kan det brukes kanaler på Innsida eller oppslag på tavler i steden.
+* E-post skal kun brukes til studierelatert informasjon, faglig eller sosialt. 
+* Annonser om relevante jobber i næringslivet skal **ikke** publiseres via e-post, her kan det brukes kanaler på Innsida eller oppslag på tavler isteden.
+* Informasjon relatert til emner skal gis via kunngjøringer i Blackboard.
 
 ---
 type: table

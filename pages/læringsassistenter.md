@@ -1,29 +1,34 @@
 # Learning Assistants and Student Assistants
 
-There are two different types of positions for students, Learning Assistant and Student Assistant. The former is a bit more comprehensive than the latter. Both are normally hired for 80-120 hours per semester, on a fixed or timely basis. Note the differences below.
+There are two types of positions for students:
 
-# Learning Assistants
+* **Learning assistants** are usually in contact with students during learning activities and require [LAOS](laos.html).
+* **Teaching assistants** can be used for tasks that are not as directly tied to learning activities and direct contact with students. 
+
+Both are normally hired for 80-120 hours per semester, on a fixed or timely basis. Note the differences below.
+
+## Learning Assistants
 
 From [Lokal lønnspolitikk for NTNU](https://i.ntnu.no/documents/portlet_file_entry/1305837853/Lokal+lønnspolitikk+rev+1.6.2022.pdf/5b5ce972-400c-e1c4-8d50-253259c83202):
 
-  >> Læringsassistentene har en omfattende og fleksibel funksjon der de bevisstgjør studentene på egen læring, og driver ’undervisning og veiledning’ i samarbeid med faste faglærere. Eksempelvis vil læringsassistentene hovedsakelig ha oppgaver relatert til veiledning, gruppeledelse (herunder øvinger, kollokvier og seminarer) og evaluering. De skal ikke pålegges selvstendige forelesninger.
+  >> "Læringsassistentene har en omfattende og fleksibel funksjon der de bevisstgjør studentene på egen læring, og driver undervisning og veiledning i samarbeid med faste faglærere. Eksempelvis vil læringsassistentene hovedsakelig ha oppgaver relatert til veiledning, gruppeledelse (herunder øvinger, kollokvier og seminarer) og evaluering. De skal ikke pålegges selvstendige forelesninger."
 
 Some clarifications:
 
 * Faglærer er ansvarlig for å vurdere alle deler som inngår i karaktergrunnlaget. Obligatoriske arbeidskrav, for eksempel øvinger, kan godkjennes av andre.
 * Når det gjelder tellende deler kan læringsassistenter gå gjennom disse og foreslå en vurdering, men faglærer må se over forslaget og gjøre en endelig vurdering.
 
-## LAOS
+### LAOS
 
 Learning assistants require [LAOS](laos.html). 
 
-# Student Assistants
+## Student Assistants
 
 From [Lokal lønnspolitikk for NTNU](https://i.ntnu.no/documents/portlet_file_entry/1305837853/Lokal+lønnspolitikk+rev+1.6.2022.pdf/5b5ce972-400c-e1c4-8d50-253259c83202):
 
-  >> Studentassistenter brukes som betegnelse på assistentstillinger med mer variabelt innhold enn læringsassistentstillingene, og der virksomheten i mindre grad er knyttet til den fast organiserte undervisning, veiledning og lignende. 
+  >> "Studentassistenter brukes som betegnelse på assistentstillinger med mer variabelt innhold enn læringsassistentstillingene, og der virksomheten i mindre grad er knyttet til den fast organiserte undervisning, veiledning og lignende."
 
-# Recruitment Process
+## Recruitment Process
 
 The process of recruitment and employment of the students differs slightly between the two campuses. Please see the contact details below, for questions related to the process for courses at your campus.
 

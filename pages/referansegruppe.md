@@ -7,7 +7,7 @@ At IIK, **all courses must have a reference group**. This includes all teaching 
 type: qna
 q: NTNU also opens for other forms of course evaluation. Why do I need a reference group?
 ---
-NTNU allows indeed in principle for other means of evaluation. However, **it is explicit IIK policy that all courses require a reference group.** You can, of course, add other evaluation forms (like meetings with the entire class, or additional surveys, for instance). 
+NTNU indeed allows other means of evaluation. However, **it is explicit IIK policy that all courses require a reference group.** You can, of course, add other evaluation forms (like meetings with the entire class, or additional surveys, for instance). 
 
 IIK is stricter regarding reference groups than the NTNU standard.
 This is because reference groups work well for our types of courses, we want to have similar rules and guidelines for all courses and we want to ensure a certain standard for our entire course portfolio.

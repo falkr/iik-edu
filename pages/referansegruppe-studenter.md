@@ -5,7 +5,7 @@
 ---
 type: video
 video: geSMQozDkAE
-caption: "Video explaining reference groups to students."
+caption: "Video explaining reference groups."
 ---
 
 ## Reference Group Meetings
