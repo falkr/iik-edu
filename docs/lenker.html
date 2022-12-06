@@ -56,6 +56,22 @@ a.ntnu-button:hover {
 .person-card-detail {
   font-size: 0.8em;
 }
+.person-card img {
+  width: 56px;
+  border: 1px solid #eee;
+}
+
+.person-card-name {
+  font-weight: 600;
+}
+
+.person-card-email {
+  font-size: 0.8em;
+}
+
+.person-card-detail {
+  font-size: 0.8em;
+}
 div.checklistbox {
   width: 18rem;
   float: right;
@@ -173,6 +189,18 @@ table.coursetable td.e4e {
     #ffffff88 20px
   ), #e3bcda;
 }
+button:hover {
+  background-color: #EFF7FF;
+}
+div.qna .accordion-button:not(.collapsed) {
+  background-color: #EFF7FF;
+  box-shadow: inset 0 -1px 0 rgba(0,0,0,.125);
+  color: #00509e;
+}
+
+div.qna .accordion-button:not(.collapsed)::after {
+  color: #00509e;
+}
 div.quotedoc {
   padding: 22px;
   xbackground-color: #EFF7FF;
@@ -197,6 +225,35 @@ div.quotedoc h3:first-child {
   margin-top: 0em;
 }
 
+div.tipsbox {
+  padding: 12px;
+  background-color: #EFF7FF;
+  border-radius: 0px;
+  border-top: 6px solid #00509e;
+  margin: 1rem 0 1rem 0;
+  }
+  
+div.tipsbox::before { 
+  content: "Tips:";
+  font-weight: bold;
+  display: block;
+  color: #00509e;
+  padding: 0px 0 12px 0;
+  }
+
+div.tipsbox ul li:before {
+  content: '\f26a';
+  font-family: bootstrap-icons !important;
+  float: left;
+  margin-left: -1.5em;
+  color: #00509e;
+  line-height: 1.5rem;
+}
+
+
+div.tipsbox ul {
+  list-style-type: none;
+}
 
 
   </style>
@@ -296,6 +353,9 @@ rules</p>
   </script>
   <script>
     
+
+
+
 
 
 
