@@ -2,34 +2,34 @@
 │ 🍌 Finished with 41 warnings. │
 ╰───────────────────────────────╯
 ├── The template does not contain insertion tag {rel_path}
-├── Found extension CheckParagraphExtension
-├── Found extension TipsParagraphExtension
-├── Found extension DefinitionParagraphExtension
-├── Found extension DoubleParagraphExtension
-├── Found extension RubricTableClassExtension
-├── Found extension FactBoxParagraphExtension
-├── Found extension FigureExtension
-├── Found extension LinesExtension
-├── Found extension RATParagraphExtension
-├── Found extension ButtonExtension
-├── Found extension GoalsParagraphExtension
+├── Found extension WarningParagraphExtension
+├── Found extension WeekplanTableClassExtension
 ├── Found extension GuidelineParagraphExtension
+├── Found extension TreeParagraphExtension
+├── Found extension TipsParagraphExtension
+├── Found extension ReportParagraphExtension
 ├── Found extension CardExtension
 ├── Found extension CardGroupExtension
-├── Found extension WeekplanTableClassExtension
+├── Found extension RubricTableClassExtension
+├── Found extension RATParagraphExtension
+├── Found extension HintExtension
+├── Found extension HintParagraphExtension
+├── Found extension QuizExtension
+├── Found extension DeliveryParagraphExtension
+├── Found extension GoalsParagraphExtension
+├── Found extension DoubleParagraphExtension
+├── Found extension FigureExtension
+├── Found extension CheckParagraphExtension
+├── Found extension VideoExtension
 ├── Found extension StepsParagraphExtension
+├── Found extension ButtonExtension
 ├── Found extension TaskParagraphExtension
 ├── Found extension AbstractParagraphExtension
 ├── Found extension TableExtension
-├── Found extension ReportParagraphExtension
-├── Found extension TreeParagraphExtension
-├── Found extension QuizExtension
-├── Found extension VideoExtension
-├── Found extension DeliveryParagraphExtension
+├── Found extension FactBoxParagraphExtension
 ├── Found extension QuoteExtension
-├── Found extension WarningParagraphExtension
-├── Found extension HintExtension
-├── Found extension HintParagraphExtension
+├── Found extension DefinitionParagraphExtension
+├── Found extension LinesExtension
 ├── Found configuration file.
 │   └── config.toml
 ├── Looking for breadcrumbs file in 
@@ -39,44 +39,44 @@
 ├── Loading template /home/runner/work/iik-edu/iik-edu/templates/page.html.
 ├── Using threadpool.
 └── Translated
-    ├── /home/runner/work/iik-edu/iik-edu/docs/snacks.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/lunsjvenn.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/veileder.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/index.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/plan-2023-v.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/hjelp.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/itv.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/epostlister.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/referansegruppe.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/referansegruppe-studenter.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/studentkontakt.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/studieprogramleder.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/plan-2021-h.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/ktv.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/mis.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/læringsassistenter.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/mssecclo.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/studenthjelp.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/studentmentorer.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/dialogmøter-spl.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/emneundersøkelse.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/vurdering.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/sensor.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/laos.html
     ├── /home/runner/work/iik-edu/iik-edu/docs/plan-2022-h.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/itv.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/snacks.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/index.html
     ├── /home/runner/work/iik-edu/iik-edu/docs/mdigsec.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/studenthjelp.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/lunsjvenn.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/studentrepresentanter.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/ktv.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/bdigsec.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/vurdering.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/mssecclo.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/plan-2021-h.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/ttm4905.html
     ├── /home/runner/work/iik-edu/iik-edu/docs/rom.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/veileder.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/faglærer.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/epostlister.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/studentkontakt.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/referansegruppe-studenter.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/sensor.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/studentrepresentant.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/kullkoordinator.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/plan-2023-v.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/plan-2022-v.html
     ├── /home/runner/work/iik-edu/iik-edu/docs/kommunikasjon.html
     ├── /home/runner/work/iik-edu/iik-edu/docs/miseb.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/emneansvarlig.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/studentrepresentanter.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/plan-2022-v.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/bdigsec.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/kullkoordinator-studenter.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/læringsassistenter.html
     ├── /home/runner/work/iik-edu/iik-edu/docs/student.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/faglærer.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/mtkom.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/studentrepresentant.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/studentmentorer.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/emneansvarlig.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/hjelp.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/referansegruppe.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/dialogmøter-spl.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/mis.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/laos.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/emneundersøkelse.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/studieprogramleder.html
     ├── /home/runner/work/iik-edu/iik-edu/docs/lenker.html
-    ├── /home/runner/work/iik-edu/iik-edu/docs/kullkoordinator.html
-    └── /home/runner/work/iik-edu/iik-edu/docs/ttm4905.html
+    ├── /home/runner/work/iik-edu/iik-edu/docs/kullkoordinator-studenter.html
+    └── /home/runner/work/iik-edu/iik-edu/docs/mtkom.html
