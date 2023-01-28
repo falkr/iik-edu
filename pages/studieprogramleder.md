@@ -3,15 +3,38 @@
 # For Study Program Leaders
 
 
+---
+type: card
+title: Links
+---
 * [Dialogmøter](dialogmøter-spl.html)
 * [Studentrepresentanter](studenter.html)
 * [Studentkontakter](studentkontakt.html)
 * [Epostlister](epostlister.html)
+
+
+
+---
+type: card
+title: Who is teaching what?
+---
+Check the teaching plans:
+* [Bemanningsplan 2023 vår](plan-2023-v.html)
+* [Bemanningsplan 2022 høst](plan-2022-h.html)
+* [Bemanningsplan 2022 vår](plan-2022-v.html)
+* [Bemanningsplan 2021 høst](plan-2021-h.html)
+
+
+---
+type: card
+title: Study Plans
+---
 * [BDIGSEC](bdigsec.html)
 * [MDIGSEC](mdigsec.html)
 * [MIS](mis.html) [MISEB](miseb.html)
 * [MSSECCLO](mssecclo.html)
 * [MTKOM](mtkom.html)
+
 
 
 ---
@@ -21,9 +44,6 @@ file: tables/programs.mw
 
 
 ## Mandate and Tasks
-
-
-### Specific Tasks at IIK
 
 * [Dialog meetings](dialogmøter-spl.html) with students three times per semester.
 * Writing the quality report at the end of the year.
