@@ -58,23 +58,12 @@ link: kullkoordinator-studenter.html
 link_title: Finn din kullkoordinator
 ---
 
----
-type: card
-title: Søknad om støtte
-text: Som student ved IIK har du mulighet til å søke om støtte til å gjennomføre sosiale og faglige arrangementer flere steder.
-
-*   link: https://forms.office.com/Pages/ResponsePage.aspx?id=cgahCS-CZ0SluluzdZZ8BdJ-PJxmVTVEsxockEXQ7BNUQVQyQlgzNVNHSEE4TUpSVVlIUTE0Vk8wRC4u&origin=Invitation&channel=0
-lint_title: Søknad IIK  
-*   link: https://ie.studentrad.no/
-link_title: Søk velferdsmidlene 
-*   link: https://abakus.no/pages/arrangementer/88-klassearrangementer
-link_title: Søk Abakus
----
 
 ---
 type: cards
 columns: 1
 ---
+
 
 ---
 type: card
@@ -107,6 +96,22 @@ title: Bli læringsassistent
 text: Oversikt over åpne jobber ved fakultetet.
 link: https://i.ntnu.no/wiki/-/wiki/Norsk/Ledige+stillinger+for+studenter+ved+IE" class="stretched-link
 ---
+
+
+---
+type: cards
+columns: 1
+---
+
+
+---
+type: card
+title: Søk om støtte til arrangementer
+---
+Som student ved IIK har du mulighet til å søke om støtte til å gjennomføre sosiale og faglige arrangementer flere steder.
+*   [Søk penger fra IIK via ITV studentene](https://forms.office.com/Pages/ResponsePage.aspx?id=cgahCS-CZ0SluluzdZZ8BdJ-PJxmVTVEsxockEXQ7BNUQVQyQlgzNVNHSEE4TUpSVVlIUTE0Vk8wRC4u&origin=Invitation&channel=0)
+*   [Søk velferdsmidler fra studentrådet](https://ie.studentrad.no/)
+*   [Søk hos Abakus](https://abakus.no/pages/arrangementer/88-klassearrangementer)
 
 
 
