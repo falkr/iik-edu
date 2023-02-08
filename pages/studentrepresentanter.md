@@ -9,6 +9,7 @@
 * Programtillitsvalgt (PTVs) representerer studentene av et studieprogram i [studieprogramrådet](studieprogramråd.html).
 * Fakultetstillitsvalgte (FTVs) er koordinert av fakultetet, og er [beskrevet her](https://ie.studentrad.no/). 
 [Mandat for FTV](https://ie.studentrad.no/wp-content/uploads/2018/04/FTVstillingsinstruks2017-1.pdf).
+* [Hjemmeside for tillitsvalgte ved IE](https://www.sr-ie.no)
 
 
 
