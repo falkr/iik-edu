@@ -3,7 +3,7 @@
 
 
 
-* [Insituttillitsvalgte (ITVs)](itv.html) er ansvarlig for kontakt mellom studentene og instituttet. Ved IIK har vi fire ITVs, to per campus.
+* [Insituttillitsvalgte (ITVs)](itv.html) er ansvarlig for kontakt mellom studentene og instituttet. Ved IIK har vi fire ITVs, to per campus. Du kan sende direkte [epost til alle dine ITV itv@lists.iik.ntnu.no](mailto:itv@lists.iik.ntnu.no).
 * [Klassetillitsvalgte (KTVs)](ktv.html) er ansvarlig for hele klassen og studieprogrammet.
 * [Studentkontakter](studentkontakt.html) hjelper med ulike oppgaver, og er ofte samme student som KTV.
 * Programtillitsvalgt (PTVs) representerer studentene av et studieprogram i [studieprogramrådet](studieprogramråd.html).
