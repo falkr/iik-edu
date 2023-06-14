@@ -72,6 +72,38 @@ a.ntnu-button:hover {
 .person-card-detail {
   font-size: 0.8em;
 }
+div.checklistbox {
+  width: 18rem;
+  float: right;
+  padding: 10px;
+  margin-left: 30px;
+  margin-bottom: 30px;
+  background-color: #EFF7FF;
+  border-radius: 0px;
+  border-top: 6px solid #00509e
+  }
+  
+div.checklistbox::before { 
+  content: "Checklist:";
+  font-weight: bold;
+  padding: 0px 0 12px 0;
+  display: block;
+  color: #00509e;
+  }
+
+div.checklistbox ul li:before {
+  content: '\f26a';
+  font-family: bootstrap-icons !important;
+  float: left;
+  margin-left: -1.5em;
+  color: #00509e;
+  line-height: 1.5rem;
+}
+
+
+div.checklistbox ul {
+  list-style-type: none;
+}
 table.coursetable td {
   font-size:0.6rem;
 }
@@ -222,7 +254,6 @@ div.tipsbox ul li:before {
 div.tipsbox ul {
   list-style-type: none;
 }
-
 
   </style>
 </head>
@@ -418,7 +449,7 @@ div.tipsbox ul {
 </td>
 <td><p>Trondheim</p>
 </td>
-<td><p>Anamaria Costache</p>
+<td><p>Katrien de Moor (from Aug. 2023)</p>
 </td>
 </tr>
 <tr>
@@ -482,7 +513,7 @@ div.tipsbox ul {
 </td>
 </tr>
 <tr>
-<td><p>Industriell innovasjon og digital sikkerhet (MIIDS)</p>
+<td><p><a href="https://www.ntnu.no/studier/miids/">Industriell innovasjon og digital sikkerhet (MIIDS)</a></p>
 </td>
 <td><p>Master</p>
 </td>
@@ -490,7 +521,7 @@ div.tipsbox ul {
 </td>
 <td><p>Gjøvik</p>
 </td>
-<td><p>Halvor Holtskog</p>
+<td><p>Gry Cecilie Lunder Høiland</p>
 </td>
 </tr>
 </table>
