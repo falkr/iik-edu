@@ -1,7 +1,7 @@
 # Kommunikasjonsteknologi og digital sikkerhet (MTKOM)
 
 
-* [NTNU Website for Program](https://www.ntnu.edu/studies/mtkom)
+* [NTNU Website for Program](https://www.ntnu.no/studier/mtkom)
 * [Utdanning.no](https://utdanning.no/utdanning/ntnu.no/kommunikasjonsteknologi_og_digital_sikkerhet_-_masterstudium_5-arig)
 
 
