@@ -185,6 +185,35 @@ div.quotedoc h3:first-child {
   margin-top: 0em;
 }
 
+div.tipsbox {
+  padding: 12px;
+  background-color: #EFF7FF;
+  border-radius: 0px;
+  border-top: 6px solid #00509e;
+  margin: 1rem 0 1rem 0;
+  }
+  
+div.tipsbox::before { 
+  content: "Tips:";
+  font-weight: bold;
+  display: block;
+  color: #00509e;
+  padding: 0px 0 12px 0;
+  }
+
+div.tipsbox ul li:before {
+  content: '\f26a';
+  font-family: bootstrap-icons !important;
+  float: left;
+  margin-left: -1.5em;
+  color: #00509e;
+  line-height: 1.5rem;
+}
+
+
+div.tipsbox ul {
+  list-style-type: none;
+}
 
 div.warning p {
 padding: 10px;
@@ -242,6 +271,14 @@ display: inline;
 
       <div class="col-md-8" style="margin-top: 6rem;">
         <div class="page">
+<nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='%236c757d'/%3E%3C/svg%3E&#34;);" aria-label="breadcrumb">
+<ol class="breadcrumb">
+<li class="breadcrumb-item"><a href="index.html">IIK Utdanning</a></li>
+<li class="breadcrumb-item"><a href="faglærer.html">For faglærere</a></li>
+<li class="breadcrumb-item"><a href="emneansvarlig.html">Course Responsible</a></li>
+<li class="breadcrumb-item active" aria-current="page">Re-sit exams</li>
+</ol>
+</nav>
     </section>
     <section class="content">
 <h1>Re-sit exams</h1>
@@ -338,10 +375,10 @@ For courses given by IIK in Trondheim, please also inform the <a href="mailto:li
 </div>
 </p>
 <h2>For oral cxams (for course coordinators)</h2>
-<h4>Inform the students directly about the details of the exam.</h4>
+<h6>Inform the students directly about the details of the exam.</h6>
 <p>You may send them an e-mail directly in <a href="https://fsweb.no/fagpersonweb/login.jsf?inst=fsntnu">Fagpersonweb</a> or export the list of students to Excel from <a href="https://fsweb.no/fagpersonweb/login.jsf?inst=fsntnu">Fagpersonweb</a> and send them an e-mail using your preferred e-mail client. You may also post relevant information on Blackboard, only remember to select the right course room (semester).</p>
 <p>You may agree with the students registered for the exam on another date than the one published on the course webpage during week 32 or 33, but it should not collide with another exam for any of the students.</p>
-<h4>Inform the administration if…</h4>
+<h6>Inform the administration if…</h6>
 <ul>
 <li>the exam will be arranged at another date than the one published on the course webpage,</li>
 <li>you need to book rooms for the exam, and/or if</li>
@@ -392,7 +429,6 @@ For courses given by IIK in Trondheim, please also inform the <a href="mailto:li
   </script>
   <script>
     
-
 
 
 
