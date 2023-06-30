@@ -28,7 +28,7 @@ Below, *the administration* refers to [Liv Karen Stubberud and Mona Nordaune](ma
 * **July 20**
     - Deadline for course coordinators for registering a change of examination form to oral exam, if relevant. 
     - Deadline for students to cancel their registration to a re-sit exam.
-* **7 wordays before the exam**
+* **7 workdays before the exam**
     - If the resit exam is a written or digital exam, deadline for the course coordinator for sharing the exam with the administration and the external evaluator.
 * **Week 32 and 33**
     - Exam period.
