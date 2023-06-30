@@ -47,6 +47,17 @@ title: Delivering the Course Report
 8. At the bottom of the page, find the button "Publiser rapport"
 
 
+## Phase 4: After the semester
+
+---
+type: card/text
+title: Re-sit exams
+text: A re-sit exam is arranged in August (unless otherwise specified in the course description) in all courses with a final exam if at least one student has registered for the exam.
+link: resit.html
+link_title: Read more about re-sit exams
+---
+
+
 ## Other Stuff
 
 ---
