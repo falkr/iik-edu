@@ -64,13 +64,13 @@ The exam date and time are published on the course webpage (https://www.ntnu.edu
 
 ## For oral cxams (for course coordinators)
 
-#### Inform the students directly about the details of the exam.
+###### Inform the students directly about the details of the exam.
 
 You may send them an e-mail directly in [Fagpersonweb](https://fsweb.no/fagpersonweb/login.jsf?inst=fsntnu) or export the list of students to Excel from [Fagpersonweb](https://fsweb.no/fagpersonweb/login.jsf?inst=fsntnu) and send them an e-mail using your preferred e-mail client. You may also post relevant information on Blackboard, only remember to select the right course room (semester).
 
 You may agree with the students registered for the exam on another date than the one published on the course webpage during week 32 or 33, but it should not collide with another exam for any of the students.
 
-#### Inform the administration if…
+###### Inform the administration if…
 
 * the exam will be arranged at another date than the one published on the course webpage,
 * you need to book rooms for the exam, and/or if
