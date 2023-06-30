@@ -1,4 +1,4 @@
-# Re-sit Exams
+# Re-sit exams
 
 :warning:
 *Summer 2023 – For course coordinators in Trondheim, the final deadline to inform the [administration](mailto:liv.k.stubberud@ntnu.no,mona.nordaune@ntnu.no) of who will be the external evaluator for the re-sit exam in your course is **July 18**.*
@@ -17,7 +17,7 @@ Below, *the administration* refers to [Liv Karen Stubberud and Mona Nordaune](ma
 
 
 
-## Important Dates
+## Important dates
 
 * **July 1**
     - Deadline for course coordinators for informing the administration of who will be the evaluators for the re-sit exam (if possible, the same evaluators as for the first exam).
@@ -35,13 +35,13 @@ Below, *the administration* refers to [Liv Karen Stubberud and Mona Nordaune](ma
 
     
 
-## How-to (for Course Coordinators)
+## How-to (for course coordinators)
 
 ---
 type: qna
 q: Find out who and how many students are registered for the exam.
 ---
-Use [Fagpersonweb](https://fsweb.no/fagpersonweb/login.jsf?inst=fsntnu). Search for course and select the correct term from the drop-down menu (Summer <YEAR>).
+Use [Fagpersonweb](https://fsweb.no/fagpersonweb/login.jsf?inst=fsntnu). Search for course and select the correct term from the drop-down menu (Summer \<YEAR\>).
 
 
 ---
@@ -58,19 +58,19 @@ To be allowed to change the examination form to oral exam, there must be a sente
 type: qna
 q: Find the date and time of the exam
 ---
-The exam date and time are published on the course webpage (https://www.ntnu.edu/studies/courses/<COURSECODE>#tab=omEksamen) by the central administration on July 15. Note that you need to select the relevant study year from the drop-down menu.
+The exam date and time are published on the course webpage (https://www.ntnu.edu/studies/courses/\<COURSECODE\>#tab=omEksamen) by the central administration on July 15. Note that you need to select the relevant study year from the drop-down menu.
 
 
 
-## For Oral Exams (for Course Coordinators)
+## For oral cxams (for course coordinators)
 
-### Inform the students directly about the details of the exam.
+#### Inform the students directly about the details of the exam.
 
 You may send them an e-mail directly in [Fagpersonweb](https://fsweb.no/fagpersonweb/login.jsf?inst=fsntnu) or export the list of students to Excel from [Fagpersonweb](https://fsweb.no/fagpersonweb/login.jsf?inst=fsntnu) and send them an e-mail using your preferred e-mail client. You may also post relevant information on Blackboard, only remember to select the right course room (semester).
 
 You may agree with the students registered for the exam on another date than the one published on the course webpage during week 32 or 33, but it should not collide with another exam for any of the students.
 
-### Inform the administration if…
+#### Inform the administration if…
 
 * the exam will be arranged at another date than the one published on the course webpage,
 * you need to book rooms for the exam, and/or if
