@@ -62,7 +62,7 @@ The exam date and time are published on the course webpage (https://www.ntnu.edu
 
 
 
-## For oral cxams (for course coordinators)
+## For oral exams (for course coordinators)
 
 ###### Inform the students directly about the details of the exam.
 
