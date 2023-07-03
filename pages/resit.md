@@ -58,7 +58,7 @@ To be allowed to change the examination form to oral exam, there must be a sente
 type: qna
 q: Find the date and time of the exam
 ---
-The exam date and time are published on the course webpage (https://www.ntnu.edu/studies/courses/\<COURSECODE\>#tab=omEksamen) \(replace \<COURSECODE\> by the actual code of the course\) by the central administration on July 15. Note that you need to select the relevant study year from the drop-down menu. The exam date and time are also available on [TP](https://tp.educloud.no/ntnu/rapporter-eksamen/eksamen_emner.php?dept=194633000&avvikling=Y&sort=emne) (select '\<YEAR\>' Summer' from the drop-down menu; replace '\<YEAR\>' by the actual calendar year).
+The exam date and time are published on the course webpage [https://www.ntnu.edu/studies/courses/\<COURSECODE\>#tab=omEksamen](https://www.ntnu.edu/studies/courses/\<COURSECODE\>#tab=omEksamen) \(replace \<COURSECODE\> by the actual code of the course\) by the central administration on July 15. Note that you need to select the relevant study year from the drop-down menu. The exam date and time are also available on [TP](https://tp.educloud.no/ntnu/rapporter-eksamen/eksamen_emner.php?dept=194633000&avvikling=Y&sort=emne) (select '\<YEAR\>' Summer' from the drop-down menu; replace '\<YEAR\>' by the actual calendar year).
 
 
 
