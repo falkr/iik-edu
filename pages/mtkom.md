@@ -67,3 +67,5 @@ type: table
 file: tables/mtkom-inf.mw
 class: coursetable
 ---
+
+¹ TDT4237 undervises på våren. Én skal velge minst 1 av 6 sikkerhetsvalgemner. Velger man kun TDT4237, kan man ta et annet tekn. valgemne på høsten i stedet. Ta kontakt med [studieveileder](mailto:studieveileder@komtek.ntnu.no).
