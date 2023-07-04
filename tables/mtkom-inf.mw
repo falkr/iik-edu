@@ -4,7 +4,7 @@
 ! høst
 | class="e1" | [TTM4240](https://www.ntnu.no/studier/emner/TTM4240) <br/> Avansert nettverkskontroll og administrasjon
 | [TTM4137](https://www.ntnu.no/studier/emner/TTM4137) <br/> Informasjonssikkerhet i trådløse nett
-| 1 av 4 sikkerhetsemner:  [IMT4203](https://www.ntnu.no/studier/emner/IMT4203),  [IMT4204](https://www.ntnu.no/studier/emner/IMT4204),  [TMA4160](https://www.ntnu.no/studier/emner/TMA4160),  [TTM4195](https://www.ntnu.no/studier/emner/TTM4195),
+| 1 av 6 sikkerhetsvalgemner:  [IMT4203](https://www.ntnu.no/studier/emner/IMT4203),  [IMT4204](https://www.ntnu.no/studier/emner/IMT4204),  [TMA4160](https://www.ntnu.no/studier/emner/TMA4160),  [TTM4195](https://www.ntnu.no/studier/emner/TTM4195), [TTM4205](https://www.ntnu.no/studier/emner/TTM4205), [TDT4237](https://www.ntnu.no/studier/emner/TDT4237)¹
 | class="e3e" | Komplementæremne
 |-
 ! vår
@@ -15,11 +15,13 @@
 |-
 ! rowspan="2" class="year" | 5
 ! høst
-| class="e1" | [TTM4502](https://www.ntnu.no/studier/emner/TTM4502)<br />Kommunikasjonsteknologi,<br />fordypningsprosjekt
-| [TTM4536](https://www.ntnu.no/studier/emner/TTM4536) <br/> Etisk hacking - Informasjonssikkerhet, fordypningsemne
-| class="e1e" | Valgemne
+| class="e1" | [TTM4502](https://www.ntnu.no/studier/emner/TTM4502)<br />Fordypningsprosjekt
+| [TTM4536](https://www.ntnu.no/studier/emner/TTM4536) <br/> Avansert etisk hacking - Informasjonssikkerhet, fordypningsemne
+| 1 av 5 sikkerhetsvalgemner:  [IMT4203](https://www.ntnu.no/studier/emner/IMT4203),  [IMT4204](https://www.ntnu.no/studier/emner/IMT4204),  [TMA4160](https://www.ntnu.no/studier/emner/TMA4160),  [TTM4195](https://www.ntnu.no/studier/emner/TTM4195), [TTM4205](https://www.ntnu.no/studier/emner/TTM4205)
 | class="e3e" | Komplementæremne
 |-
 ! vår
-| colspan="4" class="e1" | [TTM4905](https://www.ntnu.no/studier/emner/TTM4905)<br />Kommunikasjonsteknologi, masteroppgave
+| colspan="4" class="e1" | [TTM4905](https://www.ntnu.no/studier/emner/TTM4905)<br />Masteroppgave
 |}
+
+¹ undervises på våren. Én skal velge minst 1 av 6 sikkerhetsvalgemner. Velger man kun TDT4237, kan man ta et annet tekn. valgemne på høsten i stedet. Ta kontakt med [studieveileder](mailto:studieveileder@komtek.ntnu.no)
