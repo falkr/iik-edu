@@ -69,4 +69,4 @@ class: coursetable
 ---
 
 
-¹ TDT4237 undervises på våren. Én skal velge minst 1 av 6 valgemner innen sikkerhet i løpet av 4. året (minst 2 totalt i løpet av 4. og 5.). Velger man TDT4237, kan man ta et annet tekn. valgemne på høsten i stedet. Ta kontakt med [studieveileder](mailto:studieveileder@komtek.ntnu.no).
+<div style="font-size:0.7rem">¹ TDT4237 undervises på våren. Én skal velge minst 1 av 6 valgemner innen sikkerhet i løpet av 4. året (minst 2 totalt i løpet av 4. og 5.). Velger man TDT4237, kan man ta et annet tekn. valgemne på høsten i stedet. Ta kontakt med [studieveileder](mailto:studieveileder@komtek.ntnu.no).</div>
