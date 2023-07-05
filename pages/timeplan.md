@@ -1,7 +1,7 @@
 # Course scheduling (for course coordinators)
 
 :warning:
-*Current deadline: **Aug 25, 2023** – Registration of course schedule data for courses to be given spring 2024.*
+*Current deadline: **Aug 25, 2023** – Registration of course schedule data for courses to be given spring 2024.*
 
 
 Once it is decided that a course is to be given a given semester, the course coordinator has two tasks:
@@ -16,7 +16,7 @@ See [https://ntnu-timeplanprosessen.webflow.io/](https://ntnu-timeplanprosessen.
 Course schedule data is information about what kind of teaching a course will have, the duration of each activity, who is expected to attend the activities (students and staff), and possibly demands and wishes for certain equipment and/or room specifications. 
 
 * **Deadline to register course schedule data:**
-    - 5 workdays before the deadline for the Department, which is March 1st and September 1st for courses to be given in the autumn and in the spring, respectively.
+    - 5 workdays before the deadline for the Department, which is March 1st and September 1st for courses to be given in the autumn and in the spring, respectively.
 * **System:**
     - [TP: Basic data](https://tp.educloud.no/ntnu/grunnlagsdata/) 
 * **How-to:** 
