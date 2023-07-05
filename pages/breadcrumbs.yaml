@@ -23,7 +23,7 @@
   - page: faglærer.md
     title: For faglærere
   - - page: emneansvarlig.md
-      title: Course Responsible
+      title: Course coordinator
     - - page: laos.md
         title: LAOS
       - page: referansegruppe.md
@@ -33,7 +33,7 @@
       - page: resit.md
         title: Re-sit exams
       - page: timeplan.md
-        title: Course scheduling (for course coordinators)
+        title: Course scheduling
     - page: veileder.md
       title: Veilede en oppgave
   - page: studieprogramleder.md

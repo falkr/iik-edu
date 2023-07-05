@@ -1,5 +1,5 @@
 
-# Course Responsible
+# Course coordinator
 
 
 <div style="max-width:1000px;width:100%;"><div style="position: relative;padding-bottom: 117%;padding-top: 35px;height: 0;overflow: hidden;"><iframe src="https://create.plandisc.com/wheel/embed/6SoHEVF" scrolling="no" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe></div></div><a style="font-size:10px;" href="https://create.plandisc.com/6SoHEVF ">Problemer med å se Plandiscen? Trykk her</a>
@@ -10,18 +10,19 @@
 
 ---
 type: card/text
-title: NTNU Wiki for course responsibles
-text: There are many resources at NTNU that detail tasks of course responsibles.
+title: NTNU Wiki for course coordinators
+text: There are many resources at NTNU that detail tasks of course coordinators.
 link: https://innsida.ntnu.no/emneansvarlig
-link_title: Read NTNU's guide for course responsibles
+link_title: Read NTNU's guide for course coordinators
 ---
 
 
 ---
 type: card/text
 title: Course scheduling
+text: Register course schedule data and control the tentative timetable.
 link: https://edu.iik.ntnu.no/timeplan
-link_title: More information…
+link_title: Read more…
 ---
 
 
