@@ -5,8 +5,8 @@
 
 
 Once it is decided that a course is to be given a given semester, the course coordinator has two tasks:
-* register course schedulde data the semester before the course is given, and
-* control the tentative timetable for the course once a draft is available.
+- register course schedule data the semester before the course is given, and
+- control the tentative timetable for the course once a draft is available.
 
 See [https://ntnu-timeplanprosessen.webflow.io/](https://ntnu-timeplanprosessen.webflow.io/) for a presentation of the entire course scheduling process at NTNU.
 
@@ -20,19 +20,19 @@ Course schedule data is information about what kind of teaching a course will ha
 * **System:**
     - [TP: Basic data](https://tp.educloud.no/ntnu/grunnlagsdata/) 
 * **How-to:** 
-    - [User guide on Innsida](https://i.ntnu.no/wiki/-/wiki/Norsk/TP+-+Brukerveiledning+for+innmelding+av+timeplandata) (only in Norwegian)
+    - [User guide](https://i.ntnu.no/wiki/-/wiki/Norsk/TP+-+Brukerveiledning+for+innmelding+av+timeplandata) (only in Norwegian)
     - [Step-by-step guide](https://www.bott-samarbeidet.no/fagsamarbeid/studie-bott/tp/veiledninger/grunnlagsdata/trinnvis-trinn-1.html) (only in Norwegian)
-    - [Video](https://youtu.be/CIapIELkHTc) (in Norwgian, closed captions available in English)
+    - [Video](https://youtu.be/CIapIELkHTc) (in Norwegian, closed captions available in English)
 
     
 ## Controlling the tentative timetable for the course
 
 The course coordinator should check that:
-– all the activities that should be scheduled are indeed scheduled, that
-– all the activities are planned according to what you registered in [TP: Basic data](https://tp.educloud.no/ntnu/grunnlagsdata/), that
-– for each activity, the type of activity and staff is correct and, if any, that the allocated room is suitable, that
-– the activities are both scheduled the weeks they will occur and not scheduled the weeks they will not occur, and finally
-– if you are teaching in more than one courses, that teaching times are not colliding.
+- all the activities that should be scheduled are indeed scheduled, that
+- all the activities are planned according to what you registered in [TP: Basic data](https://tp.educloud.no/ntnu/grunnlagsdata/), that
+- for each activity, the type of activity and staff is correct and, if any, that the allocated room is suitable, that
+- the activities are both scheduled the weeks they will occur and not scheduled the weeks they will not occur, and finally
+- if you are teaching in more than one courses, that teaching times are not colliding.
 
 Problems/errors should be reported to the Department's administration, see Contact below.
 
