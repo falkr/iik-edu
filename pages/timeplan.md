@@ -1,4 +1,4 @@
-# Course scheduling (for course coordinators)
+# Course scheduling (for\ course\ coordinators)
 
 :warning:
 *Current deadline: **Aug 25, 2023** – Registration of course schedule data for courses to be given spring 2024.*
@@ -39,7 +39,7 @@ Problems/errors should be reported to the Department's administration, see Conta
 Information about a specific room, incl. the available equipment, is available in [TP](https://tp.educloud.no/ntnu/timeplan/?type=room). 
 
 * **Deadline:**
-    - June and November for courses to be given in the autumn and in the spring, respectively. The actual dates depend on the deadline set by the central administration.
+    - June and November for courses to be given in the autumn and in the spring, respectively. The actual dates depend on the deadlines set by the central administration.
 * **System:**
     - [TP](https://tp.educloud.no/ntnu/timeplan/emner.php?lang=en) (select the relevant semester in the drop-down menu on the right and search for the course by course code.)
 
