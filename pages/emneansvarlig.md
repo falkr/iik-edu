@@ -17,6 +17,12 @@ link_title: Read NTNU's guide for course responsibles
 ---
 
 
+---
+type: card/text
+title: Course scheduling
+link: https://edu.iik.ntnu.no/timeplan
+link_title: More information…
+---
 
 
 ## Phase 2: During the semester

@@ -32,6 +32,8 @@
         title: Læringsassistenter
       - page: resit.md
         title: Re-sit exams
+      - page: timeplan.md
+        title: Course scheduling (for course coordinators)
     - page: veileder.md
       title: Veilede en oppgave
   - page: studieprogramleder.md
