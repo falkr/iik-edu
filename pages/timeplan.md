@@ -1,4 +1,4 @@
-# Course scheduling (for\ course\ coordinators)
+# Course scheduling (for course coordinators)
 
 :warning:
 *Current deadline: **Aug 25, 2023** – Registration of course schedule data for courses to be given spring 2024.*
