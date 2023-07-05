@@ -36,7 +36,7 @@ The course coordinator should check that:
 
 Problems/errors should be reported to the Department's administration, see Contact below.
 
-Information about a specific room, incl. the available equipment, is available in [TP]https://tp.educloud.no/ntnu/timeplan/?type=room. 
+Information about a specific room, incl. the available equipment, is available in [TP](https://tp.educloud.no/ntnu/timeplan/?type=room). 
 
 * **Deadline:**
     - June and November for courses to be given in the autumn and in the spring, respectively. The actual dates depend on the deadline set by the central administration.
