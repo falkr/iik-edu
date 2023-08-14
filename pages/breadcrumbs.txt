@@ -1,0 +1,22 @@
+index.md - IIK Utdanning
+  student.md - For studenter
+    kullkoordinator-studenter.md - Din kullkoordinator
+    lunsjvenn.md - IIK Lunsjvenn
+    referansegruppe-studenter.md - Referansegruppe
+    rom.md - Rom
+    snacks.md - IIK Snacks and Science
+  studentrepresentant.md - For studentrepresentanter
+    itv.md - For instituttstillitsvalgte (ITV)
+    ktv.md - For klassetillitsvalgte (KTV)
+    studentkontakt.md - For studentkontakter
+  faglærer.md - For faglærere
+    emneansvarlig.md - Course coordinator
+      laos.md - LAOS
+      referansegruppe.md - Referansegruppe
+      lærinsassistenter.md - Læringsassistenter
+      resit.md - Re-sit exams
+      timeplan.md - Course scheduling
+    veileder.md - Veilede en oppgave
+  studieprogramleder.md - For studieprogramledere
+    dialogmøter-spl.md - Dialogmøter
+  kullkoordinator.md - For kullkoordinatorer
