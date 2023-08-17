@@ -68,7 +68,11 @@ The exam date and time are published on the course webpage [https://www.ntnu.edu
 
 You may send them an e-mail directly in [Fagpersonweb](https://fsweb.no/fagpersonweb/login.jsf?inst=fsntnu) or export the list of students to Excel from [Fagpersonweb](https://fsweb.no/fagpersonweb/login.jsf?inst=fsntnu) and send them an e-mail using your preferred e-mail client. You may also post relevant information on Blackboard, only remember to select the right course room (semester).
 
-You may agree with the students registered for the exam on another date than the one published on the course webpage during week 32 or 33, but it should not collide with another exam for any of the students.
+You may agree with the students registered for the exam on another date during week 32 or 33 than the one published on the course webpage, but you must have a written confirmation from all the students that the new date is suitable to change the date. 
+
+
+###### Inform the examination office ([Trondheim](mailto:eksamen@adm.ntnu.no)/[Gjøvik](eksamen@gjovik.ntnu.no)) if…
+* all the students agree on a new date for the exam, so the date is formally changed and updated on the course webpage and on Studentweb.
 
 ###### Inform the administration if…
 
