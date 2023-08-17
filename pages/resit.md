@@ -72,7 +72,7 @@ You may agree with the students registered for the exam on another date during w
 
 
 ###### Inform the examination office ([Trondheim](mailto:eksamen@adm.ntnu.no)/[Gjøvik](eksamen@gjovik.ntnu.no)) if…
-* all the students agree on a new date for the exam, so the date is formally changed and updated on the course webpage and on Studentweb.
+* all the students have agreed on a new date for the exam, so the date is formally changed and updated on the course webpage and on Studentweb.
 
 ###### Inform the administration if…
 
