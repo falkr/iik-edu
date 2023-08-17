@@ -10,14 +10,18 @@
   <title>IIK Education Guide</title>
   <link rel="canonical" href="https://edu.iik.ntnu.no">
   <!-- Bootstrap core CSS -->
-  <link href="assets/bootstrap.min.css" rel="stylesheet">
+  <link href="{rel_path}assets/bootstrap.min.css" rel="stylesheet">
   <!-- Custom styles for this template -->
-  <link href="assets/style.css" rel="stylesheet">
-  <link rel="stylesheet" href="assets/bootstrap-icons.css">
-  <script src="assets/anchor.js"></script>
-  <style type="text/css">
-    {css}
-  </style>
+  <link href="{rel_path}assets/style-frame.css" rel="stylesheet">
+  <link href="{rel_path}assets/style-fonts.css" rel="stylesheet">
+  <link href="{rel_path}assets/style-code.css" rel="stylesheet">
+  <link rel="stylesheet" href="{rel_path}assets/bootstrap-icons.css">
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+  integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+  crossorigin="anonymous"></script>
+  <script src="{rel_path}assets/anchor.js"></script>
+  <script src="{rel_path}assets/clipboard.min.js"></script>
+  <style>{css}</style>
 </head>
 
 <body>
@@ -50,23 +54,10 @@
     </div>
   </nav>
 
-
-  <main class="container">
-
-    <div class="row g-5 justify-content-md-center pb-5">
-
-
-
-      <div class="col-md-8" style="margin-top: 6rem;">
-        {content}
-      </div>
-
-
-
-
-    </div>
-
+  <main class="container container-max-width">
+    {content}
   </main>
+
 <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #7d705a">
     <div class="container-fluid">
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
