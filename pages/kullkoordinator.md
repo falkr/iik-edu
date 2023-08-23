@@ -12,7 +12,7 @@ A class coordinator (_kullkoordinator_) is a dedicated teacher per student cohor
 
 ---
 type: table
-file: tables/kullkoordinatorer-2022.mw
+file: tables/kullkoordinatorer-2023.mw
 ---
 
 
