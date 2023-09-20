@@ -20,12 +20,12 @@ These rooms are available to all students studying at IIK.
 -   [A176](http://bit.ly/2sG5uYH)
 -   [G242/44](https://use.mazemap.com/#v=1&config=ntnu&zlevel=2&center=10.401858,63.418148&zoom=19&campusid=1&sharepoitype=poi&sharepoi=79&utm_medium=longurl)
 -   [F260](https://use.mazemap.com/#v=1&config=ntnu&zlevel=2&center=10.401792,63.417689&zoom=19&campusid=1&sharepoitype=poi&sharepoi=39166&utm_medium=longurl)
+-   [A181](http://bit.ly/2Lpr6iF) Meeting room. For on-line supervision meetings and other video-conference meetings.
 
 ### Other rooms
 
--   [A181](http://bit.ly/2Lpr6iF) Meeting room. For on-line supervision meetings and other video-conference meetings. For students writing their pre-project and master's thesis only.
 -   [F251](http://bit.ly/2OP3WEm) Workspaces for research assistants.
--   [F262](https://use.mazemap.com/#v=1&config=ntnu&zlevel=2&center=10.401635,63.417701&zoom=19&campusid=1&sharepoitype=poi&sharepoi=39185&utm_medium=longurl)Hackerclub ITEMIZE
+-   [F262](https://use.mazemap.com/#v=1&config=ntnu&zlevel=2&center=10.401635,63.417701&zoom=19&campusid=1&sharepoitype=poi&sharepoi=39185&utm_medium=longurl) Hackerclub ITEMIZE
 
 ### For employees only
 
