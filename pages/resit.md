@@ -1,9 +1,5 @@
 # Re-sit exams
 
-:warning:
-*Summer 2023 – For course coordinators in Trondheim, the final deadline to inform the [administration](mailto:liv.k.stubberud@ntnu.no,mona.nordaune@ntnu.no) of who will be the external evaluator for the re-sit exam in your course is **July 18**.*
-
-
 A re-sit exam is arranged in August (unless otherwise specified in the course description) in all courses with a final exam if at least one student has registered for the exam.
 
 
