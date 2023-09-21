@@ -1,9 +1,5 @@
 # Course scheduling (for course coordinators)
 
-:warning:
-*Current deadline: **Aug 25, 2023** – Registration of course schedule data for courses to be given spring 2024.*
-
-
 Once it is decided that a course is to be given a given semester, the course coordinator has two tasks:
 - register course schedule data the semester before the course is given, and
 - control the tentative timetable for the course once a draft is available.
