@@ -22,7 +22,7 @@ q: Book Gobi (A260)
 
 You may not book the room for more than 2 hours at a time. If for some reason you need to book the room for a longer timeslot, please contact the [administration](mailto:kontakt@iik.ntnu.no?subject=booking&nbsp;A260).
 
-To see existing bookings, add the room's calendar (use 'Add from directory' using your account and use the room's name or e-mail address
+To see existing bookings, add the room's calendar (click 'Add from directory', select your account and use the room's name or e-mail address).
 
 
 
