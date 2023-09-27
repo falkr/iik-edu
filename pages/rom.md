@@ -18,7 +18,7 @@ These rooms are available to all students studying at IIK.
 type: qna
 q: Book Gobi (A260)
 ---
-[Gobi (A260)](http://bit.ly/369rMAL) is this only room that can be booked by all students at the Department in Trondheim. To book the room, follow the instructions provided [here](https://support.microsoft.com/en-us/office/use-the-scheduling-assistant-and-room-finder-for-meetings-in-outlook-2e00ac07-cef1-47c8-9b99-77372434d3fa). Search for the room by using 'a260' or 'Gobi' directly (you may use the Room Finder or simply type directly). Make sure to select the correct room (a260 Gobi, Elektro A); if you type only type 'a260' many rooms may be listed. Alternatively, you may also book the room by inviting it as attendee as if it were a person by using the room's e-mail address [r_326_a260@ntnu.no](r_326_a260@ntnu.no). 
+[Gobi (A260)](http://bit.ly/369rMAL) is this only room that can be booked by all students at the Department in Trondheim. To book the room, follow the instructions provided [here](https://support.microsoft.com/en-us/office/use-the-scheduling-assistant-and-room-finder-for-meetings-in-outlook-2e00ac07-cef1-47c8-9b99-77372434d3fa). Search for the room by using 'a260' or 'Gobi' directly (you may use the Room Finder or simply type directly). Make sure to select the correct room (a260 Gobi, Elektro A). Alternatively, you may also book the room by inviting it as attendee as if it were a person by using the room's e-mail address [r_326_a260@ntnu.no](r_326_a260@ntnu.no). 
 
 You may not book the room for more than 2 hours at a time. If for some reason you need to book the room for a longer timeslot, please contact the [administration](mailto:kontakt@iik.ntnu.no?subject=booking&nbsp;A260).
 
