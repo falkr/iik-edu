@@ -10,9 +10,20 @@ These rooms are available to all students studying at IIK.
 -   [A272](http://bit.ly/2PeuC0h) Serengeti
 -   [A276](http://bit.ly/362XAXR) Mojave
 -   [A268](http://bit.ly/2rgzQAL) Ngorongoro
--   [A260](http://bit.ly/369rMAL) Gobi [Reservations](https://docs.google.com/spreadsheets/d/1X3Hb_-zogr8egZgwDPjRj7nbp523s4HAU4X6Dkem-Zw/edit?fbclid=IwAR3Mdz9rO4VbT2sQsUA-DdGhC7YSRkWMWM6KiPWgZTaHiv46uvEt17Bpm8o#gid=0)
+-   [A260](http://bit.ly/369rMAL) Gobi 
+
+---
+type: qna
+q: Book Gobi (A260)
+---
+Under construction…
+
+
+
 -   [F256](http://bit.ly/2Pk6Zn2) Coffee room
 -   [F272](http://bit.ly/2RxKPRh) Sahara lab
+
+
 
 ### Workspaces for students writing their pre-project or master's thesis
 
