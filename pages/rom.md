@@ -4,7 +4,7 @@
 
 ### Student rooms
 
-These rooms are available to all students studying at IIK.
+These rooms are available to all students studying at IIK. For an overview of the rooms available to all students at the IE Faculty and/or NTNU, see [innsida](https://i.ntnu.no/wiki/-/wiki/Norsk/Leseplasser+og+datasaler+-+Gl%C3%B8shaugen).
 
 -   [A168](http://bit.ly/2r7mhUp) Komtek Lounge
 -   [A272](http://bit.ly/2PeuC0h) Serengeti
@@ -24,7 +24,7 @@ You may not book the room for more than 2 hours at a time. If for some reason yo
 
 To see existing bookings, add the room's calendar (click 'Add from directory', select your account and use the room's name or e-mail address).
 
-For booking rooms available to all students at NTNU, see [innsida](https://i.ntnu.no/romreservasjon).
+For booking rooms available to all students at the IE Faculty and/or NTNU, see [innsida](https://i.ntnu.no/romreservasjon).
 
 
 
