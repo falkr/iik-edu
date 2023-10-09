@@ -16,6 +16,7 @@ index.md - IIK Utdanning
       lærinsassistenter.md - Læringsassistenter
       resit.md - Re-sit exams
       timeplan.md - Course scheduling
+      course-revision.md - Course revision
     veileder.md - Veilede en oppgave
   studieprogramleder.md - For studieprogramledere
     dialogmøter-spl.md - Dialogmøter
