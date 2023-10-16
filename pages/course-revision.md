@@ -7,8 +7,8 @@ Deadline: all the courses must be sent to S2 in EpN by **Nov 15, 2023**.
 
 Every year in between Oct 15 and Nov 15, it is possible to revise course for the next study year. The revision should be done by the course coordinator the next study year. Who that should be is the responsibility of the Department's leadergroup and should be decided by Oct 15.
 
-:info:
-Once approved and published on the external web, a course description is legally binding. That is, the actual course content, organization and evaluation **must** be in-line with the description.
+:tip:
+Once approved and published on the external web, a course description is legally binding. That is, the actual course content, organization and evaluation must be in-line with the description.
 
 
 
@@ -18,7 +18,7 @@ It is possible for the course coordinator to revise all parts of the course desc
 
 Changes must be justified and anchored, typically in the [course report](https://innsida.ntnu.no/studiekvalitetsportalen/) as a result of the evaluation of the course. The department and study programme(s) are important dialogue partners to ensure that the changes that are proposed comply with associated courses and programmes. Major changes in the course content might make it necessary to create a new course and are normally the result of a more comprehensive process at the department or study programme level, for instance as the result of a periodic evaluation of a programme.
 
-What is not part of the course description is the course schedule data and the registration of course schedule data is a separate [process](timeplan).including 
+What is not part of the course description is the course schedule data and the registration of course schedule data is a separate [process](timeplan). 
 
 * **Deadline:**
     - Nov 15 the study year before the course is to be given.
