@@ -1,5 +1,12 @@
 # Course scheduling (for course coordinators)
 
+---
+type: button
+text: "Log in to TP:Basic data"
+url: https://tp.educloud.no/ntnu/grunnlagsdata/
+---
+
+
 Once it is decided that a course is to be given a given semester, the course coordinator has two tasks:
 - register course schedule data the semester before the course is given, and
 - control the tentative timetable for the course once a draft is available.
