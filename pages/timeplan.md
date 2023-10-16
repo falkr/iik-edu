@@ -18,6 +18,7 @@ See [https://ntnu-timeplanprosessen.webflow.io/](https://ntnu-timeplanprosessen.
 
 Course schedule data is information about what kind of teaching a course will have, the duration of each activity, who is expected to attend the activities (students and staff), and possibly demands and wishes for certain equipment and/or room specifications. 
 
+
 * **Deadline:**
     - 5 workdays before the deadline for the Department, which is March 1st and September 1st for courses to be given in the autumn and in the spring, respectively.
 * **System:**
@@ -40,6 +41,7 @@ The course coordinator should check that:
 Problems/errors should be reported to the Department's administration, see Contact below.
 
 Information about a specific room, incl. the available equipment, is available in [TP](https://tp.educloud.no/ntnu/timeplan/?type=room). 
+
 
 * **Deadline:**
     - June and November for courses to be given in the autumn and in the spring, respectively. The actual dates depend on the deadlines set by the central administration.
