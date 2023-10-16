@@ -21,7 +21,33 @@
   crossorigin="anonymous"></script>
   <script src="assets/anchor.js"></script>
   <script src="assets/clipboard.min.js"></script>
-  <style></style>
+  <style>/* === button === */
+a.ntnu-button {
+    font: 600 14px "Source Sans Pro", Georgia, serif;
+    background: #fff;
+    color: #00509e;
+    border: 1px solid #00509e;
+    border-color: #00509e !important;
+    border-style: solid !important;
+    border-radius: 10rem;
+    display: inline-block;
+    padding: 5px 15px;
+    height: auto;
+    font-weight: bold;
+    line-height: 1.5em;
+    text-align: center;
+    vertical-align: top;
+    cursor: pointer;
+    text-decoration: none
+}
+
+a.ntnu-button:hover {
+    background: #00509e;
+    color: #fff;
+    text-decoration: none
+}
+
+</style>
 </head>
 
 <body>
@@ -65,7 +91,9 @@
 </nav>
 <section class="mt-2 mb-5 py-3">
 <div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><h1>Course scheduling (for course coordinators)</h1>
-<p>Once it is decided that a course is to be given a given semester, the course coordinator has two tasks:</p>
+</div><aside class="col-md-4 chunk ps-2"></aside></div>
+<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><a class="ntnu-button" href="https://tp.educloud.no/ntnu/grunnlagsdata/">Log in to TP:Basic data</a></div><aside class="col-md-4 chunk ps-2"></aside></div>
+<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><p>Once it is decided that a course is to be given a given semester, the course coordinator has two tasks:</p>
 <ul>
 <li>register course schedule data the semester before the course is given, and</li>
 <li>control the tentative timetable for the course once a draft is available.</li>
@@ -161,6 +189,7 @@
   </script>
   <script>
     
+
   </script>
 </body>
 
