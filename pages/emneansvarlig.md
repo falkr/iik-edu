@@ -2,14 +2,16 @@
 # Course coordinator
 
 
-## Phase 1: Before the semester starts
+See also [NTNU's guide for course coordinators](https://innsida.ntnu.no/emneansvarlig) on innsida.
+
+## Phase 1: The year before
 
 ---
 type: card/text
-title: NTNU Wiki for course coordinators
-text: There are many resources at NTNU that detail tasks of course coordinators.
-link: https://innsida.ntnu.no/emneansvarlig
-link_title: Read NTNU's guide for course coordinators
+title: Course revision
+text: Revise the course description
+link: https://edu.iik.ntnu.no/course-revision
+link_title: Read more…
 ---
 
 
@@ -22,7 +24,18 @@ link_title: Read more…
 ---
 
 
-## Phase 2: During the semester
+## Phase 2: Before the semester starts
+
+---
+type: card/text
+title: Course room on Blackboard
+text: Publish some information about the course on Blackboard. Post at least an announcement about the first lecture.
+link: https://i.ntnu.no/bb
+link_title: Read more…
+---
+
+
+## Phase 3: During the semester
 
 ---
 type: card/text
@@ -34,7 +47,7 @@ link_title: Read more about reference groups
 
 
 
-## Phase 3: Concluding the semester
+## Phase 4: Concluding the semester
 
 ---
 type: card
@@ -50,7 +63,7 @@ title: Delivering the Course Report
 8. At the bottom of the page, find the button "Publiser rapport"
 
 
-## Phase 4: After the semester
+## Phase 5: After the semester
 
 ---
 type: card/text
