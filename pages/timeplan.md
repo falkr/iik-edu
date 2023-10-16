@@ -11,14 +11,14 @@ Once it is decided that a course is to be given a given semester, the course coo
 - register course schedule data the semester before the course is given, and
 - control the tentative timetable for the course once a draft is available.
 
-See [https://ntnu-timeplanprosessen.webflow.io/](https://ntnu-timeplanprosessen.webflow.io/) for a presentation of the entire course scheduling process at NTNU.
+See [https://ntnu-timeplanprosessen.webflow.io/](https://ntnu-timeplanprosessen.webflow.io/) for a presentation of the entire course scheduling process at NTNU and innsida for the [academic calendar](https://i.ntnu.no/studiekalender).
 
 
 ## Registering course schedule data
 
 Course schedule data is information about what kind of teaching a course will have, the duration of each activity, who is expected to attend the activities (students and staff), and possibly demands and wishes for certain equipment and/or room specifications. 
 
-* **Deadline to register course schedule data:**
+* **Deadline:**
     - 5 workdays before the deadline for the Department, which is March 1st and September 1st for courses to be given in the autumn and in the spring, respectively.
 * **System:**
     - [TP: Basic data](https://tp.educloud.no/ntnu/grunnlagsdata/) 
