@@ -5,7 +5,7 @@ Deadline: all the courses must be sent to S2 in EpN by **Nov 15, 2023**.
 
 
 
-Every year in between Oct 15 and Nov 15, it is possible to revise a course for the next study year. The revision should be done by the course coordinator the next study year. Who that should be is the responsibility of the Department's leadergroup and should be decided by Oct 15.
+Every year between Oct 15 and Nov 15, it is possible to revise a course for the next study year. The revision should be done by the course coordinator the next study year. Who that should be is the responsibility of the Department's leadergroup and should be decided by Oct 15.
 
 :tip:
 Once approved and published on the external web, a course description is legally binding. That is, the actual course content, organization and evaluation must be in-line with the description.
