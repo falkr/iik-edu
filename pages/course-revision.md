@@ -6,7 +6,7 @@ Deadline: all the courses must be sent to S2 in EpN by **Nov 15, 2023**.
 
 ---
 type: button
-text: "EpN"
+text: "Log in to EpN"
 url: https://epn.fsweb.no
 ---
 
