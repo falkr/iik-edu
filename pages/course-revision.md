@@ -32,6 +32,7 @@ Once a course description has been reviewed and all the changes, if any, have be
     - [Online Course Planner (EpN)](https://epn.fsweb.no) 
 * **How-to:** 
     - [User guide](https://i.ntnu.no/wiki/-/wiki/Norsk/EpN+-+Brukerveiledning+for+fagperson) (in Norwegian only)
+    - [Video](https://www.youtube.com/watch?v=okR3nTtdal8) (closed captions in Norwegian are available; auto-translate to other languages)
 * **Rules and regulations:**
     - Academic regulations [English](https://i.ntnu.no/documents/1305837853/1306916285/engelsk+oversettelse+av+studieforskriften+sist+endret+220623.pdf/2da86c37-a7a1-c633-2046-fcacabd2b21b?t=1693314949544) - [Norwegian](https://lovdata.no/dokument/SF/forskrift/2015-12-08-1449)
     - [Supplementary regulations for programmes in technology (siv.ing)](https://i.ntnu.no/documents/portlet_file_entry/1305837853/Utfyllende-regler+siving+til+rektor+.pdf/8fa3bf4d-e1e9-c743-0796-e8ce227779d1) (in Norwegian only)
