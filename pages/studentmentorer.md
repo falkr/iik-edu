@@ -65,7 +65,7 @@ Her er en oversikt over mentorene, tid og sted:
 	  <div class="col-md-10">
 		  <div class="card-body" style="padding: 0px 0px 0px 5px">
 			  <div class="person-card-name">Abdulsamad Sheikh</div>
-			  <div class="person-card-detail">Studentmentor, ITV og KTV</div>
+			  <div class="person-card-detail">Studentmentor</div>
 			  <a class="person-card-email stretched-link" href="mailto:abdulsas@stud.ntnu.no">abdulsas@stud.ntnu.no</a>
 		  </div>
 	  </div>
