@@ -18,7 +18,7 @@ Once the registration is completed, the course must notify the administration (s
 
 
 * **Deadline to approve compulsory activities:**
-    - Within 14 days before the date of the exam, if any and otherwise within 14 days between the last submission deadline in the course
+    - Within 14 days before the exam, if any and otherwise within 14 days between the last submission deadline in the course
 * **System:**
     - [Fagpersonweb](https://fsweb.no/fagpersonweb/login.jsf?inst=fsntnu) 
 * **How-to:** 
