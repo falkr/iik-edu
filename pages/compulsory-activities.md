@@ -8,13 +8,14 @@ url: https://fsweb.no/fagpersonweb/login.jsf?inst=fsntnu
 
 
 Compulsory activities are assignments and/or tests that must be approved as a prerequisite for the right to assessment, but whose results are not included in the calculation of the grade.
-Compulsory activities, if any, are listed in the course description. If compulsory activities have not been approved, the student must be informed within a reasonable period before the assessment.
+Compulsory activities, if any, must be listed in the course description. If a compulsory activity has not been approved, the student must be informed within a reasonable period before the assessment.
 
 
 ## Approving compulsory activities
 
 For each student registered for a course and each compulsory activity, the course coordinator must registered whether it is approved or not. 
 Once the registration is completed, the course must notify the administration (see Contact below).
+
 
 * **Deadline to approve compulsory activities:**
     - Within 14 days before the date of the exam, if any and otherwise within 14 days between the last submission deadline in the course
