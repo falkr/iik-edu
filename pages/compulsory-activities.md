@@ -13,8 +13,8 @@ Compulsory activities, if any, must be listed in the course description. If a co
 
 ## Approving compulsory activities
 
-For each student registered for a course and each compulsory activity, the course coordinator must registered whether it is approved or not. 
-Once the registration is completed, the course must notify the administration (see Contact below).
+For each student and each compulsory activity, the course coordinator must registered whether the compulsory activity is approved or not. 
+Once the registration is completed, the course coordinator must notify the administration (see Contact below).
 
 
 * **Deadline to approve compulsory activities:**
