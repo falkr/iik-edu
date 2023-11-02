@@ -17,7 +17,7 @@ index.md - IIK Utdanning
       resit.md - Re-sit exams
       timeplan.md - Course scheduling
       course-revision.md - Course revision
-      compulsory-activities - Approval of compulsory activities
+      compulsory-activities.md - Approval of compulsory activities
     veileder.md - Veilede en oppgave
   studieprogramleder.md - For studieprogramledere
     dialogmøter-spl.md - Dialogmøter
