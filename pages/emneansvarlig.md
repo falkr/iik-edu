@@ -39,19 +39,25 @@ link_title: Read more…
 
 ---
 type: card/text
-title: Reference Groups
+title: Reference groups
 text: Reference groups are mandatory at IIK.
 link: referansegruppe.html
 link_title: Read more about reference groups
 ---
 
-
+---
+type: card/text
+title: Compulsory activities
+text: Approve compulsory activities, if any, within 14 days before the exam or the last submission deadline in the course.
+link: compulsory-activities.html
+link_title: Read more…
+---
 
 ## Phase 4: Concluding the semester
 
 ---
 type: card
-title: Delivering the Course Report
+title: Delivering the course report
 ---
 1. Log into [Kasper](https://studntnu.sharepoint.com/sites/studieplanlegging)
 2. Click on [Emneevaluering](https://studntnu.sharepoint.com/sites/studieplanlegging/SitePages/Startside-emne.aspx)

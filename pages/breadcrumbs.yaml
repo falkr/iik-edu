@@ -36,6 +36,8 @@
         title: Course scheduling
       - page: course-revision.md
         title: Course revision     
+      - page: compulsory-activities.md
+        title: Approval of compulsory activities
     - page: veileder.md
       title: Veilede en oppgave
   - page: studieprogramleder.md
