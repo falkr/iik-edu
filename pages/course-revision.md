@@ -14,6 +14,10 @@ url: https://epn.fsweb.no
 Every year between Oct 15 and Nov 15, course descriptions must be reviewed and may be revised for the next study year. For each course, this should be done by the course coordinator for the next study year. Who that should be is the responsibility of the department's leadergroup and should be decided by Oct 15.
 
 :tip:
+A course description shall be a resource for students, teachers, study program leaders at NTNU, but also for potential applicants and others.
+
+
+:tip:
 Once approved and published on the external web, a course description is legally binding. That is, the actual course content, organization and evaluation must be in-line with the description.
 
 
