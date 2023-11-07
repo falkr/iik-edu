@@ -6,8 +6,7 @@
 
 ---
 type: card/text
-title: Grading in Inspera Assessment
-text: Register marks and grades in NTNU's exam system Inspera Assessment.
+title: Grade in Inspera Assessment
 link: https://i.ntnu.no/wiki/-/wiki/English/Grading+in+Inspera+Assessment
 link_title: Read more on innsida…
 --- 
@@ -15,8 +14,7 @@ link_title: Read more on innsida…
 
 ---
 type: card/text
-title: Travel expenses claim for non-employees
-text: Register travel expenses claim via the Betalmeg portal.
+title: Register travel expenses claims via Betalmeg
 link: https://i.ntnu.no/wiki/-/wiki/English/Betalmeg+-+travel+expenses+claim+for+non-employees
 link_title: Read more on innsida…
 --- 
