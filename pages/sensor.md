@@ -14,7 +14,7 @@ link_title: Read more on innsida…
 
 ---
 type: card/text
-title: Register travel expenses claims via Betalmeg
+title: Register travel expenses claims
 link: https://i.ntnu.no/wiki/-/wiki/English/Betalmeg+-+travel+expenses+claim+for+non-employees
 link_title: Read more on innsida…
 --- 
