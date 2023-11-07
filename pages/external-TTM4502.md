@@ -17,6 +17,13 @@
 3. For each pre-project, fill in an evaluation and feedback form together with the main supervisor and submit the form evaluation and feeback forms to the [department's administration](mailto:liv.k.stubberud@ntnu.no,laurent.paquereau@ntnu.no).
 
 
+:steps:
+1. Read through the reports during the 3 weeks preceeding the presentation day.
+2. Be present on campus on the presentation day and chair the sessions where the students whose reports you have read present their pre-project.
+3. For each pre-project, fill in an evaluation and feedback form together with the main supervisor and submit the form evaluation and feeback forms to the [department's administration](mailto:liv.k.stubberud@ntnu.no,laurent.paquereau@ntnu.no).
+
+
+
 ## About the course
 
 ---
