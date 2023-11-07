@@ -156,6 +156,37 @@ div.qna .accordion-button:not(.collapsed)::after {
   color: #00509e;
 }
 
+/* === steps === */
+.steps ol, .steps ul {
+  counter-reset: li;
+  list-style: none;
+  margin-left: 10px
+}
+
+.steps li {
+  margin: 0 0 10px 0;
+  min-height: 40px
+}
+
+.steps li:before {
+  content: counter(li);
+  counter-increment: li;
+  border: 2px solid #868279;
+  color: #868279;
+  background-color: none;
+  font-family: "Source Sans Pro", Georgia, serif;
+  font-weight: bold;
+  border-radius: 100%;
+  text-align: center;
+  display: inline-block;
+  top:8px;
+  left:-30px;
+  width: 30px;
+  height: 30px;
+  position: relative;
+  margin: -20px -10px -20px -20px
+}
+
 </style>
 </head>
 
@@ -204,6 +235,12 @@ div.qna .accordion-button:not(.collapsed)::after {
 </div></div><aside class="col-md-4 chunk ps-2"></aside></div>
 <div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><div class="task box mt-3 mb-3"><p><strong>Summary of the tasks:</strong></p>
 <ol>
+<li>Read through the reports during the 3 weeks preceeding the presentation day.</li>
+<li>Be present on campus on the presentation day and chair the sessions where the students whose reports you have read present their pre-project.</li>
+<li>For each pre-project, fill in an evaluation and feedback form together with the main supervisor and submit the form evaluation and feeback forms to the <a href="mailto:liv.k.stubberud@ntnu.no,laurent.paquereau@ntnu.no">department's administration</a>.</li>
+</ol>
+</div></div><aside class="col-md-4 chunk ps-2"></aside></div>
+<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><div class="steps"><ol>
 <li>Read through the reports during the 3 weeks preceeding the presentation day.</li>
 <li>Be present on campus on the presentation day and chair the sessions where the students whose reports you have read present their pre-project.</li>
 <li>For each pre-project, fill in an evaluation and feedback form together with the main supervisor and submit the form evaluation and feeback forms to the <a href="mailto:liv.k.stubberud@ntnu.no,laurent.paquereau@ntnu.no">department's administration</a>.</li>
@@ -333,6 +370,7 @@ div.qna .accordion-button:not(.collapsed)::after {
   </script>
   <script>
     
+
 
 
 
