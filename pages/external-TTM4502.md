@@ -31,9 +31,8 @@ url: https://www.ntnu.edu/studies/courses/TTM4502
 :warning:
 The grades do not have to be registered and approved in Inspera Assessment. This is done by the course coordinator for all the students.
 
+
 ### Assessment criteria for each of the work items
-
-
 
 
 ---
@@ -60,7 +59,7 @@ The project must have clearly defined objectives, aimed to address some well-def
 ---
 type: qna
 q: F – Establish and describe a proposed method to achieve the objective·s and, if relevant, a method to verify or validate the result
-___
+---
 The student·s must demonstrate that it is understood what a method is.  One definition in this context can be is *a particular systematic established procedure for approaching the objectives*. The nature of the research wuestions must be defined. Research questions can be related to a traditional science or a design science context or combinations. Traditional science is related to models of systems in the real world, while design science is related to the modeling and also validation of human created artifacts. Research tasks and method must be defined related to research questions. Research questions can be related to various research tasks. Examples of research tasks are: constructive design, traffic modeling, behavior simulations, traffic simulations, measurements, validation of design and traffic models verification. Methods are related to the nature of the research tasks. The research method specifies in more detail how the research tasks are accomplished.
 
 
