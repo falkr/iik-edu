@@ -32,7 +32,7 @@ url: https://www.ntnu.edu/studies/courses/TTM4502
 The grades do not have to be registered and approved in Inspera Assessment. This is done by the course coordinator for all the students.
 
 ---
-ref:eval-TTM4502.md
+ref: eval-TTM4502.md
 ---
 
 
