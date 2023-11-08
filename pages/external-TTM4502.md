@@ -27,7 +27,7 @@ url: https://www.ntnu.edu/studies/courses/TTM4502
 
 This is a preliminary project for the master's thesis for master's students at the department in Trondheim. 
 
-The course is assessed as passed/not passed on the basis of a written report that the students submit, but it is also compulsory for students to present their project during a presentation day.
+The course is assessed as passed/not passed based on the written report that the students submit, but it is also compulsory for students to present their project during a presentation day.
 
 The students may work either alone or in groups of two on a project under the supervision of one or more supervisor. The main supervisor is also an associate professor or a professor at the department. Co-supervisors may be
 others associate professors, professors, researchers, post-doctoral fellows or Ph.D. candidates at the department or people that are external to the department and possibly the university
