@@ -58,7 +58,7 @@ The detailed programme for the day is distributed by e-mail at the latest a week
 
 On the presentation day, there are as many parallel tracks in different rooms as there are external evaluators. Unless otherwise indicated, the programme starts at 09:15 and finishes at the lastest at 15:00.
 
-Each presentation lasts for 20 min.; 15 min. for the presentation of the project and 5 min. for questions/comments/feedback from the audience. The presentation, questions/comments/feedback and answers *must* be in English.
+Each presentation lasts for 20 min.; 15 min. for the presentation of the project and 5 min. for questions and comments from the audience. The presentation, questions, comments and answers *must* be in English.
 
 To ensure and stimulate participation, each student/group shall at least ask one question to at least one other students/groups according to a prepared schedule distributed with the detailed programme for the day. Of course, they may all also ask questions/give feedback to other students/groups as well.
 
@@ -82,7 +82,7 @@ unfortunately not always the case.
 It is of course up to you. As session chair you should invite for questions from other attendees. It may be hardest to get them from the students, but once a student asks a question, it may inspire others. It is as an advantage that you as external evaluator ask challenging questions. It should also be a preparatory training for what students will encounter after their studies and being able to present their own work and ask critical questions after listening to someone else presenting are part of the general competence the students should acquire through this project. If relevant, it is also an opportunity to give the student·s the possibility to clarify parts of the report and for you to gain better insight into what has been done and what is planned and a better idea of his/her/their actual understanding, which can be helpful for the evaluation. Some external evaluators also choose to end with a short oral feedback to the student·s – adapted to the setting, but still indicating where improvements may be made —.
 
 
-### Information angiven to the students
+### Information given to the students
 
 1.  This is because there may be non-Norwegian speakers in the audience (international students, external examiners, employees at the department)
 

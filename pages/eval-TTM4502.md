@@ -1,6 +1,7 @@
 :warning:
 The grades do not have to be registered and approved in Inspera Assessment. This is done by the course coordinator for all the students.
 
+
 Each report is to be jointly evaluated and graded by an external and an internal evaluator. The internal evaluator is the student's·s' main supervisor. The external evaluator is appointed by the department. The department normally appoints 4-5 external evaluators so they each evaluate and grade 10-12 reports.
 
 In order for the report to be graded as passed, all the items c) – f) and h) listed in the [course description](https://www.ntnu.edu/studies/courses/TTM4502) under 'course content' must be addressed in a passable manner. Similarly for item g) if the planned thesis is intended to use specific tool(s). The assessment criteria for each of the items are detailed below and are communicated to the students at the beginning of the semester by the course coordinator.
