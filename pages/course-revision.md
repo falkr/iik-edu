@@ -17,7 +17,7 @@ Every year between Oct 15 and Nov 15, course descriptions must be reviewed and m
 A course description shall be a resource for students, teachers and study program leaders at NTNU, but also for potential applicants and others.
 
 
-:tip:
+:definition:
 Once approved and published on the external web, a course description is legally binding. That is, the actual course content, organization and evaluation must be in-line with the description.
 
 
