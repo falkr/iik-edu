@@ -21,7 +21,128 @@
   crossorigin="anonymous"></script>
   <script src="assets/anchor.js"></script>
   <script src="assets/clipboard.min.js"></script>
-  <style>/* === qna === */
+  <style>/* === boxes === */
+div.box {
+  padding: 10px;
+  border-radius: 5px;
+  position: relative;
+  padding: 1rem 1rem 1rem 3.5rem;
+}
+
+div.box>p {
+  margin-bottom: 0px;
+}
+
+div.box>*:first-child::before {
+  font-family: bootstrap-icons !important;
+  font-size: 1.5rem;
+  padding: 0.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  display: grid;
+}
+
+div.milestone {
+  background-color: #E3BCDA;
+}
+
+div.milestone>*:first-child::before {
+  content: '\f706';
+  color: #75225E;
+}
+
+div.delivery {
+  background-color: #ffd9ab;
+}
+
+div.delivery>*:first-child::before {
+  content: '\f1be';
+  color: #fc8c03;
+}
+
+div.definition {
+  background-color: #EEE5D5;
+}
+
+div.definition>*:first-child::before {
+  content: '\f3e9';
+  color: #7D705A;
+}
+
+div.guideline {
+  background-color: #fae7e8;
+}
+
+div.guideline>*:first-child::before {
+  content: '\f548';
+  color: #e45460;
+}
+
+div.report {
+  background-color: #D6E5F0;
+}
+
+div.report>*:first-child::before {
+  content: '\f43e';
+  color: #1481b8;
+}
+
+div.warning {
+  background-color: #ffd9ab;
+}
+
+div.warning>*:first-child::before {
+  content: '\f33a';
+  color: #fc8c03;
+}
+
+div.tip {
+  background-color: #E3BCDA;
+}
+
+div.tip>*:first-child::before {
+  content: '\f402';
+  color: #75225E;
+}
+
+div.task {
+  background-color: #fae7e8;
+}
+
+div.task>*:first-child::before {
+  content: '\f5db';
+  color: #e45460;
+}
+
+/* === button === */
+a.ntnu-button {
+    font: 600 14px "Source Sans Pro", Georgia, serif;
+    background: #fff;
+    color: #00509e;
+    border: 1px solid #00509e;
+    border-color: #00509e !important;
+    border-style: solid !important;
+    border-radius: 10rem;
+    display: inline-block;
+    padding: 5px 15px;
+    height: auto;
+    font-weight: bold;
+    line-height: 1.5em;
+    text-align: center;
+    vertical-align: top;
+    cursor: pointer;
+    text-decoration: none
+}
+
+a.ntnu-button:hover {
+    background: #00509e;
+    color: #fff;
+    text-decoration: none
+}
+
+/* === qna === */
 button:hover {
   background-color: #EFF7FF;
 }
@@ -70,7 +191,14 @@ div.qna .accordion-button:not(.collapsed)::after {
 
   <main class="container container-max-width">
     <section class="mt-5 mb-5 py-3">
-<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><h3>Assessment criteria for each of the work items</h3>
+<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><div class="warning box mt-3 mb-3"><p>The grades do not have to be registered and approved in Inspera Assessment. This is done by the course coordinator for all the students.</p>
+<p>Each report is to be jointly evaluated and graded by an external and an internal evaluator. The internal evaluator is the student's·s' main supervisor. The external evaluator is appointed by the department. The department normally appoints 4-5 external evaluators so they each evaluate and grade 10-12 reports.</p>
+<p>In order for the report to be graded as passed, all the items c) – f) and h) listed in the <a href="https://www.ntnu.edu/studies/courses/TTM4502">course description</a> under 'course content' must be addressed in a passable manner. Similarly for item g) if the planned thesis is intended to use specific tool(s). The assessment criteria for each of the items are detailed below and are communicated to the students at the beginning of the semester by the course coordinator.</p>
+<p>The evaluation and grading must be documented by filling in an evaluation and feedback form for each report. The forms should be submitted to the <a href="mailto:liv.k.stubberud@ntnu.no,laurent.paquereau@ntnu.no">department's administration</a> within a month after the presentation day.</p>
+<p><strong>Evaluating, grading, filling in an evaluation form and submitting it in time is the joint responsibility of both the external evaluator and the main supervisor.</strong></p>
+</div></div><aside class="col-md-4 chunk ps-2"></aside></div>
+<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><a class="ntnu-button" href="TODO">Download the evaluation and feedback form</a></div><aside class="col-md-4 chunk ps-2"></aside></div>
+<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><h3>Assessment criteria for each of the items</h3>
 </div><aside class="col-md-4 chunk ps-2"></aside></div>
 <div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><p>
 <div class="accordion" id="id9e2cd8">
@@ -150,6 +278,10 @@ div.qna .accordion-button:not(.collapsed)::after {
   </div>
 </div>
 </p></div><aside class="col-md-4 chunk ps-2"></aside></div>
+<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><h3>How to proceed</h3>
+<p>It is common practice for the external evaluator and the main supervisor to first go through the report individually and afterwards discuss and agree upon the evaluation and feedback during a physical or on-line meeting. It can also be handled by e-mail, but it might be less efficient.</p>
+<p>As for filling in the form, this may be handled by both preparing comments that are merged after the coordination meeting (this is usually done by the external evaluator); alternatively, one of the parties may make a draft that is supplemented by the other.</p>
+</div><aside class="col-md-4 chunk ps-2"></aside></div>
 </section>
   </main>
 
@@ -187,6 +319,8 @@ div.qna .accordion-button:not(.collapsed)::after {
   </script>
   <script>
     
+
+
 
   </script>
 </body>
