@@ -142,6 +142,40 @@ a.ntnu-button:hover {
     text-decoration: none
 }
 
+/* === checklistbox === */
+div.checklistbox {
+  width: 18rem;
+  float: right;
+  padding: 10px;
+  margin-left: 30px;
+  margin-bottom: 30px;
+  background-color: #EFF7FF;
+  border-radius: 0px;
+  border-top: 6px solid #00509e
+  }
+  
+div.checklistbox::before { 
+  content: "Checklist:";
+  font-weight: bold;
+  padding: 0px 0 12px 0;
+  display: block;
+  color: #00509e;
+  }
+
+div.checklistbox ul li:before {
+  content: '\f26a';
+  font-family: bootstrap-icons !important;
+  float: left;
+  margin-left: -1.5em;
+  color: #00509e;
+  line-height: 1.5rem;
+}
+
+
+div.checklistbox ul {
+  list-style-type: none;
+}
+
 /* === qna === */
 button:hover {
   background-color: #EFF7FF;
@@ -202,12 +236,12 @@ div.qna .accordion-button:not(.collapsed)::after {
 <li>Feb 14: Deadline for external evaluators to submit a final evaluation and feeback form for the reports that were (re-)submitted on Jan 31 to the <a href="mailto:liv.k.stubberud@ntnu.no,laurent.paquereau@ntnu.no">department's administration</a></li>
 </ul>
 </div></div><aside class="col-md-4 chunk ps-2"></aside></div>
-<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><div class="task box mt-3 mb-3"><p><strong>Summary of the tasks:</strong></p>
-<ol>
+<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><div class="checklistbox"><p><strong>Summary of the tasks:</strong></p>
+<ul>
 <li>Read through the reports during the 3 weeks preceeding the presentation day.</li>
 <li>Be present on campus on the presentation day and chair the sessions where the students whose reports you have read present their pre-project.</li>
 <li>For each pre-project, fill in an evaluation and feedback form together with the main supervisor and submit the form evaluation and feeback forms to the <a href="mailto:liv.k.stubberud@ntnu.no,laurent.paquereau@ntnu.no">department's administration</a>.</li>
-</ol>
+</ul>
 </div></div><aside class="col-md-4 chunk ps-2"></aside></div>
 <div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><h2>About the course</h2>
 </div><aside class="col-md-4 chunk ps-2"></aside></div>
@@ -333,6 +367,7 @@ div.qna .accordion-button:not(.collapsed)::after {
   </script>
   <script>
     
+
 
 
 
