@@ -13,7 +13,7 @@ The evaluation and grading must be documented by filling in an evaluation and fe
 ---
 type: button
 text: "Download the evaluation and feedback form (docx)"
-url: https://edu.iik.ntnu.no/assets/TTM4502%20evaluation%20and%20feedback%20form.docx
+url: https://edu.iik.ntnu.no/assets/TTM4502%20-%20evaluation%20and%20feedback%20form.docx
 ---
 
 
