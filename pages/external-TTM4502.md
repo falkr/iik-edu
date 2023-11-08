@@ -82,15 +82,6 @@ unfortunately not always the case.
 It is of course up to you. As session chair you should invite for questions from other attendees. It may be hardest to get them from the students, but once a student asks a question, it may inspire others. It is as an advantage that you as external evaluator ask challenging questions. It should also be a preparatory training for what students will encounter after their studies and being able to present their own work and ask critical questions after listening to someone else presenting are part of the general competence the students should acquire through this project. If relevant, it is also an opportunity to give the student·s the possibility to clarify parts of the report and for you to gain better insight into what has been done and what is planned and a better idea of his/her/their actual understanding, which can be helpful for the evaluation. Some external evaluators also choose to end with a short oral feedback to the student·s – adapted to the setting, but still indicating where improvements may be made —.
 
 
-### Information given to the students
-
-1.  This is because there may be non-Norwegian speakers in the audience (international students, external examiners, employees at the department)
-
-2. You are presenting your work to other students who, although they do have a similar background, have not worked or read on your specific topic the way you have during the last 3 months. Make sure that you take time to present the topic area and motivate your project.
-
-3. You want to use this opportunity to receive feedback. Think about how you can present your project so you can trigger feedback that will be useful for you pursuing this topic next semester.
-
-
 ### Practicalities
 
 When it is his/her/their turn to present, the student·s should join the MS Teams meeting for the track and share his/her/their screen. The audio on his/her/their laptop should be turned off and the student·s should use the microphone available in the room.
