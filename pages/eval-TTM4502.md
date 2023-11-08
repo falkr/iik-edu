@@ -1,5 +1,22 @@
+:warning:
+The grades do not have to be registered and approved in Inspera Assessment. This is done by the course coordinator for all the students.
 
-### Assessment criteria for each of the work items
+Each report is to be jointly evaluated and graded by an external and an internal evaluator. The internal evaluator is the student's·s' main supervisor. The external evaluator is appointed by the department. The department normally appoints 4-5 external evaluators so they each evaluate and grade 10-12 reports.
+
+In order for the report to be graded as passed, all the items c) – f) and h) listed in the [course description](https://www.ntnu.edu/studies/courses/TTM4502) under 'course content' must be addressed in a passable manner. Similarly for item g) if the planned thesis is intended to use specific tool(s). The assessment criteria for each of the items are detailed below and are communicated to the students at the beginning of the semester by the course coordinator.
+
+The evaluation and grading must be documented by filling in an evaluation and feedback form for each report. The forms should be submitted to the [department's administration](mailto:liv.k.stubberud@ntnu.no,laurent.paquereau@ntnu.no) within a month after the presentation day.
+
+**Evaluating, grading, filling in an evaluation form and submitting it in time is the joint responsibility of both the external evaluator and the main supervisor.**
+
+---
+type: button
+text: "Download the evaluation and feedback form"
+url: TODO
+---
+
+
+### Assessment criteria for each of the items
 
 
 ---
@@ -43,3 +60,9 @@ q: H – Prepare an initial plan for the work towards the master's thesis
 ---
 The work during the thesis project should be divided into a reasonable number of tasks (~ 5) adapted to the project. If not obvious, there should be a brief motivation for the subdivision into tasks. The task objective, technical approach and expected outcome should be specified together with start and end dates and resource utilization (working hours, lab usage, tools, etc). Milestones should be put at reasonably regular intervals (~ average 3rd week, at end of tasks) where specific intermediate results should be ready. Milestones should enable tracking of the progress of the work. Dependencies between tasks and if relevant external input, should be identified. Visual support, e.g., as a Gantt diagram, is a pre. Potential risks should be identified and if significant, means to deal with them should be outlined.
 
+
+### How to proceed
+
+It is common practice for the external evaluator and the main supervisor to first go through the report individually and afterwards discuss and agree upon the evaluation and feedback during a physical or on-line meeting. It can also be handled by e-mail, but it might be less efficient. 
+
+As for filling in the form, this may be handled by both preparing comments that are merged after the coordination meeting (this is usually done by the external evaluator); alternatively, one of the parties may make a draft that is supplemented by the other.
