@@ -35,6 +35,6 @@ By the end of the pre-project, the student·s must clearly present an assessment
 
 ---
 type: qna
-q: H – Prepare an initial plan for the work towards the master's thesis including: description of sub-tasks, progress, resource utilization and milestones. 
+q: H – Prepare an initial plan for the work towards the master's thesis including: description of sub-tasks, progress, resource utilization and milestones.
 ---
 The work during the thesis project should be divided into a reasonable number of tasks (~ 5) adapted to the project. If not obvious, there should be a brief motivation for the subdivision into tasks. The task objective, technical approach and expected outcome should be specified together with start and end dates and resource utilization (working hours, lab usage, tools, etc). Milestones should be put at reasonably regular intervals (~ average 3rd week, at end of tasks) where specific intermediate results should be ready. Milestones should enable tracking of the progress of the work. Dependencies between tasks and if relevant external input, should be identified. Visual support, e.g., as a Gantt diagram, is a pre. Potential risks should be identified and if significant, means to deal with them should be outlined.
