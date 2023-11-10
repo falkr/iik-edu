@@ -5,7 +5,7 @@ Deadline: all the courses must be sent to S2 in EpN by **Nov 15, 2023**.
 
 
 :warning:
-Even if nothing is to be change, the course coordinator *must* review the course description and, once it is done, send it to quality check (S2).
+Even if nothing needs to be changed, the course coordinator *must* review the course description and, once it is done, send it to quality check (S2).
 
 
 ---
