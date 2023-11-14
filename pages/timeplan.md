@@ -52,7 +52,7 @@ Information about a specific room, incl. the available equipment, is available i
 * **Deadline:**
     - June and November for courses to be given in the autumn and in the spring, respectively. The actual dates depend on the deadlines set by the central administration.
 * **System:**
-    - [TP:course](https://tp.educloud.no/ntnu/timeplan/emner.php?lang=en) and [TP:staff](https://tp.educloud.no/ntnu/timeplan/timeplan.php?type=staff&lang=en)(select the relevant semester in the drop-down menu on the right and search for the course by course code.)
+    - [TP:course](https://tp.educloud.no/ntnu/timeplan/emner.php?lang=en) (select the relevant semester in the drop-down menu on the right and search for the course by course code.) and [TP:staff](https://tp.educloud.no/ntnu/timeplan/timeplan.php?type=staff&lang=en) (select the relevant semester in the drop-down menu on the right.)
 
 
 ## Contact
