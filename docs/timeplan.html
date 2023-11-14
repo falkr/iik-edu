@@ -21,7 +21,102 @@
   crossorigin="anonymous"></script>
   <script src="assets/anchor.js"></script>
   <script src="assets/clipboard.min.js"></script>
-  <style>/* === button === */
+  <style>/* === boxes === */
+div.box {
+  padding: 10px;
+  border-radius: 5px;
+  position: relative;
+  padding: 1rem 1rem 1rem 3.5rem;
+}
+
+div.box>p {
+  margin-bottom: 0px;
+}
+
+div.box>*:first-child::before {
+  font-family: bootstrap-icons !important;
+  font-size: 1.5rem;
+  padding: 0.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  display: grid;
+}
+
+div.milestone {
+  background-color: #E3BCDA;
+}
+
+div.milestone>*:first-child::before {
+  content: '\f706';
+  color: #75225E;
+}
+
+div.delivery {
+  background-color: #ffd9ab;
+}
+
+div.delivery>*:first-child::before {
+  content: '\f1be';
+  color: #fc8c03;
+}
+
+div.definition {
+  background-color: #EEE5D5;
+}
+
+div.definition>*:first-child::before {
+  content: '\f3e9';
+  color: #7D705A;
+}
+
+div.guideline {
+  background-color: #fae7e8;
+}
+
+div.guideline>*:first-child::before {
+  content: '\f548';
+  color: #e45460;
+}
+
+div.report {
+  background-color: #D6E5F0;
+}
+
+div.report>*:first-child::before {
+  content: '\f43e';
+  color: #1481b8;
+}
+
+div.warning {
+  background-color: #ffd9ab;
+}
+
+div.warning>*:first-child::before {
+  content: '\f33a';
+  color: #fc8c03;
+}
+
+div.tip {
+  background-color: #E3BCDA;
+}
+
+div.tip>*:first-child::before {
+  content: '\f402';
+  color: #75225E;
+}
+
+div.task {
+  background-color: #fae7e8;
+}
+
+div.task>*:first-child::before {
+  content: '\f5db';
+  color: #e45460;
+}
+
+/* === button === */
 a.ntnu-button {
     font: 600 14px "Source Sans Pro", Georgia, serif;
     background: #fff;
@@ -92,6 +187,12 @@ a.ntnu-button:hover {
 <section class="mt-2 mb-5 py-3">
 <div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><h1>Course scheduling (for course coordinators)</h1>
 </div><aside class="col-md-4 chunk ps-2"></aside></div>
+<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><div class="warning box mt-3 mb-3"><p>Deadline:</p>
+<ul>
+<li>[Trondheim] The deadline to control the tentative timetables for the spring semester 2024 and send feedback to the <a href="mailto:laurent.paquereau@ntnu.no">administration</a> is: <strong>Nov 25, 2023 12:00 (noon)</strong>.</li>
+<li>[Gjøvik] The deadline to control the tentative timetables for the spring semester 2024 and send feedback to the <a href="mailto:stian.karlsen@ntnu.no">administration</a> is: <strong>Nov 28, 2023</strong>.</li>
+</ul>
+</div></div><aside class="col-md-4 chunk ps-2"></aside></div>
 <div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><a class="ntnu-button" href="https://tp.educloud.no/ntnu/grunnlagsdata/">Log in to TP:Basic data</a></div><aside class="col-md-4 chunk ps-2"></aside></div>
 <div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><p>Once it is decided that a course is to be given a given semester, the course coordinator has two tasks:</p>
 <ul>
@@ -132,7 +233,7 @@ a.ntnu-button:hover {
 <li>the activities are both scheduled the weeks they will occur and not scheduled the weeks they will not occur, and finally</li>
 <li>if you are teaching in more than one courses, that teaching times are not colliding.</li>
 </ul>
-<p>Problems/errors should be reported to the Department's administration, see Contact below.</p>
+<p>Problems/errors should be reported to the administration, see <a href="https://edu.iik.ntnu.no/timeplan#contact">Contact</a> below.</p>
 <p>Information about a specific room, incl. the available equipment, is available in <a href="https://tp.educloud.no/ntnu/timeplan/?type=room">TP</a>.</p>
 </div><aside class="col-md-4 chunk ps-2"></aside></div>
 <div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><ul>
@@ -143,7 +244,7 @@ a.ntnu-button:hover {
 </li>
 <li><strong>System:</strong>
 <ul>
-<li><a href="https://tp.educloud.no/ntnu/timeplan/emner.php?lang=en">TP</a> (select the relevant semester in the drop-down menu on the right and search for the course by course code.)</li>
+<li><a href="https://tp.educloud.no/ntnu/timeplan/emner.php?lang=en">TP:course</a> and <a href="https://tp.educloud.no/ntnu/timeplan/timeplan.php?type=staff&amp;lang=en">TP:staff</a>(select the relevant semester in the drop-down menu on the right and search for the course by course code.)</li>
 </ul>
 </li>
 </ul>
@@ -151,7 +252,12 @@ a.ntnu-button:hover {
 <div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><h2>Contact</h2>
 <ul>
 <li>Trondheim: <a href="mailto:laurent.paquereau@ntnu.no">Laurent Paquereau</a></li>
-<li>Gjøvik: <a href="mailto:hilde.bakke@ntnu.no">Hilde Bakke</a></li>
+<li>Gjøvik:
+<ul>
+<li>Registration of course schedule data: <a href="mailto:hilde.bakke@ntnu.no">Hilde Bakke</a></li>
+<li>Feedback on the tentative timetables: <a href="mailto:stian.karlsen@ntnu.no">Stian Hjelvik Karlsen</a></li>
+</ul>
+</li>
 </ul>
 </div><aside class="col-md-4 chunk ps-2"></aside></div>
 </section>
@@ -191,6 +297,7 @@ a.ntnu-button:hover {
   </script>
   <script>
     
+
 
   </script>
 </body>
