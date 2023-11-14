@@ -36,7 +36,7 @@ Course schedule data is information about what kind of teaching a course will ha
 
 :warning:
 Deadline:
-- [Trondheim] The deadline to control the tentative timetables for the spring semester 2024 and send feedback to the [administration](mailto:laurent.paquereau@ntnu.no) is: **Nov 25, 2023 12:00 (noon)**.
+- [Trondheim] The deadline to control the tentative timetables for the spring semester 2024 and send feedback to the [administration](mailto:laurent.paquereau@ntnu.no) is: **Nov 24, 2023 12:00 (noon)**.
 - [Gjøvik] The deadline to control the tentative timetables for the spring semester 2024 and send feedback to the [administration](mailto:stian.karlsen@ntnu.no) is: **Nov 28, 2023**.
 
 The timetables will be published for the student on week 49.
