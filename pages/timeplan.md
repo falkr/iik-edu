@@ -1,5 +1,11 @@
 # Course scheduling (for course coordinators)
 
+:warning:
+Deadline:
+- [Trondheim] The deadline to control the tentative timetables for the spring semester 2024 and send feedback to the [administration](mailto:laurent.paquereau@ntnu.no) is: **Nov 25, 2023 12:00 (noon)**.
+- [Gjøvik] The deadline to control the tentative timetables for the spring semester 2024 and send feedback to the [administration](mailto:stian.karlsen@ntnu.no) is: **Nov 28, 2023**.
+
+
 ---
 type: button
 text: "Log in to TP:Basic data"
@@ -38,7 +44,7 @@ The course coordinator should check that:
 - the activities are both scheduled the weeks they will occur and not scheduled the weeks they will not occur, and finally
 - if you are teaching in more than one courses, that teaching times are not colliding.
 
-Problems/errors should be reported to the Department's administration, see Contact below.
+Problems/errors should be reported to the administration, see [Contact](https://edu.iik.ntnu.no/timeplan#contact) below.
 
 Information about a specific room, incl. the available equipment, is available in [TP](https://tp.educloud.no/ntnu/timeplan/?type=room). 
 
@@ -46,10 +52,12 @@ Information about a specific room, incl. the available equipment, is available i
 * **Deadline:**
     - June and November for courses to be given in the autumn and in the spring, respectively. The actual dates depend on the deadlines set by the central administration.
 * **System:**
-    - [TP](https://tp.educloud.no/ntnu/timeplan/emner.php?lang=en) (select the relevant semester in the drop-down menu on the right and search for the course by course code.)
+    - [TP:course](https://tp.educloud.no/ntnu/timeplan/emner.php?lang=en) and [TP:staff](https://tp.educloud.no/ntnu/timeplan/timeplan.php?type=staff&lang=en)(select the relevant semester in the drop-down menu on the right and search for the course by course code.)
 
 
 ## Contact
 
 * Trondheim: [Laurent Paquereau](mailto:laurent.paquereau@ntnu.no)
-* Gjøvik: [Hilde Bakke](mailto:hilde.bakke@ntnu.no)
+* Gjøvik: 
+    - Registration of course schedule data: [Hilde Bakke](mailto:hilde.bakke@ntnu.no)
+    - Feedback on the tentative timetables: [Stian Hjelvik Karlsen](mailto:stian.karlsen@ntnu.no)
