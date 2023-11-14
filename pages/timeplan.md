@@ -5,12 +5,7 @@ Deadline:
 - [Trondheim] The deadline to control the tentative timetables for the spring semester 2024 and send feedback to the [administration](mailto:laurent.paquereau@ntnu.no) is: **Nov 25, 2023 12:00 (noon)**.
 - [Gjøvik] The deadline to control the tentative timetables for the spring semester 2024 and send feedback to the [administration](mailto:stian.karlsen@ntnu.no) is: **Nov 28, 2023**.
 
-
----
-type: button
-text: "Log in to TP:Basic data"
-url: https://tp.educloud.no/ntnu/grunnlagsdata/
----
+The timetables will be published for the student on week 49.
 
 
 Once it is decided that a course is to be given a given semester, the course coordinator has two tasks:
@@ -21,6 +16,14 @@ See [https://ntnu-timeplanprosessen.webflow.io/](https://ntnu-timeplanprosessen.
 
 
 ## Registering course schedule data
+
+
+---
+type: button
+text: "Log in to TP:Basic data"
+url: https://tp.educloud.no/ntnu/grunnlagsdata/
+---
+
 
 Course schedule data is information about what kind of teaching a course will have, the duration of each activity, who is expected to attend the activities (students and staff), and possibly demands and wishes for certain equipment and/or room specifications. 
 
@@ -37,6 +40,14 @@ Course schedule data is information about what kind of teaching a course will ha
     
 ## Controlling the tentative timetable for the course
 
+
+---
+type: button
+text: "Log in to TP:Course"
+url: https://tp.educloud.no/ntnu/timeplan/emner.php?lang=en
+---
+
+
 The course coordinator should check that:
 - all the activities that should be scheduled are indeed scheduled, that
 - all the activities are planned according to what you registered in [TP: Basic data](https://tp.educloud.no/ntnu/grunnlagsdata/), that
@@ -52,7 +63,7 @@ Information about a specific room, incl. the available equipment, is available i
 * **Deadline:**
     - June and November for courses to be given in the autumn and in the spring, respectively. The actual dates depend on the deadlines set by the central administration.
 * **System:**
-    - [TP:course](https://tp.educloud.no/ntnu/timeplan/emner.php?lang=en) (select the relevant semester in the drop-down menu on the right and search for the course by course code.) and [TP:staff](https://tp.educloud.no/ntnu/timeplan/timeplan.php?type=staff&lang=en) (select the relevant semester in the drop-down menu on the right.)
+    - [TP:Course](https://tp.educloud.no/ntnu/timeplan/emner.php?lang=en) (select the relevant semester in the drop-down menu on the right and search for the course by course code.) and [TP:staff](https://tp.educloud.no/ntnu/timeplan/timeplan.php?type=staff&lang=en) (select the relevant semester in the drop-down menu on the right.)
 
 
 ## Contact
