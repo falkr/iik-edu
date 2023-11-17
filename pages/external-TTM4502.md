@@ -53,7 +53,7 @@ Since you will have to have meetings with several different main supervisors, it
 
 
 :tip:
-The detailed programme for the day is distributed by e-mail at the latest a week ahead of the presentation day. 
+The final programme for the day is distributed by e-mail at the latest a week ahead of the presentation day. 
 
 
 On the presentation day, there are as many parallel tracks in different rooms as there are external evaluators. Unless otherwise indicated, the programme starts at 09:15 and finishes at the lastest at 15:00.
@@ -70,7 +70,7 @@ To ensure and stimulate participation, each student/group shall at least ask one
 
 * The students that are presenting. It is compulsory for the students to attend all the sessions in the track in which they are themselves presenting. Exceptions are however made for students that have another exam on the same day. Students must be physically present in the room unless otherwise agreed upon.
 
-* The supervisors and the co-supervisors working at the department are expected to attend the sessions where the students they have be supervising are presenting. Because of travels and other pressing activities this is
+* The main supervisors and the co-supervisors working at the department are expected to attend the sessions where the students they have be supervising are presenting. Because of travels and other pressing activities this is
 unfortunately not always the case.
 
 * Everyone at the department, employees and students, is invited to come.
@@ -86,7 +86,7 @@ It is of course up to you. As session chair you should invite for questions from
 
 When it is his/her/their turn to present, the student·s should join the MS Teams meeting for the track and share his/her/their screen. The audio on his/her/their laptop should be turned off and the student·s should use the microphone available in the room.
 
-This setup will allow those that could not attend physically (main or co-supervisors and/or students) to attend on-line and will remove the need for any cables/converters.
+This setup allows those that cannot attend physically (main or co-supervisors and/or students) to attend on-line and removes the need for any cables/converters.
 
 To be sure that those following on-line also hear the questions that are asked from the audience in the room, the student·s should repeat the questions before answering them (this also allows the student·s to get a confirmation that he/she/they have understood them correctly).
 
