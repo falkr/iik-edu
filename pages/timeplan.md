@@ -8,6 +8,11 @@ Once it is decided that a course is to be given a given semester, the course coo
 See [https://ntnu-timeplanprosessen.webflow.io/](https://ntnu-timeplanprosessen.webflow.io/) for a presentation of the entire course scheduling process at NTNU and innsida for the [academic calendar](https://i.ntnu.no/studiekalender).
 
 
+:guideline:
+- [Academic calendar](https://i.ntnu.no/en/studiekalender)
+- [Academic calendar for siv.ing. programmes 2023-24](https://o365addins.it.ntnu.no/RadUtvalg/Widget/DownloadWidgetDataFile?url=/sites/meeting-fus/Delte dokumenter/110/S23-008-06-STUDIEKALENDER-FUS-2023-24.docx&filename=S23-008-06-STUDIEKALENDER-FUS-2023-24.docx)
+
+
 ## Registering course schedule data
 
 
