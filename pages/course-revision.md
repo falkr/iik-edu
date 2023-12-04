@@ -1,11 +1,5 @@
 # Course revision (for course coordinators)
 
-:warning:
-Deadline: all the courses must be sent to S2 in EpN by **Nov 15, 2023**.
-
-Even if there is nothing to change, the course coordinator for the next study year must review the course description and, once it is done, send it to quality check (S2).
-
-
 ---
 type: button
 text: "Log in to EpN"
