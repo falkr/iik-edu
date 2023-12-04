@@ -7,6 +7,9 @@
 
 Fullstendig, oppdatert og gjeldende studieplan finner du [her](https://www.ntnu.no/studier/studieplan#programmeCode=MTKOM).
 
+:definition:
+Tabellene under gjelder for studieåret 2023/24.
+
 
 ---
 type: table
