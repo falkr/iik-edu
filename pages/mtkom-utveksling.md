@@ -64,7 +64,7 @@ q: 2. Slik søker du
 - Merk at det at du får forhåndsgodkjent en fagplan er ingen garanti for at du får reise dit du vil. Det kan være at du ikke blir nominert av NTNU eller at du ikke kommer inn på det lærestedet du søker deg til.
 - Når fagplanen din er godkjent, sett den inn i [skjemaet om forhåndsgodkjenning av emner](https://www.ntnu.no/studier/studier_i_utlandet/rapport/tilleggskjema.php) og last skjemaet opp (igjen) på MobilityOnline. Lista over hvilke NTNU-emner du skal erstatte, kan du la stå tom. Gi deretter beskjed til [faglig studieveileder](studieveileder@komtek.ntnu.no). Faglig studieveileder vil selv gi beskjed til IE Fakultetet, som vil formelt registrere forhåndsgodkjenningen i MobilityOnline og informere deg.
 ---
-- Etter at forhåndsgodkjenningen av fagplanen din er registrert i MobilityOnline, er neste steg for deg å søke til det utenlandske lærested. Den aktuelle prosessen varierer fra lærested til lærested og land til land. Følg instruskene du får fra internasjonal seksjon og fra lærestedet.
+- Etter at forhåndsgodkjenningen av fagplanen din er registrert i MobilityOnline, er neste steg for deg å søke til det utenlandske lærested. Se igjen 2. Slik søker du" på [temasiden om utenlandsstudier på innsida](https://i.ntnu.no/utenlandsstudier). Den aktuelle prosessen varierer fra lærested til lærested og land til land. Følg instruskene du får fra internasjonal seksjon og fra lærestedet.
 
 
 ---
