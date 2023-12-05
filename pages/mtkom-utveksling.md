@@ -40,6 +40,7 @@ q: 1. Finn land og studiested
     * IIK har en dobbelgradavtale med University of Bologna innen nettsystemer/optiske nett. Det er 2 plasser for MTKOM og MSTCNNS studenter.
 - Det åpnes også for at studenter reiser ved læresteder programmet ikke har en spesiell avtale med. NTNU har inngått avtaler om utveksling av studenter med en rekke læresteder i mange ulike land i verden. Se "1. Finn land og studiested" på [temasiden om utenlandsstudier på innsida](https://i.ntnu.no/utenlandsstudier). Reiser man til et lærested programmet ikke har en spesiell avtale med bør man være klar over at at det vil kunne medføre at man må ta ekstra emner (og evt. ett ekstra semester) etter oppholdet om man ikke får ta (mange nok) relevante emner. Erfaringsmessig er det allikevel sjeldent at man blir nødt til å ta mer enn ett ekstra emne.
 - Det er satt et tak på maks 5 studenter samtidig til ett og samme lærested ved læresteder programmet ikke har en spesiell avtale med. Gjennomsnittskarakter etter 5./7. semester brukes for å rangere studentene dersom flere enn 5 ønsker å reise til ett og samme lærested.
+- Om du planlegger å dra på utveksling i ett år, sjekk studiekalenderen ved det lærestedet du ønsker å dra til om du også skal ha en jobb sommeren før og/eller etter utenlandsoppholdet ditt.
 
 
 ---
