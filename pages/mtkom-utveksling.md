@@ -12,7 +12,7 @@ Vil du dra på utveksling i 4./5. årskurs må du være registrert i 4./5. årsk
 
 
 :tip:
-Generell informasjon om utveksling for studenter finner du på [innsida](https://i.ntnu.no/utenlandsstudier) og undersidene inkludert:
+Generell informasjon om utveksling for studenter finner du på [temasiden om utveksling (for studenter) på innsida](https://i.ntnu.no/utenlandsstudier) og undersidene inkludert:
 - [søknadsfrister for utenlandsstudier](https://i.ntnu.no/wiki/-/wiki/Norsk/S%C3%B8knadsfrister+for+utenlandsstudier)
 - [veiledere for utenlandsstudier ved internasjonal seksjon](https://i.ntnu.no/wiki/-/wiki/Norsk/Veiledere+for+utenlandsstudier)
 - [læresteder som har avtaler med NTNU](https://i.ntnu.no/studiested-utland) 
@@ -36,11 +36,10 @@ q: 1. Finn land og studiested
 ---
 - Som MTKOM student har du mulighet til å reise hvor som helst i verden! Forutsetningen er at det finnes et lærested med faglig tyngde innen cybersikkerhet og datakommunikasjon. 
 - Ved utvalgte læresteder programmet har spesielle avtaler med som sikrer at det tilbys emnepakker som realiserer programmets læringsmål og blir godkjent. Per i dag er det kun to læresteder i denne kategorien: [EURECOM (Frankrike)](http://www.eurecom.fr/en) og [University of Bologna (Italia)](https://www.unibo.it/en/). 
-    * NTNU/IE og IIK er medlem av EURECOM. Dermed er både enklere og viktigere for oss å sende studenter dit. Det er 6 plasser som er for IIK studenter (MTKOM, MSTCNNS ogstudenter) hvert år.
+    * NTNU/IE og IIK er medlem av EURECOM. Dermed er både enklere og viktigere for oss å sende studenter dit. Det er 6 plasser som er for IIK studenter (MTKOM, MSTCNNS og MIS studenter) hvert år.
     * IIK har en dobbelgradavtale med University of Bologna innen nettsystemer/optiske nett. Det er 2 plasser for MTKOM og MSTCNNS studenter.
 - Det åpnes også for at studenter reiser ved læresteder programmet ikke har en spesiell avtale med. NTNU har inngått avtaler om utveksling av studenter med en rekke læresteder i mange ulike land i verden. Se "1. Finn land og studiested" på [temasiden om utenlandsstudier på innsida](https://i.ntnu.no/utenlandsstudier). Reiser man til et lærested programmet ikke har en spesiell avtale med bør man være klar over at at det vil kunne medføre at man må ta ekstra emner (og evt. ett ekstra semester) etter oppholdet om man ikke får ta (mange nok) relevante emner. Erfaringsmessig er det allikevel sjeldent at man blir nødt til å ta mer enn ett ekstra emne.
 - Det er satt et tak på maks 5 studenter samtidig til ett og samme lærested ved læresteder programmet ikke har en spesiell avtale med. Gjennomsnittskarakter etter 5./7. semester brukes for å rangere studentene dersom flere enn 5 ønsker å reise til ett og samme lærested.
-- akademiske kalendar
 
 
 ---
@@ -57,11 +56,11 @@ q: 2. Slik søker du
 - Er du på utveksling i 8. semester for du automatisk fritak for [Eksperter i Team](https://i.ntnu.no/wiki/-/wiki/Norsk/Eksperter+i+team+-+for+studenter) og skal erstatte det med et programrelevant emne, dvs. et emne som ellers kan godkjennes.
 - Retningslinjer for k(omplementært)-emne ordningen finner du [her](https://s.ntnu.no/retningslinjer-for-k-emne-ordning-nov-2019). I forbindelse med utveksling kan studiepoenggivende språkkurs eller andre studiepoenggivende kurs for utvekslingsstudenter godkjennes som k-emne(r), f.eks. om arbeidslivet i det landet du reiser til.
 - Reiser du i et helt år, trenger du ikke å dekke obligatoriske emner som gis på høsten ved NTNU på høsten, men i løpet av året. Det er helheten som er viktig. 
-- Plan A bør være å dekke de emnene som inngår i studieplanen for det semesteret eller året du planlegger å dra på utveksling, men du kan også ta emner som vil inngå i din plan for 5. året for å så ta 4. klasse emner ved NTNU når du er tilbake. Å ta et emne ved NTNU mens du er i utlandet bør være et nødløsning. Du kan ev. vurdere å ta et ekstra emne semesteret eller året før du drar om du har kapasitet og vil ha en reserve løsning og å ha fleskibiliteten å ev. droppe et emne på utveksling uten å måtte ta det igjen året etter.
+- Plan A bør være å dekke de emnene som inngår i studieplanen for det semesteret eller året du planlegger å dra på utveksling, men du kan også ta emner som vil inngå i din plan for 5. året for å så ta 4. klasse emner ved NTNU når du er tilbake. Å ta et emne ved NTNU mens du er i utlandet bør være et nødløsning. Du kan ev. vurdere å ta et ekstra emne semesteret eller året før du drar om du har kapasitet og vil ha en reserve løsning og å ha fleksibiliteten å ev. droppe et emne på utveksling uten å måtte ta det igjen året etter.
 - Fagplanen som blir forhåndsgodkjent før du drar er et utgangspunkt. Du vil kunne eller måtte gjøre endringer seinere.
 - Merk at det at du får forhåndsgodkjent en fagplan er ingen garanti for at du får reise dit du vil. Det kan være at du ikke blir nominert av NTNU eller at du ikke kommer inn på det lærestedet du søker deg til.
 - Når fagplanen din er godkjent, sett den inn i [skjemaet om forhåndsgodkjenning av emner](https://www.ntnu.no/studier/studier_i_utlandet/rapport/tilleggskjema.php) og last skjemaet opp (igjen) på MobilityOnline. Lista over hvilke NTNU-emner du skal erstatte, kan du la stå tom. Gi deretter beskjed til [faglig studieveileder](studieveileder@komtek.ntnu.no). Faglig studieveileder vil selv gi beskjed til IE Fakultetet, som vil formelt registrere forhåndsgodkjenningen i MobilityOnline og informere deg.
-- Etter at forhåndsgodkjenningen av fagplanen din er registert i MobilityOnline, er neste steg for deg å søke til det utenlandske lærested. Den aktuelle prosesessen varierer fra lærested til lærested og land til land. Følg instruskene du får fra internasjonal seksjon og fra lærestedet.
+- Etter at forhåndsgodkjenningen av fagplanen din er registrert i MobilityOnline, er neste steg for deg å søke til det utenlandske lærested. Den aktuelle prosessen varierer fra lærested til lærested og land til land. Følg instruskene du får fra internasjonal seksjon og fra lærestedet.
 
 
 ---
