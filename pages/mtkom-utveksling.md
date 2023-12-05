@@ -38,7 +38,7 @@ q: 1. Finn land og studiested
 - Ved utvalgte læresteder programmet har spesielle avtaler med som sikrer at det tilbys emnepakker som realiserer programmets læringsmål og blir godkjent. Per i dag er det kun to læresteder i denne kategorien: [EURECOM (Frankrike)](http://www.eurecom.fr/en) og [University of Bologna (Italia)](https://www.unibo.it/en/). 
     * NTNU/IE og IIK er medlem av EURECOM. Dermed er både enklere og viktigere for oss å sende studenter dit. Det er 6 plasser som er for IIK studenter (MTKOM, MSTCNNS og MIS studenter) hvert år.
     * IIK har en dobbelgradavtale med University of Bologna innen nettsystemer/optiske nett. Det er 2 plasser for MTKOM og MSTCNNS studenter.
-- Det åpnes også for at studenter reiser ved læresteder programmet ikke har en spesiell avtale med. NTNU har inngått avtaler om utveksling av studenter med en rekke læresteder i mange ulike land i verden. Se "1. Finn land og studiested" på [temasiden om utenlandsstudier på innsida](https://i.ntnu.no/utenlandsstudier). Reiser man til et lærested programmet ikke har en spesiell avtale med bør man være klar over at at det vil kunne medføre at man må ta ekstra emner (og evt. ett ekstra semester) etter oppholdet om man ikke får ta (mange nok) relevante emner. Erfaringsmessig er det allikevel sjeldent at man blir nødt til å ta mer enn ett ekstra emne.
+- Det åpnes også for at studenter reiser ved læresteder programmet ikke har en spesiell avtale med. NTNU har inngått avtaler om utveksling av studenter med en rekke læresteder i mange ulike land i verden. Se "1. Finn land og studiested" på [temasiden om utenlandsstudier på innsida](https://i.ntnu.no/utenlandsstudier). Reiser du til et lærested programmet ikke har en spesiell avtale med bør du være klar over at at det vil kunne medføre at du må ta ekstra emner (og evt. ett ekstra semester) etter oppholdet om du ikke får ta (mange nok) relevante emner. Erfaringsmessig er det allikevel sjeldent at man blir nødt til å ta mer enn ett ekstra emne.
 - Det er satt et tak på maks 5 studenter samtidig til ett og samme lærested ved læresteder programmet ikke har en spesiell avtale med. Gjennomsnittskarakter etter 5./7. semester brukes for å rangere studentene dersom flere enn 5 ønsker å reise til ett og samme lærested.
 - Om du planlegger å dra på utveksling i ett år, sjekk studiekalenderen ved det lærestedet du ønsker å dra til om du også skal ha en jobb sommeren før og/eller etter utenlandsoppholdet ditt.
 
@@ -47,7 +47,13 @@ q: 1. Finn land og studiested
 type: qna
 q: 2. Slik søker du
 ---
+---
+type: button
+text: "Registrer nå og hvor du ønsker å dra i 2024/25"
+url: https://s.ntnu.no/mtkom-utveksling-24-25
+---
 - Om du ønsker å dra i løpet av studieåret 2024/25, registrer [her](https://s.ntnu.no/mtkom-utveksling-24-25) når og hvor du ønsker å dra innen **22.01.2024**. Det anbefales å dra til kun ett lærested; ønsker du å dra til to forskjellige læresteder i løpet av studieåret, registrer to søknader. Det anbefales også å sette ett lærested NTNU har et Erasmus+ avtale med som 2. eller 3. valg.
+
 - Etter at du har fått klar signal fra faglig studieveileder, opprett en søknad på MobilityOnline innen **1. februar** (utreise høstsemester eller et helt år) eller **12. september** (utreise i vårsemester). Merk at [noen land og læresteder i Asia og Nord-Amerika har tidligere frist](https://i.ntnu.no/wiki/-/wiki/Norsk/S%C3%B8knadsfrister+for+utenlandsstudier). Se "2. Slik søker du" på [temasiden om utenlandsstudier på innsida](https://i.ntnu.no/utenlandsstudier) for en detaljert oversikt over søknadsprosessen.
 - Utarbeid en fagplan kun for ditt 1. valg. Dine 2. og 3. valg vil ikke behandles før du ikke kommer inn på / ikke får søke til ditt 1. valg. Du trenger ikke å ha fagplanen klar når du oppretter søknaden din i MobilityOnline.
 - Send et utkast til fagplan til per epost [faglig studieveileder](studieveileder@komtek.ntnu.no) og fyll inn emner i [skjemaet om forhåndsgodkjenning av emner](https://www.ntnu.no/studier/studier_i_utlandet/rapport/tilleggskjema.php) kun etter at planen din har blitt godkjent. Du vil normalt få tilbakemelding innen 4-6 uker.
