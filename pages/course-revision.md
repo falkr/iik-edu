@@ -39,7 +39,7 @@ Once a course description has been reviewed and all the changes, if any, have be
     - Supplementary regulations for programmes in natural sciences [English](https://i.ntnu.no/documents/portlet_file_entry/1305837853/utfyllende+regler+IE+IV+NV+%C3%98K+engelsk.pdf/4d82dd05-8778-d474-e8e5-9531603a2a9d) - [Norwegian](https://i.ntnu.no/documents/portlet_file_entry/1305837853/UTF+IE+IV+NV+%C3%98K+08.2022+ePhorte+%28002%29.pdf/7d2a8d27-a12d-c9c2-1a3f-8567d3555ac6)
 * **Other relevant documents**
     - [Guide to the academic regulations](https://i.ntnu.no/wiki/-/wiki/Norsk/Veiledning+til+ny+studieforskrift+ved+NTNU) (in Norwegian only)
-    - [Guidelines for the design of study programs and subjects at NTNU (Sect. 5)](https://i.ntnu.no/documents/portlet_file_entry/1305837853/Ferdig_Studieplanveilederen+rev+sept23.pdf/dbbf004f-c8ef-7401-8c65-db41ed2b8a63) (in Norwegian only)
+    - [Guidelines for the design of study programs and subjects at NTNU (Sect. 5)](https://i.ntnu.no/documents/portlet_file_entry/1305837853/Til+ny+eksp_Korrigert+versjon+Studieplanveilderen_rev+kap+5.12_Okt23.pdf/ac8da98b-c353-ce89-46fc-f82a9ed03301) (in Norwegian only)
     - [Guidelines for portfolio assessment](https://i.ntnu.no/documents/1305837853/1306916285/VeilederMappevurdering110621.pdf/91fdac47-80f0-f5a3-b64b-84e35b6d7ba5?t=1685708285682) (in Norwegian only)
     - [Grading scale](https://i.ntnu.no/wiki/-/wiki/English/Grading+scale) - [Karakterskalaen](https://i.ntnu.no/wiki/-/wiki/Norsk/Karakterskalaen)
 
