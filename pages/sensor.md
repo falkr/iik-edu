@@ -27,11 +27,11 @@ link_title: Read more on innsida…
 ---
 type: card/arrow
 title: TTM4502 (pre-project)
-link: external-TTM4502
+link: external-TTM4502.html
 ---
 
 ---
 type: card/arrow
 title: TTM4905 (master's thesis)
-link: external-TTM4905
+link: external-TTM4905.html
 ---

@@ -4,11 +4,11 @@
 
 :checklistbox:
 * **Frequency:** 3 times per semester
-* **Participants:** SPL, the [KTV students of each cohort](studenter.html)
+* **Participants:** SPL, the [KTV students of each cohort](studentrepresentanter.html)
 * **Duration:** Usually around 45 minutes
 
 
-As study program leader, dialog meetings are the main mechanism to get information from the students about the learning environment. The agenda is usually structured by years, so that each [KTV](studenter.html) reports about feedback that they have received from other students in their cohort. Of course, you can also use the opportunity to ask any questions to students.
+As study program leader, dialog meetings are the main mechanism to get information from the students about the learning environment. The agenda is usually structured by years, so that each [KTV](studentrepresentanter.html) reports about feedback that they have received from other students in their cohort. Of course, you can also use the opportunity to ask any questions to students.
 
 
 ## During the Dialog Meeting

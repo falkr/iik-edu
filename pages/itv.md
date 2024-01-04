@@ -2,7 +2,7 @@
 # Instituttillitsvalgt (ITV)
 
 En instituttillitsvalgt (ITV) er valgt av studentene ved instituttet og representerer studentene ved instituttet. De er bindeleddet mellom student, institutt og Studieprogramrådet IE og jobber for å ivareta studentenes interesser, oppnå godt læringsmiljø og sikre god informasjonsflyt fra instituttet til studentene. 
-[Mandat for ITV](https://ie.studentrad.no/wp-content/uploads/2019/11/Instruks-ITV-20191105.pdf).
+[Mandat for ITV](https://www.ie-studentrad.no/om-oss).
 
 
 ## Konkret mandat for ITV ved IIK
@@ -23,7 +23,7 @@ Du kan bruke [e-post](epostlister.html) for å nå alle studenter.
 ---
 type: quote
 title: Instruks for Instituttillitsvalgt (ITV)
-link: https://ie.studentrad.no/wp-content/uploads/2019/11/Instruks-ITV-20191105.pdf
+link: https://www.ie-studentrad.no/om-oss
 --- 
 # Instruks for Instituttillitsvalgt (ITV)
 

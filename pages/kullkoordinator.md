@@ -35,7 +35,7 @@ Education.
 
 ## Getting Started
 
-* Find the name of the [contact student for your cohort](studenter.html)
+* Find the name of the [contact student for your cohort](studentrepresentanter.html)
 * Optionally find the focus course in the table on this page.
 * Plan three class meetings. One within the first three weeks of the semester, one in the middle, and another one towards the end of the lecture period. If there is no suitable focus course, contact students can help with finding a good time slot.
 * Inform all students via the focus course's Blackboard announcements or via the [cohort's mailing list](epostlister.html). Send a reminder a few days before the meeting.

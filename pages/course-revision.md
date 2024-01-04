@@ -19,7 +19,7 @@ Once approved and published on the external web, a course description is legally
 
 ## Reviewing and revising a course description
 
-A course description consists of: the course title, the course content, the learning outcomes, the examination arrangement, incl. compulsory activities and grading rule, the recommend background, the pre-requisites and other admission requirements, etc. What is not part of the course description is the course schedule data and the registration of course schedule data is a separate [process](timeplan). 
+A course description consists of: the course title, the course content, the learning outcomes, the examination arrangement, incl. compulsory activities and grading rule, the recommend background, the pre-requisites and other admission requirements, etc. What is not part of the course description is the course schedule data and the registration of course schedule data is a separate [process](timeplan.html). 
 
 All parts of a course description must be reviewed and it is possible to revise all parts, but changes must be justified and anchored, typically in the [course report](https://innsida.ntnu.no/studiekvalitetsportalen/) as a result of the evaluation of the course. The department and study programme(s) are important dialogue partners to ensure that the changes that are proposed comply with associated courses and programmes. Major changes in the course content might make it necessary to create a new course and are normally the result of a more comprehensive process at the department or study programme level, for instance as the result of a periodic evaluation of a programme.
 

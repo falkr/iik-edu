@@ -30,7 +30,7 @@ link_title: Les om oppgaver og mandat.
 type: card/text
 title: Programtillitsvalgt (PTV)
 text: En PTV representerer studentene for et studieprogram.
-link: https://ie.studentrad.no/
+link: https://www.ie-studentrad.no/om-oss
 link_title: Les om oppgaver og mandat.
 ---
 
