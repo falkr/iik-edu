@@ -7,6 +7,6 @@
 
 ---
 type: table
-file: tables/mdigsec.mw
+file: ../tables/mdigsec.mw
 class: coursetable
 ---

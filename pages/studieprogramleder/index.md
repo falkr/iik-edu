@@ -39,7 +39,7 @@ title: Study Plans
 
 ---
 type: table
-file: tables/programs.mw
+file: ../tables/programs.mw
 ---
 
 

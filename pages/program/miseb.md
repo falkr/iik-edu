@@ -9,6 +9,6 @@
 
 ---
 type: table
-file: tables/miseb.mw
+file: ../tables/miseb.mw
 class: coursetable
 ---

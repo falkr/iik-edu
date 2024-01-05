@@ -1,9 +1,11 @@
 # For Cohort Coordinators
 
 
-* [Studentrepresentanter](studentrepresentanter.html)
-* [Studentkontakter](studentkontakt.html)
-* [Epostlister](epostlister.html)
+
+
+* [Studentrepresentanter](../student/studentrepresentanter.html)
+* [Studentkontakter](../studentrepresentant/studentkontakt.html)
+* [Epostlister](../epostlister.html)
 
 
 
@@ -12,7 +14,7 @@ A class coordinator (_kullkoordinator_) is a dedicated teacher per student cohor
 
 ---
 type: table
-file: tables/kullkoordinatorer-2023.mw
+file: ../tables/kullkoordinatorer-2023.mw
 ---
 
 
@@ -35,14 +37,14 @@ Education.
 
 ## Getting Started
 
-* Find the name of the [contact student for your cohort](studentrepresentanter.html)
+* Find the name of the [contact student for your cohort](../student/studentrepresentanter.html)
 * Optionally find the focus course in the table on this page.
 * Plan three class meetings. One within the first three weeks of the semester, one in the middle, and another one towards the end of the lecture period. If there is no suitable focus course, contact students can help with finding a good time slot.
-* Inform all students via the focus course's Blackboard announcements or via the [cohort's mailing list](epostlister.html). Send a reminder a few days before the meeting.
+* Inform all students via the focus course's Blackboard announcements or via the [cohort's mailing list](../epostlister.html). Send a reminder a few days before the meeting.
 * During the first meeting, introduce yourself and the tasks of the cohort coordinator(opening a dialog with the students). Explain the other supporting roles and functions to the students like study advisors, contact students, reference groups, and what their tasks are.
-* If you want, you can open the dialog with a survey using [Mentimeter](mentimeter.com), asking students for any issues, opening for (anonymous) questions or comments. This often results in meaningful, valuable dialogs.
+* If you want, you can open the dialog with a survey using [Mentimeter](http://mentimeter.com), asking students for any issues, opening for (anonymous) questions or comments. This often results in meaningful, valuable dialogs.
 * After the class meeting, make short notes about any issues and inform SPL and Head of Education.
-* We have collected a number of [help offers for students here](studenthjelp.html).
+* We have collected a number of [help offers for students here](../student/studenthjelp.html).
 
 
 

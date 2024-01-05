@@ -17,6 +17,7 @@ link: veileder.html
 ### NTNU Links for Teaching
 
 
+
 ---
 type: card
 title: Tools

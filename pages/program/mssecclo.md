@@ -8,6 +8,6 @@
 
 ---
 type: table
-file: tables/mssecclo.mw
+file: ../tables/mssecclo.mw
 class: coursetable
 ---

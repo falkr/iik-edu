@@ -9,7 +9,7 @@
 
 ---
 type: table
-file: tables/mis-df.mw
+file: ../tables/mis-df.mw
 class: coursetable
 ---
 
@@ -18,7 +18,7 @@ class: coursetable
 
 ---
 type: table
-file: tables/mis-m.mw
+file: ../tables/mis-m.mw
 class: coursetable
 ---
 
@@ -26,17 +26,6 @@ class: coursetable
 ## Technology
 ---
 type: table
-file: tables/mis-t.mw
+file: ../tables/mis-t.mw
 class: coursetable
 ---
-
-
-
-
-```yaml
----
-type: table
-file: tables/mis-t.mw
-class: coursetable
----
-```

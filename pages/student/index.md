@@ -1,6 +1,7 @@
 # IIK utdanningsportal for studenter
 
 
+
 Informasjon for deg som studerer ved [institutt for informasjonssikkerhet og kommunikasjonsteknologi](https://ntnu.no/iik).
 
 Finner du ikke frem eller har flere spørsmål? Send oss en e-post: 
@@ -122,7 +123,7 @@ Du finner ekstra informasjon om studieprogrammet ditt nedenfor.
 
 ---
 type: table
-file: tables/programs.mw
+file: ../tables/programs.mw
 ---
 
 

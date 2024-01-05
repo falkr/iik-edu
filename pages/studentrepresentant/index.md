@@ -41,7 +41,7 @@ link_title: Les om oppgaver og mandat.
 
 ---
 type: table
-file: tables/students-t.mw
+file: ../tables/students-t.mw
 ---
 
 
@@ -49,5 +49,5 @@ file: tables/students-t.mw
 
 ---
 type: table
-file: tables/students-g.mw
+file: ../tables/students-g.mw
 ---

@@ -6,37 +6,37 @@ For alle som studerer eller underviser ved [insitutt for informasjonssikkerhet o
 ---
 type: card/arrow
 title: For studenter
-link: student.html
+link: student/index.html
 ---
 
 ---
 type: card/arrow
 title: For studentrepresentanter
-link: studentrepresentant.html
+link: studentrepresentant/index.html
 ---
 
 ---
 type: card/arrow
 title: For faglærere
-link: faglærer.html
+link: faglærer/index.html
 ---
 
 ---
 type: card/arrow
 title: For kullkoordinatorer
-link: kullkoordinator.html
+link: kullkoordinator/index.html
 ---
 
 ---
 type: card/arrow
 title: For studieprogramledere
-link: studieprogramleder.html
+link: studieprogramleder/index.html
 ---
 
 ---
 type: card/arrow
 title: For eksterne sensorer
-link: sensor.html
+link: sensor/index.html
 ---
 
 

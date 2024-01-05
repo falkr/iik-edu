@@ -13,7 +13,7 @@ Tabellene under gjelder for studieåret 2023/24.
 
 ---
 type: table
-file: tables/mtkom.mw
+file: ../tables/mtkom.mw
 class: coursetable
 ---
 
@@ -49,7 +49,7 @@ Masteroppgave er som regel en fortsettelse av fordypningsprosjektet, det vil si 
 
 ---
 type: table
-file: tables/mtkom-net.mw
+file: ../tables/mtkom-net.mw
 class: coursetable
 ---
 
@@ -58,7 +58,7 @@ class: coursetable
 
 ---
 type: table
-file: tables/mtkom-de.mw
+file: ../tables/mtkom-de.mw
 class: coursetable
 ---
 
@@ -67,7 +67,7 @@ class: coursetable
 
 ---
 type: table
-file: tables/mtkom-inf.mw
+file: ../tables/mtkom-inf.mw
 class: coursetable
 ---
 

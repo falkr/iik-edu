@@ -8,17 +8,17 @@ En instituttillitsvalgt (ITV) er valgt av studentene ved instituttet og represen
 ## Konkret mandat for ITV ved IIK
 
 * Være medlem i instituttets utvidet ledergruppe
-* Delta i [dialogmøter med KTV og studieprogramleder](dialogmøter-spl.html) og følge opp saker derfra
+* Delta i [dialogmøter med KTV og studieprogramleder](../studieprogramleder/dialogmøter-spl.html) og følge opp saker derfra
 * Delta i dialogmøter med nestleder for utdanning 
 * Delta i [studentrådsmøter](https://ie.studentrad.no) og på studentråds-seminar
 * Delta i ansettelsesmøter og prøveforelesninger ved behov
 * Hjelpe å koordinere sosiale og faglige aktiviteter
 * Sørge for at alle klassetrinn har en [studentkontakt](studentkontakt.html) og [KTV](ktv.html)
 * Sørge for at det er PTVer på de studieprogramrådene tilhørende IIK
-* Sørge for at [informasjon om studenter](studenter.html) er oppdatert
+* Sørge for at [informasjon om studentrepresentanter](../student/studentrepresentanter.html) er oppdatert
 
 
-Du kan bruke [e-post](epostlister.html) for å nå alle studenter.
+Du kan bruke [e-post](../epostlister.html) for å nå alle studenter.
 
 ---
 type: quote

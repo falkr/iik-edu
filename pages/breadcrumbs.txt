@@ -1,24 +1,29 @@
 index.md - IIK Utdanning
-  student.md - For studenter
-    kullkoordinator-studenter.md - Din kullkoordinator
-    lunsjvenn.md - IIK Lunsjvenn
-    referansegruppe-studenter.md - Referansegruppe
-    rom.md - Rom
-    snacks.md - IIK Snacks and Science
-  studentrepresentant.md - For studentrepresentanter
-    itv.md - For instituttstillitsvalgte (ITV)
-    ktv.md - For klassetillitsvalgte (KTV)
-    studentkontakt.md - For studentkontakter
-  faglærer.md - For faglærere
-    emneansvarlig.md - Course coordinator
-      laos.md - LAOS
-      referansegruppe.md - Referansegruppe
-      lærinsassistenter.md - Læringsassistenter
-      resit.md - Re-sit exams
-      timeplan.md - Course scheduling
-      course-revision.md - Course revision
-      compulsory-activities.md - Approval of compulsory activities
-    veileder.md - Veilede en oppgave
-  studieprogramleder.md - For studieprogramledere
-    dialogmøter-spl.md - Dialogmøter
-  kullkoordinator.md - For kullkoordinatorer
+  student/index.md - For studenter
+    student/kullkoordinator-studenter.md - Din kullkoordinator
+    student/lunsjvenn.md - IIK Lunsjvenn
+    student/referansegruppe-studenter.md - Referansegruppe
+    student/rom.md - Rom
+    student/snacks.md - IIK Snacks and Science
+    student/studenthjelp.md - Hjelp for studenter
+    student/studentmentorer.md - Studentmentorer
+    student/studentrepresentanter.md - Studentrepresentanter
+  studentrepresentant/index.md - For studentrepresentanter
+    studentrepresentant/itv.md - For instituttstillitsvalgte (ITV)
+    studentrepresentant/ktv.md - For klassetillitsvalgte (KTV)
+    studentrepresentant/studentkontakt.md - For studentkontakter
+  faglærer/index.md - For faglærere
+    faglærer/emneansvarlig.md - Course coordinator
+      faglærer/laos.md - LAOS
+      faglærer/referansegruppe.md - Referansegruppe
+      faglærer/lærinsassistenter.md - Læringsassistenter
+      faglærer/resit.md - Re-sit exams
+      faglærer/timeplan.md - Course scheduling
+      faglærer/course-revision.md - Course revision
+      faglærer/compulsory-activities.md - Approval of compulsory activities
+      faglærer/vurdering.md - Approval of compulsory activities
+    faglærer/veileder.md - Veilede en oppgave
+  studieprogramleder/index.md - For studieprogramledere
+    studieprogramleder/dialogmøter-spl.md - Dialogmøter
+  kullkoordinator/index.md - For kullkoordinatorer
+  sensor/index.md - For external censors
