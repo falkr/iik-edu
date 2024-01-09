@@ -1,6 +1,6 @@
 # IIK Utdanningsportalen
 
-For alle som studerer eller underviser ved [insitutt for informasjonssikkerhet og kommunikasjonsteknologi](https://ntnu.no/iik).
+For alle som studerer eller underviser ved [institutt for informasjonssikkerhet og kommunikasjonsteknologi](https://ntnu.no/iik).
 
 
 ---

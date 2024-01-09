@@ -7,9 +7,9 @@
 * [Klassetillitsvalgte (KTVs)](../studentrepresentant/ktv.html) er ansvarlig for hele klassen og studieprogrammet.
 * [Studentkontakter](../studentrepresentant/studentkontakt.html) hjelper med ulike oppgaver, og er ofte samme student som KTV.
 * Programtillitsvalgt (PTVs) representerer studentene av et studieprogram i [studieprogramrådet](../studieprogramleder/studieprogramråd.html).
-* Fakultetstillitsvalgte (FTVs) er koordinert av fakultetet, og er [beskrevet her](https://ie.studentrad.no/). 
-[Mandat for FTV](https://ie.studentrad.no/wp-content/uploads/2018/04/FTVstillingsinstruks2017-1.pdf).
-* [Hjemmeside for tillitsvalgte ved IE](https://www.sr-ie.no)
+* Fakultetstillitsvalgte (FTVs) er koordinert av fakultetet, og er [beskrevet her](https://www.ie-studentrad.no/om-oss). 
+[Mandat for FTV](https://www.ie-studentrad.no/om-oss).
+* [Hjemmeside for tillitsvalgte ved IE](https://www.ie-studentrad.no/om-oss)
 
 
 

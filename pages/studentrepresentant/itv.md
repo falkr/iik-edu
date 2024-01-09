@@ -10,7 +10,7 @@ En instituttillitsvalgt (ITV) er valgt av studentene ved instituttet og represen
 * Være medlem i instituttets utvidet ledergruppe
 * Delta i [dialogmøter med KTV og studieprogramleder](../studieprogramleder/dialogmøter-spl.html) og følge opp saker derfra
 * Delta i dialogmøter med nestleder for utdanning 
-* Delta i [studentrådsmøter](https://ie.studentrad.no) og på studentråds-seminar
+* Delta i [studentrådsmøter](https://www.ie-studentrad.no) og på studentråds-seminar
 * Delta i ansettelsesmøter og prøveforelesninger ved behov
 * Hjelpe å koordinere sosiale og faglige aktiviteter
 * Sørge for at alle klassetrinn har en [studentkontakt](studentkontakt.html) og [KTV](ktv.html)

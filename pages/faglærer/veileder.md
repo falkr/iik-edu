@@ -7,9 +7,9 @@ title: Masteroppgaver ved IIK
 ---
 *   [Writing the specialization project at IIK](https://i.ntnu.no/wiki/-/wiki/English/Specialization+Project+-+IIK)
 *   [Writing the master thesis at IIK](https://i.ntnu.no/wiki/-/wiki/English/Master+Thesis+-+IIK)
-*   [Reusing Text from project in master thesis](https://i.ntnu.no/wiki/-/wiki/English/Reuse+of+text)
-*   [Grading of Master Thesis at IIK](https://i.ntnu.no/wiki/-/wiki/English/Grading+MSc+theses+at+IIK)
-
+*   [Reusing Text from project in master thesis](../student/ttm4905-reuse-old-wiki.html)
+*   [Grading of Master Thesis at IIK](../thesis-grading-old-wiki.html)
+*   [Use of AI Tools](../bruk-av-ki.html)
 
 ---
 type: card
