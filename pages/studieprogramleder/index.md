@@ -29,11 +29,11 @@ Check the teaching plans:
 type: card
 title: Study Plans
 ---
-* [BDIGSEC](bdigsec.html)
-* [MDIGSEC](mdigsec.html)
-* [MIS](mis.html) [MISEB](miseb.html)
-* [MSSECCLO](mssecclo.html)
-* [MTKOM](mtkom.html)
+* [BDIGSEC](../program/bdigsec.html)
+* [MDIGSEC](../program/mdigsec.html)
+* [MIS](../program/mis.html) [MISEB](../program/miseb.html)
+* [MSSECCLO](../program/mssecclo.html)
+* [MTKOM](../program/mtkom.html)
 
 
 
