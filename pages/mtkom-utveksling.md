@@ -1,7 +1,7 @@
 # Utveksling (for MTKOM studenter) 
 
 :warning:
-Om du ønsker å dra i løpet av studieåret 2024/25 er fristen må du registrere din liste av 1-3 læresteder i prioritetsrekkefølge [her](https://s.ntnu.no/mtkom-utveksling-24-25) innen **22. januar 2024**.
+Om du ønsker å dra i løpet av studieåret 2024/25 er fristen må du registrere din liste av 1-3 læresteder i prioritetsrekkefølge [her](https://s.ntnu.no/mtkom-utveksling-24-25) innen **26. januar 2024 kl. 12:00**.
 
 
 Det blir stadig mer populært og legge deler av studiet til utlandet. Som MTKOM-student har du mulighet til å søke om å få ta en del (ett til to semestre) av studiet ved et lærested i utlandet og alle oppfordres til å dra på utvekslingsopphold. Et utenlandsopphold gir deg muligheten til å lære noe om et annet lands kultur og språk. Dette vil være verdifull personlig erfaring og kunnskap i din karriere som sivilingeniør innen et stadig mer internasjonalt preget arbeidsmarked.
@@ -47,7 +47,7 @@ q: 1. Finn land og studiested
 type: qna
 q: 2. Slik søker du
 ---
-- Om du ønsker å dra i løpet av studieåret 2024/25, registrer [her](https://s.ntnu.no/mtkom-utveksling-24-25) når og hvor du ønsker å dra innen **22.01.2024**. Det anbefales å dra til kun ett lærested; ønsker du å dra til to forskjellige læresteder i løpet av studieåret, registrer to søknader. Det anbefales også å sette ett lærested NTNU har et Erasmus+ avtale med som 2. eller 3. valg.
+- Om du ønsker å dra i løpet av studieåret 2024/25, registrer [her](https://s.ntnu.no/mtkom-utveksling-24-25) når og hvor du ønsker å dra innen **26.01.2024 12:00**. Det anbefales å dra til kun ett lærested; ønsker du å dra til to forskjellige læresteder i løpet av studieåret, registrer to søknader. Det anbefales også å sette ett lærested NTNU har et Erasmus+ avtale med som 2. eller 3. valg.
 ---
 - Etter at du har fått klar signal fra faglig studieveileder, opprett en søknad på MobilityOnline innen **1. februar** (utreise høstsemester eller et helt år) eller **12. september** (utreise i vårsemester). Merk at [noen land og læresteder i Asia og Nord-Amerika har tidligere frist](https://i.ntnu.no/wiki/-/wiki/Norsk/S%C3%B8knadsfrister+for+utenlandsstudier). Se "2. Slik søker du" på [temasiden om utenlandsstudier på innsida](https://i.ntnu.no/utenlandsstudier) for en detaljert oversikt over søknadsprosessen.
 ---
