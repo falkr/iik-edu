@@ -1,7 +1,7 @@
 # Utveksling (for MTKOM studenter) 
 
 :warning:
-Om du ønsker å dra i løpet av studieåret 2024/25 er fristen må du registrere din liste av 1-3 læresteder i prioritetsrekkefølge [her](https://s.ntnu.no/mtkom-utveksling-24-25) innen **26. januar 2024 kl. 12:00**.
+Om du ønsker å dra i løpet av studieåret 2024/25 må du registrere din liste av 1-3 læresteder i prioritetsrekkefølge [her](https://s.ntnu.no/mtkom-utveksling-24-25) innen **26. januar 2024 kl. 12:00**.
 
 
 Det blir stadig mer populært og legge deler av studiet til utlandet. Som MTKOM-student har du mulighet til å søke om å få ta en del (ett til to semestre) av studiet ved et lærested i utlandet og alle oppfordres til å dra på utvekslingsopphold. Et utenlandsopphold gir deg muligheten til å lære noe om et annet lands kultur og språk. Dette vil være verdifull personlig erfaring og kunnskap i din karriere som sivilingeniør innen et stadig mer internasjonalt preget arbeidsmarked.
