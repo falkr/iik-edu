@@ -110,7 +110,6 @@ type: card
 title: Søk om støtte til arrangementer
 ---
 Som student ved IIK har du mulighet til å søke om støtte til å gjennomføre sosiale og faglige arrangementer flere steder.
-*   [Søk penger fra IIK via ITV studentene i Trondheim](https://forms.office.com/Pages/ResponsePage.aspx?id=cgahCS-CZ0SluluzdZZ8BdJ-PJxmVTVEsxockEXQ7BNUQVQyQlgzNVNHSEE4TUpSVVlIUTE0Vk8wRC4u&origin=Invitation&channel=0)
 *   [Søk velferdsmidler fra studentrådet](https://ie.studentrad.no/)
 *   [Søk hos Abakus](https://abakus.no/pages/arrangementer/88-klassearrangementer)
 
