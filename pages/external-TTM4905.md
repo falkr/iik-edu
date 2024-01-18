@@ -2,6 +2,8 @@
 
 For each master’s thesis an external and an internal evaluator are assigned by the Head of Department. The evaluators evaluate the work according to the guidelines given in the Evaluation of MSc thesis and provide their comments in the evaluation form within 12 weeks after the submission. The grade is finally agreed upon in a meeting between the two evaluators before the deadline. The grade must be registered in Inspera. 
 
+There are [guidelines for the use of AI Tools](../bruk-av-ki.html).
+
 Documents to be used in the process:
 
 * [Guidelines for the evaluation of MSc theses (pdf)](https://edu.iik.ntnu.no/assets/Evaluation%20MSc%20thesis%20IIK.pdf)

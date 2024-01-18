@@ -12,9 +12,9 @@
 
 :report:
 **Summary of the tasks:**
-* Read through the reports during the 3 weeks preceeding the presentation day.
+* Read through the reports during the 3 weeks preceding the presentation day.
 * Be present on campus on the presentation day and chair the sessions where the students whose reports you have read present their pre-project.
-* For each pre-project, fill in an evaluation and feedback form together with the main supervisor and submit the form evaluation and feeback forms to the [department's administration](mailto:liv.k.stubberud@ntnu.no,laurent.paquereau@ntnu.no).
+* For each pre-project, fill in an evaluation and feedback form together with the main supervisor and submit the form evaluation and feedback forms to the [department's administration](mailto:liv.k.stubberud@ntnu.no,laurent.paquereau@ntnu.no).
 
 
 ## About the course
@@ -38,6 +38,8 @@ The report must have a maximum of 15 pages, the structure is given, and the stud
 
 Students that do not submit a report or whose report is graded "not passed" may submit a (revised) version at the end of January.
 
+There are [guidelines for the use of AI Tools](../bruk-av-ki.html).
+
 
 ## Evaluation of the reports and grading
 
@@ -56,7 +58,7 @@ Since you will have to have meetings with several different main supervisors, it
 The final programme for the day is distributed by e-mail at the latest a week ahead of the presentation day. 
 
 
-On the presentation day, there are as many parallel tracks in different rooms as there are external evaluators. Unless otherwise indicated, the programme starts at 09:15 and finishes at the lastest at 15:00.
+On the presentation day, there are as many parallel tracks in different rooms as there are external evaluators. Unless otherwise indicated, the programme starts at 09:15 and finishes at the latest at 15:00.
 
 Each presentation lasts for 20 min.; 15 min. for the presentation of the project and 5 min. for questions and comments from the audience. The presentation, questions, comments and answers *must* be in English.
 
@@ -79,16 +81,16 @@ unfortunately not always the case.
 ### Role as session chair; passive listener or challenging questioner?
 
 
-It is of course up to you. As session chair you should invite for questions from other attendees. It may be hardest to get them from the students, but once a student asks a question, it may inspire others. It is as an advantage that you as external evaluator ask challenging questions. It should also be a preparatory training for what students will encounter after their studies and being able to present their own work and ask critical questions after listening to someone else presenting are part of the general competence the students should acquire through this project. If relevant, it is also an opportunity to give the student·s the possibility to clarify parts of the report and for you to gain better insight into what has been done and what is planned and a better idea of his/her/their actual understanding, which can be helpful for the evaluation. Some external evaluators also choose to end with a short oral feedback to the student·s – adapted to the setting, but still indicating where improvements may be made –.
+It is of course up to you. As session chair you should invite for questions from other attendees. It may be hardest to get them from the students, but once a student asks a question, it may inspire others. It is as an advantage that you as external evaluator ask challenging questions. It should also be a preparatory training for what students will encounter after their studies and being able to present their own work and ask critical questions after listening to someone else presenting are part of the general competence the students should acquire through this project. If relevant, it is also an opportunity to give the student(s) the possibility to clarify parts of the report and for you to gain better insight into what has been done and what is planned and a better idea of his/her/their actual understanding, which can be helpful for the evaluation. Some external evaluators also choose to end with a short oral feedback to the student(s) – adapted to the setting, but still indicating where improvements may be made.
 
 
 ### Practicalities
 
-When it is his/her/their turn to present, the student·s should join the MS Teams meeting for the track and share his/her/their screen. The audio on his/her/their laptop should be turned off and the student·s should use the microphone available in the room.
+When it is his/her/their turn to present, the student(s) should join the MS Teams meeting for the track and share his/her/their screen. The audio on his/her/their laptop should be turned off and the student(s) should use the microphone available in the room.
 
 This setup allows those that cannot attend physically (main or co-supervisors and/or students) to attend on-line and removes the need for any cables/converters.
 
-To be sure that those following on-line also hear the questions that are asked from the audience in the room, the student·s should repeat the questions before answering them (this also allows the student·s to get a confirmation that he/she/they have understood them correctly).
+To be sure that those following on-line also hear the questions that are asked from the audience in the room, the student(s) should repeat the questions before answering them (this also allows the student·s to get a confirmation that he/she/they have understood them correctly).
 
 
 
