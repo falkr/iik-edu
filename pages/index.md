@@ -53,6 +53,11 @@ url: mailto:kontakt@iik.ntnu.no
 
 
 
+## Temasider
+
+* [Alle sider om referansegrupper](tema/referansegruppe.html)
+* [Alle sider om master, bachelor, og prosjekt-oppgaver](tema/thesis.html)
+
 
 
 

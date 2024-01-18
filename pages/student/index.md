@@ -88,7 +88,7 @@ Avhengig av hva det gjelder, har du ulike muligheter for å kontakte noen:
 type: card/text
 title: Vær med i referansegrupper
 text: Les mer om hvordan referansegrupper fungerer.
-link: referansegruppe-studenter.html
+link: referansegruppe.html
 ---
 
 ---

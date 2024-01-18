@@ -53,7 +53,7 @@ q: What if no students volunteer for the reference group?
 
 ## Information to Students
 
-We have collected information relevant for the students in reference groups [on this separate page](../student/referansegruppe-studenter.html). Just provide the link to this page to the students.
+We have collected information relevant for the students in reference groups [on this separate page](../student/referansegruppe.html). Just provide the link to this page to the students.
 
 
 
