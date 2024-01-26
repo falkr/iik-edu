@@ -12,7 +12,7 @@ See [https://ntnu-timeplanprosessen.webflow.io/](https://ntnu-timeplanprosessen.
 
 
 :definition:
-There is a specific [academic calendar for siv.ing. programmes 2023-24 (.docx)](https://o365addins.it.ntnu.no/RadUtvalg/Widget/DownloadWidgetDataFile?url=/sites/meeting-fus/Delte%20dokumenter/110/S23-008-06-STUDIEKALENDER-FUS-2023-24.docx&filename=S23-008-06-STUDIEKALENDER-FUS-2023-24.docx).
+There is a specific [academic calendar for siv.ing. programmes 2023-24 (.docx)](https://o365addins.it.ntnu.no/RadUtvalg/Widget/DownloadWidgetDataFile?url=/sites/meeting-fus/Delte%20dokumenter/110/S23-008-06-STUDIEKALENDER-FUS-2023-24.docx&filename=S23-008-06-STUDIEKALENDER-FUS-2023-24.docx). The calendar for 2024-25 is not yet available.
 
 
 ## Registering course schedule data
