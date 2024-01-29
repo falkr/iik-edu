@@ -36,6 +36,7 @@ The members should be representative of the students in the course, with respect
 
 The reference group must be registered in [KASPER](https://studntnu.sharepoint.com/sites/studieplanlegging). Once it has been registered a team will be automatically created on MS Teams with a process support ('Prosesstøtte') tab providing functions for the students to submit their report at the end of the semester and for you as course coordinator to add/remove members and publish the reference group report.
 
+
 * **How-to:** 
     - [User guide](https://i.ntnu.no/wiki/-/wiki/English/KASPER+-+Create+reference+group) 
 
