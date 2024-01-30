@@ -1,7 +1,7 @@
 # Utveksling (for MTKOM studenter) 
 
 :warning:
-Om du ønsker å dra i løpet av studieåret 2024/25 må du registrere din liste av 1-3 læresteder i prioritetsrekkefølge [her](https://s.ntnu.no/mtkom-utveksling-24-25) innen **26. januar 2024 kl. 12:00**.
+Ønsker du å dra på utveksling høst 2024 eller hele studieåret 2024/25 og har du fått klar signal fra faglig studieveileder må du opprette en søknad i MobilityOnline innen **1. februar 2024**.
 
 
 Det blir stadig mer populært og legge deler av studiet til utlandet. Som MTKOM-student har du mulighet til å søke om å få ta en del (ett til to semestre) av studiet ved et lærested i utlandet og alle oppfordres til å dra på utvekslingsopphold. Et utenlandsopphold gir deg muligheten til å lære noe om et annet lands kultur og språk. Dette vil være verdifull personlig erfaring og kunnskap i din karriere som sivilingeniør innen et stadig mer internasjonalt preget arbeidsmarked.
@@ -50,8 +50,9 @@ q: 2. Slik søker du
 - Om du ønsker å dra i løpet av studieåret 2024/25, registrer [her](https://s.ntnu.no/mtkom-utveksling-24-25) når og hvor du ønsker å dra innen **26.01.2024 12:00**. Det anbefales å dra til kun ett lærested; ønsker du å dra til to forskjellige læresteder i løpet av studieåret, registrer to søknader. Det anbefales også å sette ett lærested NTNU har et Erasmus+ avtale med som 2. eller 3. valg.
 ---
 - Etter at du har fått klar signal fra faglig studieveileder, opprett en søknad på MobilityOnline innen **1. februar** (utreise høstsemester eller et helt år) eller **12. september** (utreise i vårsemester). Merk at [noen land og læresteder i Asia og Nord-Amerika har tidligere frist](https://i.ntnu.no/wiki/-/wiki/Norsk/S%C3%B8knadsfrister+for+utenlandsstudier). Se "2. Slik søker du" på [temasiden om utenlandsstudier på innsida](https://i.ntnu.no/utenlandsstudier) for en detaljert oversikt over søknadsprosessen.
+- Du trenger ikke å ha fagplanen klar når du oppretter søknaden din i MobilityOnline, men du må laste opp en første versjon av tilleggskjemaet; la bare emnelistene stå blanke.
 ---
-- Utarbeid en fagplan kun for ditt 1. valg. Dine 2. og 3. valg vil ikke behandles før du ikke kommer inn på / ikke får søke til ditt 1. valg. Du trenger ikke å ha fagplanen klar når du oppretter søknaden din i MobilityOnline.
+- Utarbeid en fagplan kun for ditt 1. valg. Dine 2. og 3. valg vil ikke behandles før du ikke kommer inn på / ikke får søke til ditt 1. valg. 
 - Send et utkast til fagplan til per epost [faglig studieveileder](studieveileder@komtek.ntnu.no) og fyll inn emner i [skjemaet om forhåndsgodkjenning av emner](https://www.ntnu.no/studier/studier_i_utlandet/rapport/tilleggskjema.php) kun etter at planen din har blitt godkjent. Du vil normalt få tilbakemelding innen 4-6 uker.
 - En fagplan er en liste over hvilke emner du planlegger å ta i utlandet. Du må selv undersøke hvilke emner som tilbys ved det aktuelle lærestedet og sette opp et forslag til fagplan. Det er stor frihet til å velge emner i 8. semester. Det er ikke nødvendig å finne emner som tilsvarer emner ved NTNU. De kravene som stilles er følgende: (1) emnene skal ikke overlappe vesentlig med emner som du allerede har tatt ved NTNU, men bringe deg videre i forhold til disse, (2) emner innen cybersikkerhet og datakommunikasjon skal ligge på mastergradnivå (“graduate”/“post graduate”), (3) omfanget av ikke-tekniske og tverrfaglige emner skal være omtrent tilsvarende som ved NTNU, og (4) emnene skal være relevante dvs. oppfyller programmets og hovedprofilens læringsmål.
 - Drar du util et lærested programmet har en spesiell avtale med, vil du få en studietabell og bare måtte velge emner iht. denne.
