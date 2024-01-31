@@ -51,6 +51,7 @@ q: 2. Slik søker du
 ---
 - Etter at du har fått klar signal fra faglig studieveileder, opprett en søknad på MobilityOnline innen **1. februar** (utreise høstsemester eller et helt år) eller **12. september** (utreise i vårsemester). Merk at [noen land og læresteder i Asia og Nord-Amerika har tidligere frist](https://i.ntnu.no/wiki/-/wiki/Norsk/S%C3%B8knadsfrister+for+utenlandsstudier). Se "2. Slik søker du" på [temasiden om utenlandsstudier på innsida](https://i.ntnu.no/utenlandsstudier) for en detaljert oversikt over søknadsprosessen.
 - Du trenger ikke å ha fagplanen klar når du oppretter søknaden din i MobilityOnline, men du må laste opp en første versjon av [skjemaet om forhåndsgodkjenning av emner](https://www.ntnu.no/studier/studier_i_utlandet/rapport/tilleggskjema.php); la bare emnelistene stå blanke.
+- [Ofte stilte spørsmål om MobilityOnline (for studenter)](https://i.ntnu.no/wiki/-/wiki/Norsk/Mobility-Online+for+studenter).
 ---
 - Utarbeid en fagplan kun for ditt 1. valg. Dine 2. og 3. valg vil ikke behandles før du ikke kommer inn på / ikke får søke til ditt 1. valg. 
 - Send et utkast til fagplan til per epost [faglig studieveileder](studieveileder@komtek.ntnu.no) og fyll inn emner i [skjemaet om forhåndsgodkjenning av emner](https://www.ntnu.no/studier/studier_i_utlandet/rapport/tilleggskjema.php) kun etter at planen din har blitt godkjent. Du vil normalt få tilbakemelding innen 4-6 uker.
