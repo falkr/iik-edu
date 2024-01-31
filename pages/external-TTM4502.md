@@ -38,7 +38,7 @@ The report must have a maximum of 15 pages, the structure is given, and the stud
 
 Students that do not submit a report or whose report is graded "not passed" may submit a (revised) version at the end of January.
 
-There are [guidelines for the use of AI Tools](../bruk-av-ki.html).
+There are [guidelines for the use of AI Tools](bruk-av-ki.html).
 
 
 ## Evaluation of the reports and grading
