@@ -1,7 +1,7 @@
 # Utveksling (for MTKOM studenter) 
 
 :warning:
-Ønsker du å dra på utveksling høst 2024 eller hele studieåret 2024/25 og har du fått klar signal fra faglig studieveileder må du opprette en søknad i MobilityOnline innen **1. februar 2024**.
+Fristen for å opprette en søknad i MobilityOnline for de som ønsker å dra på utveksling høst 2024 eller hele studieåret 2024/25 og som har fått klar signal fra faglig studieveileder er utvidet til  **4. februar 2024**.
 
 
 Det blir stadig mer populært og legge deler av studiet til utlandet. Som MTKOM-student har du mulighet til å søke om å få ta en del (ett til to semestre) av studiet ved et lærested i utlandet og alle oppfordres til å dra på utvekslingsopphold. Et utenlandsopphold gir deg muligheten til å lære noe om et annet lands kultur og språk. Dette vil være verdifull personlig erfaring og kunnskap i din karriere som sivilingeniør innen et stadig mer internasjonalt preget arbeidsmarked.
@@ -49,7 +49,7 @@ q: 2. Slik søker du
 ---
 - Om du ønsker å dra i løpet av studieåret 2024/25, registrer [her](https://s.ntnu.no/mtkom-utveksling-24-25) når og hvor du ønsker å dra innen **26.01.2024 12:00**. Det anbefales å dra til kun ett lærested; ønsker du å dra til to forskjellige læresteder i løpet av studieåret, registrer to søknader. Det anbefales også å sette ett lærested NTNU har et Erasmus+ avtale med som 2. eller 3. valg.
 ---
-- Etter at du har fått klar signal fra faglig studieveileder, opprett en søknad på MobilityOnline innen **1. februar** (utreise høstsemester eller et helt år) eller **12. september** (utreise i vårsemester). Merk at [noen land og læresteder i Asia og Nord-Amerika har tidligere frist](https://i.ntnu.no/wiki/-/wiki/Norsk/S%C3%B8knadsfrister+for+utenlandsstudier). Se "2. Slik søker du" på [temasiden om utenlandsstudier på innsida](https://i.ntnu.no/utenlandsstudier) for en detaljert oversikt over søknadsprosessen.
+- Etter at du har fått klar signal fra faglig studieveileder, opprett en søknad på MobilityOnline. Fristen er **1. februar** (utreise høstsemester eller et helt år) eller **12. september** (utreise i vårsemester). Merk at [noen land og læresteder i Asia og Nord-Amerika har tidligere frist](https://i.ntnu.no/wiki/-/wiki/Norsk/S%C3%B8knadsfrister+for+utenlandsstudier). Se "2. Slik søker du" på [temasiden om utenlandsstudier på innsida](https://i.ntnu.no/utenlandsstudier) for en detaljert oversikt over søknadsprosessen.
 - Du trenger ikke å ha fagplanen klar når du oppretter søknaden din i MobilityOnline, men du må laste opp en første versjon av [skjemaet om forhåndsgodkjenning av emner](https://www.ntnu.no/studier/studier_i_utlandet/rapport/tilleggskjema.php); la bare emnelistene stå blanke.
 - [Ofte stilte spørsmål om MobilityOnline (for studenter)](https://i.ntnu.no/wiki/-/wiki/Norsk/Mobility-Online+for+studenter).
 ---
