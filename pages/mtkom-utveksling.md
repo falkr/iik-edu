@@ -1,7 +1,7 @@
 # Utveksling (for MTKOM studenter) 
 
 :warning:
-Fristen for å opprette en søknad i MobilityOnline for de som ønsker å dra på utveksling høst 2024 eller hele studieåret 2024/25 og som har fått klar signal fra faglig studieveileder er utvidet til  **4. februar 2024**.
+Neste steg for deg som har opprettet en søknad i MobilityOnline for å dra på utveksling høst 2024 eller hele studieåret 2024/25 er nå å utarbeide en fagplan og send et utkast per epost til [faglig studieveileder](studieveileder@komtek.ntnu.no).
 
 
 Det blir stadig mer populært og legge deler av studiet til utlandet. Som MTKOM-student har du mulighet til å søke om å få ta en del (ett til to semestre) av studiet ved et lærested i utlandet og alle oppfordres til å dra på utvekslingsopphold. Et utenlandsopphold gir deg muligheten til å lære noe om et annet lands kultur og språk. Dette vil være verdifull personlig erfaring og kunnskap i din karriere som sivilingeniør innen et stadig mer internasjonalt preget arbeidsmarked.
@@ -54,7 +54,7 @@ q: 2. Slik søker du
 - [Ofte stilte spørsmål om MobilityOnline (for studenter)](https://i.ntnu.no/wiki/-/wiki/Norsk/Mobility-Online+for+studenter).
 ---
 - Utarbeid en fagplan kun for ditt 1. valg. Dine 2. og 3. valg vil ikke behandles før du ikke kommer inn på / ikke får søke til ditt 1. valg. 
-- Send et utkast til fagplan til per epost [faglig studieveileder](studieveileder@komtek.ntnu.no) og fyll inn emner i [skjemaet om forhåndsgodkjenning av emner](https://www.ntnu.no/studier/studier_i_utlandet/rapport/tilleggskjema.php) kun etter at planen din har blitt godkjent. Du vil normalt få tilbakemelding innen 4-6 uker.
+- Send et utkast til fagplan per epost til [faglig studieveileder](studieveileder@komtek.ntnu.no) og fyll inn emner i [skjemaet om forhåndsgodkjenning av emner](https://www.ntnu.no/studier/studier_i_utlandet/rapport/tilleggskjema.php) kun etter at planen din har blitt godkjent. Du vil normalt få tilbakemelding innen 4-6 uker.
 - En fagplan er en liste over hvilke emner du planlegger å ta i utlandet. Du må selv undersøke hvilke emner som tilbys ved det aktuelle lærestedet og sette opp et forslag til fagplan. Det er stor frihet til å velge emner i 8. semester. Det er ikke nødvendig å finne emner som tilsvarer emner ved NTNU. De kravene som stilles er følgende: (1) emnene skal ikke overlappe vesentlig med emner som du allerede har tatt ved NTNU, men bringe deg videre i forhold til disse, (2) emner innen cybersikkerhet og datakommunikasjon skal ligge på mastergradnivå (“graduate”/“post graduate”), (3) omfanget av ikke-tekniske og tverrfaglige emner skal være omtrent tilsvarende som ved NTNU, og (4) emnene skal være relevante dvs. oppfyller programmets og hovedprofilens læringsmål.
 - Drar du til et lærested programmet har en spesiell avtale med, vil du få en studietabell og bare måtte velge emner iht. denne.
 - Det er antall studiepoeng og ikke antall emner som er viktig. Du bør velge emner som *til sammen* tilsvarer x × 7.5 studiepoeng.  For læresteder i EU, 1 ECTS tilsvare 1 studiepoeng ved NTNU. For læresteder utenfor EU, se [omregningsreglene](https://www.ntnu.no/international/studentweb/gnag/gnag.htm). Du trenger ikke å ta emner slik at du har akkurat 7.5, 15,… studiepoeng for hvert emne eller hver emnekategori (obligatoriske emner og valgbare emner for din profil, andre valgbare tekniske emner, komplementært emne, ing. emne annet studieprogram) du vil dekke. Det er en viss fleksibilitet. Du må derimot totalt ha minst x × 7.5 studiepoeng for å få godkjent x emner ved NTNU.
