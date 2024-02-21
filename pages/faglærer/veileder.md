@@ -5,11 +5,12 @@
 type: card
 title: Masteroppgaver ved IIK
 ---
-*   [Writing the specialization project at IIK](https://i.ntnu.no/wiki/-/wiki/English/Specialization+Project+-+IIK)
-*   [Writing the master thesis at IIK](https://i.ntnu.no/wiki/-/wiki/English/Master+Thesis+-+IIK)
+*   [Writing the specialization project at IIK (TTM4502)](ttm4502-old-wiki.html)
+*   [Writing the master thesis at IIK (TTM4905)](ttm4905-old-wiki.html)
 *   [Reusing Text from project in master thesis](../student/ttm4905-reuse-old-wiki.html)
 *   [Grading of Master Thesis at IIK](../thesis-grading-old-wiki.html)
 *   [Use of AI Tools](../bruk-av-ki.html)
+
 
 
 ---
