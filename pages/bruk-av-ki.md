@@ -2,7 +2,7 @@
 
 Til alle studenter som gjennomfører bachelor- eller masteroppgave ved IE-fakultetet våren 2024.
 
-Ved IE-fakultetet er KI-verktøy tillatt hjelpemiddel ved utarbeidelse av bachelor- og masteroppgaver. Eventuell bruk av KI-verktøy skal beskrives i eget skjema (deklareringsskjema) som legges ved oppgaven ved innlevering i Inspera. Sensur vil ikke påbegynnes dersom skjemaet ikke foreligger. 
+Ved IE-fakultetet er KI-verktøy tillatt hjelpemiddel ved utarbeidelse av bachelor- og masteroppgaver. Eventuell bruk av KI-verktøy skal beskrives i eget skjema ([deklareringsskjema](207214765-Deklarasjon om KI_en_skjema_207221460_1708091570678.pdf)) som legges ved oppgaven ved innlevering i Inspera. Sensur vil ikke påbegynnes dersom skjemaet ikke foreligger. 
 
 Hensikten med å beskrive bruken av kunstig intelligens gjennom et deklareringsskjema er todelt:
 
@@ -27,7 +27,7 @@ Når det gjelder sensur, vil bruk av KI i seg selv verken telle negativt eller p
 
 To all students doing a bachelor- or master thesis at the IE-faculty spring 2024
 
-At the IE-faculty, the use of AI-tools is allowed as an aid, when writing a bachelor- or master thesis. The use of AI-tools is to be described in a separate form (Declaration of AI aids and -tools) and handed in along with the thesis, upon submission in Inspera. The thesis will not be graded if the declaration is not submitted.
+At the IE-faculty, the use of AI-tools is allowed as an aid, when writing a bachelor- or master thesis. The use of AI-tools is to be described in a separate form ([Declaration of AI aids and -tools](207214765-Deklarasjon om KI_en_skjema_207221460_1708091570678.pdf)) and handed in along with the thesis, upon submission in Inspera. The thesis will not be graded if the declaration is not submitted.
 
 The purpose of declaring the use of artificial intelligence through above mentioned form is:
 
