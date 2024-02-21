@@ -1,8 +1,11 @@
-# Bruk av kunstig intelligens (KI-verktøy) ved utarbeidelse av bachelor- og masteroppgaver
+# Bruk av KI verktøy
+
+
+## Bruk av kunstig intelligens (KI-verktøy) ved utarbeidelse av bachelor- og masteroppgaver
 
 Til alle studenter som gjennomfører bachelor- eller masteroppgave ved IE-fakultetet våren 2024.
 
-Ved IE-fakultetet er KI-verktøy tillatt hjelpemiddel ved utarbeidelse av bachelor- og masteroppgaver. Eventuell bruk av KI-verktøy skal beskrives [i eget skjema](207214765-Deklarasjon om KI_en_skjema_207221460_1708091570678.pdf) som legges ved oppgaven ved innlevering i Inspera. Sensur vil ikke påbegynnes dersom skjemaet ikke foreligger. 
+Ved IE-fakultetet er KI-verktøy tillatt hjelpemiddel ved utarbeidelse av bachelor- og masteroppgaver. Eventuell bruk av KI-verktøy skal beskrives i eget skjema (se nedenfor) som legges ved oppgaven ved innlevering i Inspera. Sensur vil ikke påbegynnes dersom skjemaet ikke foreligger. 
 
 Hensikten med å beskrive bruken av kunstig intelligens gjennom et deklareringsskjema er todelt:
 
@@ -21,13 +24,21 @@ Riktig bruk av KI-verktøy vil som hovedprinsipp være å benytte et KI-verktøy
 Når det gjelder sensur, vil bruk av KI i seg selv verken telle negativt eller positivt, men god bruk av KI, som fører til en bedre rapport / bedre resultat, kan bidra til bedre bedømming, mens dårlig bruk av KI kan gi utslag andre veien. Bruk av generert tekst eller kode som ikke tydelig fremkommer som dette, blir å anse som juks.
 
 
+---
+type: link
+link: "207214765-Deklarasjon om KI_en_skjema_207221460_1708091570678.pdf"
+title: "Preview of AI Declaration Form"
+text: "(Form is available during submission in Inspera)"
+icon: filetype-pdf
+---
 
 
-# Use of Artficial Intelligence (AI-tools) in Composing Bachelor- and Master Theses
+
+## Use of Artificial Intelligence (AI-tools) in Composing Bachelor- and Master Theses
 
 To all students doing a bachelor- or master thesis at the IE-faculty spring 2024
 
-At the IE-faculty, the use of AI-tools is allowed as an aid, when writing a bachelor- or master thesis. The use of AI-tools is to be described in [a separate form](207214765-Deklarasjon om KI_en_skjema_207221460_1708091570678.pdf) and handed in along with the thesis, upon submission in Inspera. The thesis will not be graded if the declaration is not submitted.
+At the IE-faculty, the use of AI-tools is allowed as an aid, when writing a bachelor- or master thesis. The use of AI-tools is to be described in a separate form (see below) and handed in along with the thesis, upon submission in Inspera. The thesis will not be graded if the declaration is not submitted.
 
 The purpose of declaring the use of artificial intelligence through above mentioned form is:
 
@@ -44,3 +55,11 @@ Language models such as ChatGPT are not sources of facts and cannot be cited for
 The proper use of AI tools will generally be to use an AI tool as an aid, but where the answer is prepared by the students themselves and where sources are provided.
 
 Regarding censorship, the use of AI in itself will neither count negatively nor positively, but good use of AI, which leads to a better report / better result, can contribute to beDer assessment, while poor use of AI can have the opposite effect. The use of generated text or code that is not clearly identified as such will be considered cheating.
+
+---
+type: link
+link: "207214765-Deklarasjon om KI_en_skjema_207221460_1708091570678.pdf"
+title: "Preview of AI Declaration Form"
+text: "(Form is available during submission in Inspera)"
+icon: filetype-pdf
+---
