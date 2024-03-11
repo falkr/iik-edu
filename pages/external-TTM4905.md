@@ -1,16 +1,10 @@
-# Grading MSc theses at IIK
+# Evaluation and grading of MSc theses at IIK
 
-For each master’s thesis an external and an internal evaluator are assigned by the Head of Department. The evaluators evaluate the work according to the guidelines given in the Evaluation of MSc thesis and provide their comments in the evaluation form within 12 weeks after the submission. The grade is finally agreed upon in a meeting between the two evaluators before the deadline. The grade must be registered in Inspera. 
 
-There are [guidelines for the use of AI Tools](../bruk-av-ki.html).
 
-Documents to be used in the process:
-
-* [Guidelines for the evaluation of MSc theses (pdf)](https://edu.iik.ntnu.no/assets/Evaluation%20MSc%20thesis%20IIK.pdf)
-* Evaluation form [pdf](https://i.ntnu.no/documents/portlet_file_entry/1305837853/master%27s-thesis-evaluation-form+2023.pdf/e8eb8124-f443-2be3-ba8d-b5f59adc761d) [docx](https://i.ntnu.no/documents/portlet_file_entry/1305837853/master%27s-thesis-evaluation-form.docx/1b17aa29-688b-3166-a681-06fe02ee3afa)
-* [Procedure for quality assurance of the evaluation of MSc theses (pdf)](https://edu.iik.ntnu.no/assets/Prosedyre%20kvalitetssikring%20sensur%20masteroppgaver%20IIK.pdf) (_in Norwegian_)
-* [NTNUs generic description of MSc thesis grades for the NMT area](https://i.ntnu.no/wiki/-/wiki/English/Description+of+grades+for+master+thesis)
-* [A guideline for conversion from an evaluation in percent points for the A-F scale](https://i.ntnu.no/wiki/-/wiki/Norsk/Prosentvurderingsmetoden)  
+---
+ref: eval-TTM4905.md
+---
 
 
 ## Registering the grade in Inspera
