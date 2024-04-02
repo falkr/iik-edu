@@ -1,8 +1,5 @@
 # Course scheduling (for course coordinators)
 
-:warning:
-*Current deadline: **Feb 23, 2024** – Registration of course schedule data for courses to be given autumn 2024.*
-
 
 Once it is decided that a course is to be given a given semester, the course coordinator has two tasks:
 - register course schedule data the semester before the course is given, and
@@ -12,7 +9,7 @@ See [https://ntnu-timeplanprosessen.webflow.io/](https://ntnu-timeplanprosessen.
 
 
 :definition:
-There is a specific [academic calendar for siv.ing. programmes 2023-24 (.docx)](https://o365addins.it.ntnu.no/RadUtvalg/Widget/DownloadWidgetDataFile?url=/sites/meeting-fus/Delte%20dokumenter/110/S23-008-06-STUDIEKALENDER-FUS-2023-24.docx&filename=S23-008-06-STUDIEKALENDER-FUS-2023-24.docx). The calendar for 2024-25 is not yet available.
+There is a specific [academic calendar for siv.ing. programmes 2024-25 (.pdf)](https://o365addins.it.ntnu.no/RadUtvalg/Widget/DownloadWidgetDataFile?url=/sites/meeting-fus/Delte%20dokumenter/132/S24-014-01-STUDIEKALENDER-FUS-2024-25.pdf&filename=S24-014-01-STUDIEKALENDER-FUS-2024-25.pdf).
 
 
 ## Registering course schedule data
