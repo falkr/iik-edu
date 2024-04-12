@@ -1,7 +1,7 @@
 # Utveksling (for MTKOM studenter) 
 
 :warning:
-Neste steg for deg som har opprettet en søknad i MobilityOnline for å dra på utveksling høst 2024 eller hele studieåret 2024/25 er nå å utarbeide en fagplan og send et utkast per epost til [faglig studieveileder](studieveileder@komtek.ntnu.no).
+Neste steg for deg som har opprettet en søknad i MobilityOnline for å dra på utveksling høst 2024 eller hele studieåret 2024/25 er nå å utarbeide en fagplan og send et utkast per epost til [faglig studieveileder](mailto:studieveileder@komtek.ntnu.no).
 
 
 Det blir stadig mer populært og legge deler av studiet til utlandet. Som MTKOM-student har du mulighet til å søke om å få ta en del (ett til to semestre) av studiet ved et lærested i utlandet og alle oppfordres til å dra på utvekslingsopphold. Et utenlandsopphold gir deg muligheten til å lære noe om et annet lands kultur og språk. Dette vil være verdifull personlig erfaring og kunnskap i din karriere som sivilingeniør innen et stadig mer internasjonalt preget arbeidsmarked.
