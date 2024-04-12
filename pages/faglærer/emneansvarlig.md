@@ -10,7 +10,7 @@ See also [NTNU's guide for course coordinators](https://innsida.ntnu.no/emneansv
 type: card/text
 title: Course revision
 text: Revise the course description
-link: course-revision
+link: course-revision.html
 link_title: Read more…
 ---
 
@@ -19,7 +19,7 @@ link_title: Read more…
 type: card/text
 title: Course scheduling
 text: Register course schedule data and control the tentative timetable.
-link: timeplan
+link: timeplan.html
 link_title: Read more…
 ---
 
