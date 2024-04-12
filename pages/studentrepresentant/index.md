@@ -37,17 +37,35 @@ link_title: Les om oppgaver og mandat.
 
 
 
-### Trondheim
+### Instituttstillitsvalgte (ITV)
+
+ITV er også vist på [studentrådet sine sider](https://www.ie-studentrad.no/tillitsvalgte). Det finnes to epost-lister:
+* [Epost til ITV Trondheim](mailto:ie-iik@studentrad.no)
+* [Epost til ITV Gjøvik](mailto:ie-iikgjovik@studentrad.no)
+
 
 ---
 type: table
-file: ../tables/students-t.mw
+file: ../tables/students/itv.mw
 ---
 
+### Klassetillitsvalgte (KTV) og studentkontakter
 
-### Gjøvik
 
 ---
 type: table
-file: ../tables/students-g.mw
+file: ../tables/students/ktv.mw
+---
+
+---
+type: table
+file: ../tables/students/studentkontakt.mw
+---
+
+
+### Programtillitsvalgte (PTV)
+
+---
+type: table
+file: ../tables/students/ptv.mw
 ---

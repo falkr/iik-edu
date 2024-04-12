@@ -13,19 +13,32 @@
 
 
 
-### Trondheim
+### Instituttstillitsvalgte (ITV)
 
 ---
 type: table
-file: ../tables/students-t.mw
+file: ../tables/students/itv.mw
 ---
 
+### Klassetillitsvalgte (KTV) og studentkontakter
 
-### Gjøvik
 
 ---
 type: table
-file: ../tables/students-g.mw
+file: ../tables/students/ktv.mw
+---
+
+---
+type: table
+file: ../tables/students/studentkontakt.mw
+---
+
+
+### Programtillitsvalgte (PTV)
+
+---
+type: table
+file: ../tables/students/ptv.mw
 ---
 
 

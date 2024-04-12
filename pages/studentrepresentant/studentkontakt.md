@@ -26,3 +26,9 @@ Oppgavene er:
 * Du kan bruke [e-post](../epostlister.html) for å nå alle studenter.
 
 [Se oversikt over alle studentkontakter ved IIK her.](https://edu.iik.ntnu.no/studenter.html)  
+
+
+---
+type: table
+file: ../tables/students/studentkontakt.mw
+---

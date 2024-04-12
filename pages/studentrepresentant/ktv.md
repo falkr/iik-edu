@@ -4,6 +4,12 @@ En klassetillitsvalgt (KTV) er valgt inn av egen klasse, og skal være bindeledd
 [Mandat for KTV](https://www.ie-studentrad.no/om-oss).
 
 
+---
+type: table
+file: ../tables/students/ktv.mw
+---
+
+
 ## Konkret mandat for KTV ved IIK
 
 - Delta i dialogmøter med studieprogramleder

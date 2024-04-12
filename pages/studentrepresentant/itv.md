@@ -5,7 +5,13 @@ En instituttillitsvalgt (ITV) er valgt av studentene ved instituttet og represen
 [Mandat for ITV](https://www.ie-studentrad.no/om-oss).
 
 
-## Konkret mandat for ITV ved IIK
+---
+type: table
+file: ../tables/students/itv.mw
+---
+
+
+## Mandat for ITV ved IIK
 
 * Være medlem i instituttets utvidet ledergruppe
 * Delta i [dialogmøter med KTV og studieprogramleder](../studieprogramleder/dialogmøter-spl.html) og følge opp saker derfra
@@ -18,7 +24,15 @@ En instituttillitsvalgt (ITV) er valgt av studentene ved instituttet og represen
 * Sørge for at [informasjon om studentrepresentanter](../student/studentrepresentanter.html) er oppdatert
 
 
-Du kan bruke [e-post](../epostlister.html) for å nå alle studenter.
+
+:guideline:
+* ITV er betalt med 100 timer per semester.
+* Som ITV kan du bruke [e-post](../epostlister.html) for å nå alle studenter.
+* Det velges en ny ITV per semester.
+* Etter valg innehaver ITV stillingen i ett år. 
+* Ved IIK er det 2 ITV i Gjøvik og 2 i Trondheim, altså 4 tilsammen.
+
+
 
 ---
 type: quote
