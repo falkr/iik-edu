@@ -21,7 +21,102 @@
   crossorigin="anonymous"></script>
   <script src="../assets/anchor.js"></script>
   <script src="../assets/clipboard.min.js"></script>
-  <style>/* === quote === */
+  <style>/* === boxes === */
+div.box {
+  padding: 10px;
+  border-radius: 5px;
+  position: relative;
+  padding: 1rem 1rem 1rem 3.5rem;
+}
+
+div.box>p {
+  margin-bottom: 0px;
+}
+
+div.box>*:first-child::before {
+  font-family: bootstrap-icons !important;
+  font-size: 1.5rem;
+  padding: 0.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  display: grid;
+}
+
+div.milestone {
+  background-color: #E3BCDA;
+}
+
+div.milestone>*:first-child::before {
+  content: '\f706';
+  color: #75225E;
+}
+
+div.delivery {
+  background-color: #ffd9ab;
+}
+
+div.delivery>*:first-child::before {
+  content: '\f1be';
+  color: #fc8c03;
+}
+
+div.definition {
+  background-color: #EEE5D5;
+}
+
+div.definition>*:first-child::before {
+  content: '\f3e9';
+  color: #7D705A;
+}
+
+div.guideline {
+  background-color: #fae7e8;
+}
+
+div.guideline>*:first-child::before {
+  content: '\f548';
+  color: #e45460;
+}
+
+div.report {
+  background-color: #D6E5F0;
+}
+
+div.report>*:first-child::before {
+  content: '\f43e';
+  color: #1481b8;
+}
+
+div.warning {
+  background-color: #ffd9ab;
+}
+
+div.warning>*:first-child::before {
+  content: '\f33a';
+  color: #fc8c03;
+}
+
+div.tip {
+  background-color: #E3BCDA;
+}
+
+div.tip>*:first-child::before {
+  content: '\f402';
+  color: #75225E;
+}
+
+div.task {
+  background-color: #fae7e8;
+}
+
+div.task>*:first-child::before {
+  content: '\f5db';
+  color: #e45460;
+}
+
+/* === quote === */
 div.quotedoc {
   padding: 22px;
   xbackground-color: #EFF7FF;
@@ -92,7 +187,78 @@ div.quotedoc h3:first-child {
 <p>En instituttillitsvalgt (ITV) er valgt av studentene ved instituttet og representerer studentene ved instituttet. De er bindeleddet mellom student, institutt og Studieprogramrådet IE og jobber for å ivareta studentenes interesser, oppnå godt læringsmiljø og sikre god informasjonsflyt fra instituttet til studentene.
 <a href="https://www.ie-studentrad.no/om-oss">Mandat for ITV</a>.</p>
 </div><aside class="col-md-4 chunk ps-2"></aside></div>
-<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><h2>Konkret mandat for ITV ved IIK</h2>
+<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><table class="table table-sm">
+<tr>
+<th><p>Rolle</p>
+</th>
+<th><p>Campus</p>
+</th>
+<th><p>Navn</p>
+</th>
+<th><p>E-post</p>
+</th>
+<th><p>Fra</p>
+</th>
+<th><p>Til</p>
+</th>
+</tr>
+<tr>
+<td><p>ITV</p>
+</td>
+<td><p>Gjøvik</p>
+</td>
+<td><p>Eline Lædre</p>
+</td>
+<td><p>elinelae@stud.ntnu.no</p>
+</td>
+<td><p>Aug 2023</p>
+</td>
+<td><p>Jun 2024</p>
+</td>
+</tr>
+<tr>
+<td><p>ITV</p>
+</td>
+<td><p>Gjøvik</p>
+</td>
+<td><p>Birgitte Jordal</p>
+</td>
+<td><p>birgijor@stud.ntnu.no</p>
+</td>
+<td><p>Jan 2024</p>
+</td>
+<td><p>Dec 2024</p>
+</td>
+</tr>
+<tr>
+<td><p>ITV</p>
+</td>
+<td><p>Trondheim</p>
+</td>
+<td><p>Vilde Hjelleset Fougner</p>
+</td>
+<td><p>vilde.fougner@ntnu.no</p>
+</td>
+<td><p>Jan 2024</p>
+</td>
+<td></td>
+</tr>
+<tr>
+<td><p>ITV</p>
+</td>
+<td><p>Trondheim</p>
+</td>
+<td><p>Tuva Brandsdal Horgen</p>
+</td>
+<td><p>tuvabh@stud.ntnu.no</p>
+</td>
+<td><p>Aug 2023</p>
+</td>
+<td><p>Jun 2024</p>
+</td>
+</tr>
+</table></div><aside class="col-md-4 chunk ps-2"></aside></div>
+<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><h2>Mandat for ITV ved IIK</h2>
 <ul>
 <li>Være medlem i instituttets utvidet ledergruppe</li>
 <li>Delta i <a href="../studieprogramleder/dialogm%C3%B8ter-spl.html">dialogmøter med KTV og studieprogramleder</a> og følge opp saker derfra</li>
@@ -105,8 +271,14 @@ div.quotedoc h3:first-child {
 <li>Sørge for at <a href="../student/studentrepresentanter.html">informasjon om studentrepresentanter</a> er oppdatert</li>
 </ul>
 </div><aside class="col-md-4 chunk ps-2"></aside></div>
-<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><p>Du kan bruke <a href="../epostlister.html">e-post</a> for å nå alle studenter.</p>
-</div><aside class="col-md-4 chunk ps-2"></aside></div>
+<div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><div class="guideline box mt-3 mb-3"><ul>
+<li>ITV er betalt med 100 timer per semester.</li>
+<li>Som ITV kan du bruke <a href="../epostlister.html">e-post</a> for å nå alle studenter.</li>
+<li>Det velges en ny ITV per semester.</li>
+<li>Etter valg innehaver ITV stillingen i ett år.</li>
+<li>Ved IIK er det 2 ITV i Gjøvik og 2 i Trondheim, altså 4 tilsammen.</li>
+</ul>
+</div></div><aside class="col-md-4 chunk ps-2"></aside></div>
 <div class="row g-0 my-3"><div class="col-md-8 px-4 chunk"><div class="quotedoc shadow-sm mt-5 bg-light rounded">
 <div class="quotetitle"><a href="https://www.ie-studentrad.no/om-oss"><i class="bi bi-arrow-right-circle-fill"></i>&nbsp;Instruks for Instituttillitsvalgt (ITV)</a></div>
 <div class="quotecontent">
@@ -204,6 +376,8 @@ div.quotedoc h3:first-child {
   </script>
   <script>
     
+
+
 
   </script>
 </body>
