@@ -2,7 +2,7 @@ Each master's thesis is to be jointly evaluated and graded by an external and an
 
 The evaluation and grading is based on the thesis and a brief report from the main supervisor. The work is to be assessed according to the criteria that are normally used for scientific technological works such as conference contributions, journal papers and similar. The assessment criteria are detailed below and are communicated to the students at the beginning of the semester by the course coordinator. The evaluation should take into account the technological and scientific challenge posed by the task, as well as what can realistically be expected to be achieved within the duration of the master’s thesis work (20 weeks, full-time). 
 
-There are [guidelines for the use of AI Tools](../bruk-av-ki.html).
+There are [guidelines for the use of AI Tools](bruk-av-ki.html).
 
 The evaluation and grading must be documented by filling in an evaluation form. The evaluation form must be submitted to the [department's administration](mailto:liv.k.stubberud@ntnu.no,laurent.paquereau@ntnu.no) and the grade must be registered in Inspera – see below –  within 12 weeks after the submission of the thesis. The form will be made available to the student·s and the main supervisor
 
