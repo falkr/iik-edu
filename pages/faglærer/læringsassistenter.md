@@ -20,7 +20,7 @@ Some clarifications:
 
 ### LAOS
 
-Learning assistants require [LAOS](laos.html). 
+Læringsassistenter må ta [LAOS](laos.html). Som faglærer krever det at du fasiliterer deler av LAOS-opplæringen. Les mer om det via linken over.
 
 ## Student Assistants
 
