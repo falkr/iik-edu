@@ -40,8 +40,8 @@ link_title: Les om oppgaver og mandat.
 ### Instituttstillitsvalgte (ITV)
 
 ITV er også vist på [studentrådet sine sider](https://www.ie-studentrad.no/tillitsvalgte). Det finnes to epost-lister:
-* [Epost til ITV Trondheim](mailto:ie-iik@studentrad.no)
-* [Epost til ITV Gjøvik](mailto:ie-iikgjovik@studentrad.no)
+* [Epost til ITV Trondheim](mailto:ie-iik@studentrad.ntnu.no)
+* [Epost til ITV Gjøvik](mailto:ie-iikgjovik@studentrad.ntnu.no)
 
 
 ---
