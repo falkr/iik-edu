@@ -10,6 +10,10 @@
 - Sep 11: Deadline for external evaluators to submit a final evaluation and feeback form for the reports that were (re-)submitted on Aug 30 to the [department's administration](mailto:liv.k.stubberud@ntnu.no,laurent.paquereau@ntnu.no)
 
 
+:warning:
+There is no external evaluator for the reports submitted this semester (Spring 2024). The course coordinator will be the second evaluator and the session chair during the presentation day.
+
+
 ## Evaluation of the reports and grading
 
 ---
