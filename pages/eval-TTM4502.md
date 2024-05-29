@@ -29,4 +29,4 @@ ref: eval-criteria-TTM4502.md
 
 It is common practice for the external evaluator and the main supervisor to first go through the report individually and afterwards discuss and agree upon the evaluation and feedback during a physical or on-line meeting. It can also be handled by e-mail, but it might be less efficient. 
 
-As for filling in the form, this may be handled by both preparing comments that are merged after the coordination meeting (this is usually done by the external evaluator); alternatively, one of the parties may make a draft that is supplemented by the other.
+As for filling out the form, this may be handled by both preparing comments that are merged after the coordination meeting (this is usually done by the external evaluator); alternatively, one of the parties may make a draft that is supplemented by the other.
