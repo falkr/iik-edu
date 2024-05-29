@@ -1,12 +1,13 @@
 # TTM4502 (for main supervisors)
 
 :warning:
-**Important dates (Autumn 2023):**
-- Nov 15: Deadline for students to submit their reports
-- Dec 6: Presentation day (09:15-15:00)
-- Jan 6: Deadline for external evaluators to submit the evaluation and feeback forms to the [department's administration](mailto:liv.k.stubberud@ntnu.no,laurent.paquereau@ntnu.no)
-- Jan 31: Deadline for students whose original report was graded "not passed" to submit a revised version of their report or for students that did not submit a report
-- Feb 14: Deadline for external evaluators to submit a final evaluation and feeback form for the reports that were (re-)submitted on Jan 31 to the [department's administration](mailto:liv.k.stubberud@ntnu.no,laurent.paquereau@ntnu.no)
+**Important dates (Spring 2024):**
+- May 28: Deadline for students to submit their reports
+- Jun 4: Presentation day (09:15-11:30)
+- Jan 25: Deadline for evaluators to submit the evaluation and feeback forms to the [department's administration](mailto:liv.k.stubberud@ntnu.no,laurent.paquereau@ntnu.no)
+- Aug 12: Beginning of the retake period for students whose original report was graded "not passed" and who want to submit a revised version of their report
+- Aug 28: Deadline for students whose original report was graded "not passed" to submit a revised version of their report or for students that did not submit a report
+- SEp 11: Deadline for external evaluators to submit a final evaluation and feeback form for the reports that were (re-)submitted on Aug 30 to the [department's administration](mailto:liv.k.stubberud@ntnu.no,laurent.paquereau@ntnu.no)
 
 
 ## Evaluation of the reports and grading
