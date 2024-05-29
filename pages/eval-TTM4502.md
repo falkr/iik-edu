@@ -8,7 +8,7 @@ In order for a report to be graded as passed, all the work items c) – f) and h
 
 The evaluation and grading must be documented by filling in an evaluation and feedback form for each report. The form will be made available to the student·s, who should take it into account when starting working on his/her/their master’s thesis. All the forms should be submitted to the [department's administration](mailto:liv.k.stubberud@ntnu.no,laurent.paquereau@ntnu.no) within a month after the presentation day.
 
-**Evaluating, grading, filling in an evaluation form and submitting it in time is the joint responsibility of both the external evaluator and the main supervisor.**
+**Evaluating, grading, filling out the evaluation and feeback form and submitting it in time is the joint responsibility of both the external evaluator and the main supervisor.**
 
 ---
 type: button
