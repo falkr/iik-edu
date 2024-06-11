@@ -38,6 +38,14 @@ Course schedule data is information about what kind of teaching a course will ha
 ## Controlling the tentative timetable for the course
 
 
+:warning:
+Deadline:
+- [Trondheim] The deadline to control the tentative timetables for the autumn semester 2024 and send feedback to the [administration](mailto:laurent.paquereau@ntnu.no) is: **Jun 20, 2024 12:00 (noon)**.
+- [Gjøvik] The deadline to control the tentative timetables for the spring semester 2024 and send feedback to the [administration](mailto:stian.karlsen@ntnu.no) is: **Jun 21, 2024**.
+
+The timetables will be published for the students on week 27.
+
+
 ---
 type: button
 text: "Log in to TP:Course"
@@ -48,7 +56,7 @@ url: https://tp.educloud.no/ntnu/timeplan/emner.php?lang=en
 The course coordinator should check that:
 - all the activities that should be scheduled are indeed scheduled, that
 - all the activities are planned according to what you registered in [TP: Basic data](https://tp.educloud.no/ntnu/grunnlagsdata/), that
-- for each activity, the type of activity and staff is correct and, if any, that the allocated room is suitable, that
+- for each activity, the type of activity and staff is correct and, if any, that the allocated room is suitable (for instance if the course is to be streamed and/or recorded), that
 - the activities are both scheduled the weeks they will occur and not scheduled the weeks they will not occur, and finally
 - if you are teaching in more than one courses, that teaching times are not colliding.
 
