@@ -1,14 +1,14 @@
-# Kommunikasjonsteknologi og digital sikkerhet (MTKOM)
+#  Cybersikkerhet og datakommunikasjon (MTKOM)
 
 
 * [NTNU Website for Program](https://www.ntnu.no/studier/mtkom)
-* [Utdanning.no](https://utdanning.no/utdanning/ntnu.no/kommunikasjonsteknologi_og_digital_sikkerhet_-_masterstudium_5-arig)
+* [Utdanning.no](https://utdanning.no/utdanning/ntnu.no/cybersikkerhet_og_datakommunikasjon_-_master)
 
 
 Fullstendig, oppdatert og gjeldende studieplan finner du [her](https://www.ntnu.no/studier/studieplan#programmeCode=MTKOM).
 
 :definition:
-Tabellene under gjelder for studieåret 2023/24.
+Tabellene under gjelder for studieåret 2024/25.
 
 
 ---
