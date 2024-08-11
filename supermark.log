@@ -2,8 +2,8 @@
 │ 🍌 Finished with 2 warnings. │
 ╰──────────────────────────────╯
 ├── 207214765-Deklarasjon om KI_en_skjema_207221460_1708091570678.pdf not found.
-│   ├── /home/runner/work/iik-edu/iik-edu/pages/bruk-av-ki.md 27
-│   └── /home/runner/work/iik-edu/iik-edu/pages/bruk-av-ki.md 59
+│   ├── /home/runner/work/iik-edu/iik-edu/pages/bruk-av-ki.md 59
+│   └── /home/runner/work/iik-edu/iik-edu/pages/bruk-av-ki.md 27
 ├── Found configuration file.
 │   └── config.toml
 ├── Found extension AbstractParagraphExtension
@@ -47,67 +47,67 @@
 ├── Using threadpool.
 ├── Translated
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/hjelp.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/plan-2022-h.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/plan-2021-h.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/plan-2022-h.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/external-TTM4905.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/eval-TTM4905.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/TTM4502-assessment-criteria.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/kommunikasjon.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/eval-TTM4502.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/mtkom-utveksling.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/lenker.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/index.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/plan-2023-v.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/bruk-av-ki.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/eval-TTM4502.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/eval-criteria-TTM4905.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/thesis-grading-old-wiki.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/eval-TTM4905.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/plan-2023-v.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/plan-2022-v.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/index.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/thesis-grading-old-wiki.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/mtkom-utveksling.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/eval-criteria-TTM4502.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/supervisor-TTM4502.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/epostlister.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/student/referansegruppe.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/external-TTM4502.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/student/studenthjelp.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/student/studentmentorer.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/student/referansegruppe.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/student/ttm4905-old-wiki.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/student/lunsjvenn.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/ttm4905.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/student/ttm4502-old-wiki.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/student/studentmentorer.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/student/lunsjvenn.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/student/studenthjelp.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/student/snacks.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/student/ttm4502-old-wiki.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/student/rom.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/student/ttm4905-reuse-old-wiki.ht
 │   │   ml
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/student/rom.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/program/mdigsec.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/student/index.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/program/mdigsec.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/program/miseb.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/kullkoordinator/index.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/program/mssecclo.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/program/mis.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/studieprogramleder/studieprogramr
 │   │   åd.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/kullkoordinator/index.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/tema/referansegruppe.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/studieprogramleder/dialogmøter-sp
-│   │   l.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/program/mis.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/faglærer/emneundersøkelse.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/program/bdigsec.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/student/kullkoordinator-studenter
 │   │   .html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/faglærer/emneundersøkelse.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/studieprogramleder/dialogmøter-sp
+│   │   l.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/faglærer/vurdering.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/program/bdigsec.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/studieprogramleder/index.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/faglærer/index.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/tema/thesis.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/faglærer/resit.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/faglærer/læringsassistenter.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/faglærer/index.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/studieprogramleder/index.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/faglærer/course-revision.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/faglærer/compulsory-activities.ht
 │   │   ml
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/faglærer/referansegruppe.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/faglærer/læringsassistenter.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/faglærer/veileder.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/faglærer/laos.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/faglærer/referansegruppe.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/faglærer/timeplan.html
-│   ├── /home/runner/work/iik-edu/iik-edu/docs/faglærer/emneansvarlig.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/faglærer/laos.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/program/mtkom.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/sensor/index.html
+│   ├── /home/runner/work/iik-edu/iik-edu/docs/faglærer/emneansvarlig.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/studentrepresentant/itv.html
 │   ├── /home/runner/work/iik-edu/iik-edu/docs/student/studentrepresentanter.htm
 │   │   l
