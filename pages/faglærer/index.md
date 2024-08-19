@@ -72,12 +72,10 @@ title: Quality System
 type: card
 title: Other
 ---
-* [Course planning](https://i.ntnu.no/emneansvarlig)
-* [Course search](https://www.ntnu.no/studier/emner)
-* [Teaching and learning support for teachers](https://i.ntnu.no/undervisningsstotte)
-* [Online teaching](https://i.ntnu.no/nettbasert-undervisning)
-* [Order course reading list - For employees](https://i.ntnu.no/pensumforberedelse)
-* [Semester planning](https://i.ntnu.no/planlegge-semesteret)
+* [Plan, administrate and evaluate teaching](https://i.ntnu.no/planlegge-og-gjennomfore-undervisning)
+* [Technology and tools for teaching](https://i.ntnu.no/wiki/-/wiki/English/Technology+and+tools+for+teaching)
+* [Services and help for teaching](https://i.ntnu.no/wiki/-/wiki/English/Services+and+help+for+teaching)
+* [Course search](https://www.ntnu.edu/studies/courses)
 * [Inspera vs. Blackboard](https://i.ntnu.no/wiki/-/wiki/Norsk/Karaktergivende+vurderinger+i+eksamens-+vs+e-læringssystem)
 * [FUS - Forvaltningsutvalget for sivilingeniørutdanningen](https://i.ntnu.no/wiki/-/wiki/Norsk/Forvaltningsutvalget+for+sivilingeni%C3%B8rutdanningen+-+FUS)
 * [Vurdering](vurdering.html)
