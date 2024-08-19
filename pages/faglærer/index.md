@@ -70,7 +70,7 @@ title: Quality System
 
 ---
 type: card
-title: Other
+title: Other Links 1,3,4,5,6 are broken
 ---
 * [Course planning](https://i.ntnu.no/emneansvarlig)
 * [Course search](https://www.ntnu.no/studier/emner)
