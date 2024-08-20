@@ -89,7 +89,7 @@ title: Laws and Regulations
 ---
 * [Forskrift om studier ved Norges teknisk-naturvitenskapelige universitet (NTNU)](https://lovdata.no/dokument/SF/forskrift/2015-12-08-1449)
 * [Forskrift om tilsyn med utdanningskvaliteten i høyere utdanning (studietilsynsforskriften)](https://lovdata.no/dokument/SF/forskrift/2017-02-07-137)
-* [Lov om universiteter og høyskoler (universitets- og høyskoleloven)](https://lovdata.no/dokument/NL/lov/2005-04-01-15?q=universitets)
+* [Lov om universiteter og høyskoler (universitets- og høyskoleloven)](https://lovdata.no/dokument/NL/lov/2024-03-08-9)
 * [Styringsreglement NTNU](https://innsida.ntnu.no/wiki/-/wiki/Norsk/Styringsreglement)
 * [Lover og reglementer](https://innsida.ntnu.no/wiki/-/wiki/Norsk/lover+og+reglementer)
 * [Generelle lover og regler](https://innsida.ntnu.no/wiki/-/wiki/Norsk/Generelle+lover+og+regler+-+studier)
