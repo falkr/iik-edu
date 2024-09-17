@@ -1,7 +1,7 @@
 # Reference Groups
 
 
-At IIK, **all courses must have a reference group**. This includes all teaching activities that have a course code, that means also specialization courses and courses for project, bachelor and master theses.
+At IIK, **all courses must have a reference group**. This includes all teaching activities that have a course code, that means also specialization courses and courses for project, bachelor's and master's theses.
 
 ---
 type: qna
