@@ -65,5 +65,5 @@ Once a course description has been reviewed and all the changes, if any, have be
 ## Contact
 
 * Trondheim: [Laurent Paquereau](mailto:laurent.paquereau@ntnu.no)
-* Gjøvik: [Hilde Bakke](mailto:hilde.bakke@ntnu.no)
+* Gjøvik: [Hilde Bakke](mailto:hilde.bakke@ntnu.no) and [Marianne Øgaard](mailto:marianne.ogaard@ntnu.no)
 
