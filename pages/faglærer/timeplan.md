@@ -38,6 +38,14 @@ Course schedule data is information about what kind of teaching a course will ha
 ## Controlling the tentative timetable for the course
 
 
+:warning:
+Deadline:
+- [Trondheim] The deadline to control the tentative timetables for the spring semester 2025 and send feedback to the [administration](mailto:laurent.paquereau@ntnu.no) is: **Nov 15, 2024 12:00 (noon)**.
+- [Gjøvik] The deadline to control the tentative timetables for the spring semester 2025 and send feedback to the [administration](mailto:stian.karlsen@ntnu.no) is: **Nov 18, 2024**.
+
+The timetables will be published for the students on week 50.
+
+
 ---
 type: button
 text: "Log in to TP:Course"
