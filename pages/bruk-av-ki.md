@@ -54,7 +54,7 @@ Language models such as ChatGPT are not sources of facts and cannot be cited for
 
 The proper use of AI tools will generally be to use an AI tool as an aid, but where the answer is prepared by the students themselves and where sources are provided.
 
-Regarding censorship, the use of AI in itself will neither count negatively nor positively, but good use of AI, which leads to a better report / better result, can contribute to beDer assessment, while poor use of AI can have the opposite effect. The use of generated text or code that is not clearly identified as such will be considered cheating.
+Regarding censorship, the use of AI in itself will neither count negatively nor positively, but good use of AI, which leads to a better report / better result, can contribute to better assessment, while poor use of AI can have the opposite effect. The use of generated text or code that is not clearly identified as such will be considered cheating.
 
 ---
 type: link
