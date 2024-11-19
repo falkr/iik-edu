@@ -2,19 +2,19 @@
 
 
 :warning:
-**Important dates (Autumn 2023):**
-- Nov 15: Deadline for students to submit their reports
-- Dec 6: Presentation day (09:15-15:00)
-- Jan 6: Deadline for external evaluators to submit the evaluation and feeback forms to the [department's administration](mailto:liv.k.stubberud@ntnu.no,laurent.paquereau@ntnu.no)
-- Jan 31: Deadline for students whose original report was graded "not passed" to submit a revised version of their report or for students that did not submit a report
-- Feb 14: Deadline for external evaluators to submit a final evaluation and feeback form for the reports that were (re-)submitted on Jan 31 to the [department's administration](mailto:liv.k.stubberud@ntnu.no,laurent.paquereau@ntnu.no)
+**Important dates (Autumn 2024):**
+- Nov 8: Deadline for students to submit their reports
+- Dec 10: Presentation day (09:15-15:00)
+- Jan 7: Deadline for external evaluators to submit the evaluation and feeback forms to the [department's administration](mailto:mona.nordaune@ntnu.no,laurent.paquereau@ntnu.no)
+- Jan 27: Deadline for students whose original report was graded "not passed" to submit a revised version of their report or for students that did not submit a report
+- Feb 12: Deadline for external evaluators to submit a final evaluation and feeback form for the reports that were (re-)submitted on Jan 27 to the [department's administration](mailto:mona.nordaune@ntnu.no,laurent.paquereau@ntnu.no)
 
 
 :report:
 **Summary of the tasks:**
 * Read through the reports during the 3 weeks preceding the presentation day.
 * Be present on campus on the presentation day and chair the sessions where the students whose reports you have read present their pre-project.
-* For each pre-project, fill in an evaluation and feedback form together with the main supervisor and submit the form evaluation and feedback forms to the [department's administration](mailto:liv.k.stubberud@ntnu.no,laurent.paquereau@ntnu.no).
+* For each pre-project, fill in an evaluation and feedback form together with the main supervisor and submit the form evaluation and feedback forms to the [department's administration](mailto:mona.nordaune@ntnu.no,laurent.paquereau@ntnu.no).
 
 
 ## About the course
@@ -38,7 +38,7 @@ The report must have a maximum of 15 pages, the structure is given, and the stud
 
 Students that do not submit a report or whose report is graded "not passed" may submit a (revised) version at the end of January.
 
-There are [guidelines for the use of AI Tools](bruk-av-ki.html).
+There are [guidelines for the use of AI Tools](bruk-av-ki.html) and the students are required to submit an AI declaration form when submitting their report.
 
 
 ## Evaluation of the reports and grading
