@@ -3,10 +3,11 @@
 
 :warning:
 **Important dates (Autumn 2024):**
-- Nov 8: Deadline for students to submit their reports
+- Nov 8 (14:00): Deadline for students to submit their reports
 - Dec 10: Presentation day (09:15-15:00)
 - Jan 7: Deadline for external evaluators to submit the evaluation and feeback forms to the [department's administration](mailto:mona.nordaune@ntnu.no,laurent.paquereau@ntnu.no)
-- Jan 27: Deadline for students whose original report was graded "not passed" to submit a revised version of their report or for students that did not submit a report
+- Jan 8: Beginning of the quick-retake period for students whose original report was graded "not passed" and who want to submit a revised version of their report
+- Jan 27 (14:00): Deadline for students whose original report was graded "not passed" to submit a revised version of their report or for students that did not submit a report
 - Feb 12: Deadline for external evaluators to submit a final evaluation and feeback form for the reports that were (re-)submitted on Jan 27 to the [department's administration](mailto:mona.nordaune@ntnu.no,laurent.paquereau@ntnu.no)
 
 
