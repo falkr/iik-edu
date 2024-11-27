@@ -46,7 +46,7 @@ q: 1. Finn land og studiested
 
 ---
 type: qna
-q: 2 Søk om utveksling
+q: 2. Søk om utveksling
 ---
 - Om du ønsker å dra i løpet av studieåret 2025/26, registrer [her](https://s.ntnu.no/utveksling-25-26) når og hvor du ønsker å dra innen **24.01.2025 kl. 12:00**. Det anbefales å dra til kun ett lærested; ønsker du å dra til to forskjellige læresteder i løpet av studieåret, registrer to søknader. Du kan sette opp inntil tre læresteder i prioritert rekkefølge. Det anbefales å sette ett lærested NTNU har et Erasmus+ avtale med som 2. eller 3. valg.
 ---
@@ -57,7 +57,7 @@ q: 2 Søk om utveksling
 
 ---
 type: qna
-q: 3 Søk om forhåndsgodkjenning av emner
+q: 3. Søk om forhåndsgodkjenning av emner
 ---
 - Du må søke om å få emnene du skal ta under utenlandsoppholdet forhåndsgodkjent.
 - Send først et utkast til fagplan per epost til [faglig studieveileder](studieveileder@komtek.ntnu.no) og fyll inn [søknadsskjemaet](https://nettskjema.no/a/453671) (krever innlogging via ID-porten) kun etter at planen din har blitt godkjent. Du vil normalt få tilbakemelding fra studieveileder innen 4-6 uker.
