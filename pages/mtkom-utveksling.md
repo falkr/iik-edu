@@ -14,7 +14,7 @@ Vil du dra på utveksling i 4./5. årskurs må du være registrert i 4./5. årsk
 :tip:
 Generell informasjon om utveksling for studenter finner du på [temasiden om utveksling (for studenter) på innsida](https://i.ntnu.no/utenlandsstudier) og undersidene inkludert:
 - [søknadsfrister for utenlandsstudier](https://i.ntnu.no/wiki/-/wiki/Norsk/S%C3%B8knadsfrister+for+utenlandsstudier)
-- [veiledere for utenlandsstudier ved Enhet for internasjonale relasjoner](https://i.ntnu.no/wiki/-/wiki/Norsk/Veiledere+for+utenlandsstudier) 
+- [veiledere for utenlandsstudier ved Enhet for internasjonale relasjoner (EIR)](https://i.ntnu.no/wiki/-/wiki/Norsk/Veiledere+for+utenlandsstudier) 
 - [studentrapportbasen](https://www.ntnu.no/studier/studier_i_utlandet/rapport/search.php)
 - [finansiering av utvekslingsopphold](https://i.ntnu.no/wiki/-/wiki/Norsk/Finansiering+av+utvekslingsopphold)
 - [praktiske forberedelser før utveksling](https://i.ntnu.no/wiki/-/wiki/Norsk/Praktiske+forberedelser+f%C3%B8r+utveksling)
@@ -79,7 +79,7 @@ q: 3. Søk om forhåndsgodkjenning av emner
 type: qna
 q: 4. Søk til det utenlandske lærestedet
 ---
-- Se "3. Søk til det utenlandske lærestedet" på [siden om søknad om utveksling i utlandet på innsida](https://i.ntnu.no/wiki/-/wiki/Norsk/S%C3%B8knad+om+utveksling+i+utlandet). Den aktuelle prosessen varierer fra lærested til lærested og land til land. Følg instruskene du får fra Enhet for internasjonale relasjoner og fra lærestedet.
+- Se "3. Søk til det utenlandske lærestedet" på [siden om søknad om utveksling i utlandet på innsida](https://i.ntnu.no/wiki/-/wiki/Norsk/S%C3%B8knad+om+utveksling+i+utlandet). Den aktuelle prosessen varierer fra lærested til lærested og land til land. Følg instruskene du får fra Enhet for internasjonale relasjoner (EIR) og fra lærestedet.
 
 
 
