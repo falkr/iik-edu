@@ -75,13 +75,12 @@ q: 3 Søk om forhåndsgodkjenning av emner
 - Når fagplanen din er godkjent, fyll inn [søknadsskjemaet](https://nettskjema.no/a/453671) (krever innlogging via ID-porten) og gi deretter beskjed til [faglig studieveileder](studieveileder@komtek.ntnu.no). 
 
 
-
-
 ---
 type: qna
 q: 4. Søk til det utenlandske lærestedet
 - Se "3. Søk til det utenlandske lærestedet" på [siden om søknad om utveksling i utlandet på innsida](https://i.ntnu.no/wiki/-/wiki/Norsk/S%C3%B8knad+om+utveksling+i+utlandet). Den aktuelle prosessen varierer fra lærested til lærested og land til land. Følg instruskene du får fra Enhet for internasjonale relasjoner og fra lærestedet.
 ---
+
 
 ---
 type: qna
